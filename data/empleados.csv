@@ -1,0 +1,1177 @@
+mes,area,pais,headcount,costo_mensual_usd,rotacion_12m_pct,vacantes_abiertas
+2024-09,Producto y Tecnología,Colombia,331,2257026,9.7,8
+2024-09,Producto y Tecnología,México,133,913999,10.2,3
+2024-09,Producto y Tecnología,Ecuador,56,412340,15.0,0
+2024-09,Producto y Tecnología,Perú,37,259347,10.5,0
+2024-09,Producto y Tecnología,Uruguay,29,195251,9.9,1
+2024-09,Producto y Tecnología,Chile,13,94180,15.6,1
+2024-09,Producto y Tecnología,Remoto / otros,10,70375,10.7,1
+2024-09,Servicio al Cliente,Colombia,284,675691,18.8,2
+2024-09,Servicio al Cliente,México,114,265237,21.6,4
+2024-09,Servicio al Cliente,Ecuador,48,116843,20.1,2
+2024-09,Servicio al Cliente,Perú,32,77853,16.2,1
+2024-09,Servicio al Cliente,Uruguay,25,58582,16.7,2
+2024-09,Servicio al Cliente,Chile,11,26225,20.5,0
+2024-09,Servicio al Cliente,Remoto / otros,8,17616,17.6,0
+2024-09,Comercial,Colombia,205,618939,15.3,8
+2024-09,Comercial,México,82,262922,17.1,1
+2024-09,Comercial,Ecuador,35,104820,13.9,0
+2024-09,Comercial,Perú,23,70010,12.3,1
+2024-09,Comercial,Uruguay,18,57619,10.1,0
+2024-09,Comercial,Chile,8,24471,14.0,0
+2024-09,Comercial,Remoto / otros,6,18519,10.0,0
+2024-09,Mercadeo,Colombia,61,216140,7.3,0
+2024-09,Mercadeo,México,24,89123,10.1,0
+2024-09,Mercadeo,Ecuador,10,36005,8.8,1
+2024-09,Mercadeo,Perú,6,21033,10.2,0
+2024-09,Mercadeo,Uruguay,5,18070,12.8,0
+2024-09,Mercadeo,Chile,2,7459,8.0,0
+2024-09,Mercadeo,Remoto / otros,1,3672,7.7,0
+2024-09,Operaciones,Colombia,85,235509,9.5,0
+2024-09,Operaciones,México,34,95036,11.4,0
+2024-09,Operaciones,Ecuador,14,38859,12.8,1
+2024-09,Operaciones,Perú,9,24324,10.9,0
+2024-09,Operaciones,Uruguay,7,20085,10.6,0
+2024-09,Operaciones,Chile,3,8276,11.9,0
+2024-09,Operaciones,Remoto / otros,2,5132,11.0,0
+2024-09,Finanzas y Administración,Colombia,55,228345,9.8,1
+2024-09,Finanzas y Administración,México,22,93224,15.8,0
+2024-09,Finanzas y Administración,Ecuador,9,36710,9.7,0
+2024-09,Finanzas y Administración,Perú,6,25989,10.9,1
+2024-09,Finanzas y Administración,Uruguay,4,15953,10.8,1
+2024-09,Finanzas y Administración,Chile,2,8468,12.8,0
+2024-09,Finanzas y Administración,Remoto / otros,1,4219,10.7,0
+2024-09,Gente y Cultura,Colombia,37,120676,11.1,1
+2024-09,Gente y Cultura,México,14,47619,10.7,0
+2024-09,Gente y Cultura,Ecuador,6,21073,5.9,0
+2024-09,Gente y Cultura,Perú,4,13925,17.5,0
+2024-09,Gente y Cultura,Uruguay,3,10094,11.1,0
+2024-09,Gente y Cultura,Chile,1,3589,12.4,0
+2024-09,Gente y Cultura,Remoto / otros,1,3325,10.8,0
+2024-10,Producto y Tecnología,Colombia,327,2279933,12.1,10
+2024-10,Producto y Tecnología,México,131,903937,12.9,4
+2024-10,Producto y Tecnología,Ecuador,55,370914,7.4,0
+2024-10,Producto y Tecnología,Perú,36,248855,12.7,1
+2024-10,Producto y Tecnología,Uruguay,29,194007,12.6,0
+2024-10,Producto y Tecnología,Chile,13,94980,13.0,0
+2024-10,Producto y Tecnología,Remoto / otros,10,67430,11.7,0
+2024-10,Servicio al Cliente,Colombia,281,654739,21.3,10
+2024-10,Servicio al Cliente,México,113,273319,19.3,3
+2024-10,Servicio al Cliente,Ecuador,47,117886,21.8,3
+2024-10,Servicio al Cliente,Perú,31,76969,18.7,1
+2024-10,Servicio al Cliente,Uruguay,25,58735,16.7,1
+2024-10,Servicio al Cliente,Chile,11,27382,17.2,1
+2024-10,Servicio al Cliente,Remoto / otros,8,19240,17.7,2
+2024-10,Comercial,Colombia,203,643494,8.3,4
+2024-10,Comercial,México,82,243592,10.4,2
+2024-10,Comercial,Ecuador,34,105441,10.0,2
+2024-10,Comercial,Perú,22,69259,11.0,0
+2024-10,Comercial,Uruguay,18,56126,9.7,1
+2024-10,Comercial,Chile,8,24722,13.3,0
+2024-10,Comercial,Remoto / otros,6,19156,10.2,0
+2024-10,Mercadeo,Colombia,60,218833,11.1,0
+2024-10,Mercadeo,México,24,88915,11.8,0
+2024-10,Mercadeo,Ecuador,10,36469,9.1,0
+2024-10,Mercadeo,Perú,6,21541,16.2,0
+2024-10,Mercadeo,Uruguay,5,18245,15.8,0
+2024-10,Mercadeo,Chile,2,6894,10.2,1
+2024-10,Mercadeo,Remoto / otros,1,3557,13.3,0
+2024-10,Operaciones,Colombia,85,229895,7.6,2
+2024-10,Operaciones,México,34,91522,11.0,1
+2024-10,Operaciones,Ecuador,14,40430,11.4,0
+2024-10,Operaciones,Perú,9,24809,10.8,3
+2024-10,Operaciones,Uruguay,7,19547,11.0,0
+2024-10,Operaciones,Chile,3,8812,11.6,0
+2024-10,Operaciones,Remoto / otros,2,5832,6.2,0
+2024-10,Finanzas y Administración,Colombia,54,226213,15.4,0
+2024-10,Finanzas y Administración,México,21,86767,8.7,1
+2024-10,Finanzas y Administración,Ecuador,9,37442,10.9,0
+2024-10,Finanzas y Administración,Perú,6,25334,14.0,2
+2024-10,Finanzas y Administración,Uruguay,4,16351,9.2,0
+2024-10,Finanzas y Administración,Chile,2,8530,10.6,1
+2024-10,Finanzas y Administración,Remoto / otros,1,4281,10.1,0
+2024-10,Gente y Cultura,Colombia,36,120809,10.4,2
+2024-10,Gente y Cultura,México,14,47901,12.2,0
+2024-10,Gente y Cultura,Ecuador,6,21280,9.9,0
+2024-10,Gente y Cultura,Perú,4,13694,12.9,1
+2024-10,Gente y Cultura,Uruguay,3,10257,12.3,0
+2024-10,Gente y Cultura,Chile,1,3573,10.6,1
+2024-10,Gente y Cultura,Remoto / otros,1,3521,10.9,0
+2024-11,Producto y Tecnología,Colombia,333,2337471,14.2,12
+2024-11,Producto y Tecnología,México,134,924829,11.5,1
+2024-11,Producto y Tecnología,Ecuador,56,395018,13.0,3
+2024-11,Producto y Tecnología,Perú,37,246317,9.4,2
+2024-11,Producto y Tecnología,Uruguay,30,212312,13.0,0
+2024-11,Producto y Tecnología,Chile,13,87509,8.9,0
+2024-11,Producto y Tecnología,Remoto / otros,10,70660,7.8,1
+2024-11,Servicio al Cliente,Colombia,286,671587,18.7,9
+2024-11,Servicio al Cliente,México,115,264696,17.3,6
+2024-11,Servicio al Cliente,Ecuador,48,119921,16.1,2
+2024-11,Servicio al Cliente,Perú,32,78741,19.2,1
+2024-11,Servicio al Cliente,Uruguay,25,57411,18.9,1
+2024-11,Servicio al Cliente,Chile,11,26772,20.4,0
+2024-11,Servicio al Cliente,Remoto / otros,9,21656,17.1,0
+2024-11,Comercial,Colombia,207,634570,5.3,7
+2024-11,Comercial,México,83,270938,10.5,0
+2024-11,Comercial,Ecuador,35,115090,10.2,3
+2024-11,Comercial,Perú,23,68098,11.2,0
+2024-11,Comercial,Uruguay,18,55146,10.6,0
+2024-11,Comercial,Chile,8,25584,8.4,0
+2024-11,Comercial,Remoto / otros,6,19184,14.0,0
+2024-11,Mercadeo,Colombia,62,217317,16.1,1
+2024-11,Mercadeo,México,24,85571,12.3,0
+2024-11,Mercadeo,Ecuador,10,35168,11.1,0
+2024-11,Mercadeo,Perú,6,21086,10.6,0
+2024-11,Mercadeo,Uruguay,5,18070,5.8,0
+2024-11,Mercadeo,Chile,2,7113,12.1,0
+2024-11,Mercadeo,Remoto / otros,1,3666,9.9,0
+2024-11,Operaciones,Colombia,86,230891,13.3,3
+2024-11,Operaciones,México,34,92706,12.5,1
+2024-11,Operaciones,Ecuador,14,39103,7.7,1
+2024-11,Operaciones,Perú,9,24557,14.3,1
+2024-11,Operaciones,Uruguay,7,18708,14.9,1
+2024-11,Operaciones,Chile,3,8445,8.4,0
+2024-11,Operaciones,Remoto / otros,2,5736,16.5,1
+2024-11,Finanzas y Administración,Colombia,55,221081,12.5,2
+2024-11,Finanzas y Administración,México,22,89084,10.7,1
+2024-11,Finanzas y Administración,Ecuador,9,39120,14.8,1
+2024-11,Finanzas y Administración,Perú,6,25054,10.9,0
+2024-11,Finanzas y Administración,Uruguay,5,21720,8.9,0
+2024-11,Finanzas y Administración,Chile,2,8296,10.1,0
+2024-11,Finanzas y Administración,Remoto / otros,1,4316,11.4,0
+2024-11,Gente y Cultura,Colombia,37,125854,13.7,2
+2024-11,Gente y Cultura,México,15,48637,5.0,0
+2024-11,Gente y Cultura,Ecuador,6,21421,13.0,1
+2024-11,Gente y Cultura,Perú,4,13094,12.7,0
+2024-11,Gente y Cultura,Uruguay,3,9779,10.2,0
+2024-11,Gente y Cultura,Chile,1,3355,13.2,0
+2024-11,Gente y Cultura,Remoto / otros,1,3409,11.2,0
+2024-12,Producto y Tecnología,Colombia,335,2402072,11.4,7
+2024-12,Producto y Tecnología,México,135,911770,11.2,7
+2024-12,Producto y Tecnología,Ecuador,57,400231,16.2,2
+2024-12,Producto y Tecnología,Perú,37,252672,9.4,0
+2024-12,Producto y Tecnología,Uruguay,30,204855,10.7,0
+2024-12,Producto y Tecnología,Chile,13,94236,10.9,0
+2024-12,Producto y Tecnología,Remoto / otros,10,68234,12.0,1
+2024-12,Servicio al Cliente,Colombia,287,689661,16.8,4
+2024-12,Servicio al Cliente,México,116,280499,16.9,2
+2024-12,Servicio al Cliente,Ecuador,48,114087,13.7,0
+2024-12,Servicio al Cliente,Perú,32,73508,22.0,0
+2024-12,Servicio al Cliente,Uruguay,26,57962,17.2,0
+2024-12,Servicio al Cliente,Chile,11,27582,18.1,1
+2024-12,Servicio al Cliente,Remoto / otros,9,22232,17.8,0
+2024-12,Comercial,Colombia,208,666276,11.8,9
+2024-12,Comercial,México,83,259968,11.5,2
+2024-12,Comercial,Ecuador,35,103288,15.4,2
+2024-12,Comercial,Perú,23,74063,11.7,2
+2024-12,Comercial,Uruguay,18,60099,11.1,2
+2024-12,Comercial,Chile,8,25020,15.0,1
+2024-12,Comercial,Remoto / otros,6,18842,9.8,0
+2024-12,Mercadeo,Colombia,62,215505,11.9,5
+2024-12,Mercadeo,México,25,90404,14.5,1
+2024-12,Mercadeo,Ecuador,10,37814,9.0,0
+2024-12,Mercadeo,Perú,7,25752,14.7,0
+2024-12,Mercadeo,Uruguay,5,18764,11.7,0
+2024-12,Mercadeo,Chile,2,7242,13.8,0
+2024-12,Mercadeo,Remoto / otros,1,3621,15.5,1
+2024-12,Operaciones,Colombia,87,246489,10.4,1
+2024-12,Operaciones,México,35,96752,11.8,0
+2024-12,Operaciones,Ecuador,14,39083,15.9,1
+2024-12,Operaciones,Perú,9,24919,9.3,0
+2024-12,Operaciones,Uruguay,7,18835,14.8,0
+2024-12,Operaciones,Chile,3,8250,15.2,0
+2024-12,Operaciones,Remoto / otros,2,5381,14.0,0
+2024-12,Finanzas y Administración,Colombia,55,232531,12.3,1
+2024-12,Finanzas y Administración,México,22,90510,13.6,0
+2024-12,Finanzas y Administración,Ecuador,9,39123,14.5,1
+2024-12,Finanzas y Administración,Perú,6,24443,10.5,0
+2024-12,Finanzas y Administración,Uruguay,5,21284,13.9,0
+2024-12,Finanzas y Administración,Chile,2,8685,12.5,0
+2024-12,Finanzas y Administración,Remoto / otros,1,4209,17.1,0
+2024-12,Gente y Cultura,Colombia,37,128657,15.0,2
+2024-12,Gente y Cultura,México,15,49934,8.8,0
+2024-12,Gente y Cultura,Ecuador,6,20790,13.1,0
+2024-12,Gente y Cultura,Perú,4,14035,13.0,0
+2024-12,Gente y Cultura,Uruguay,3,10375,9.9,0
+2024-12,Gente y Cultura,Chile,1,3361,10.0,0
+2024-12,Gente y Cultura,Remoto / otros,1,3514,14.5,0
+2025-01,Producto y Tecnología,Colombia,338,2341090,12.5,8
+2025-01,Producto y Tecnología,México,136,903881,13.5,8
+2025-01,Producto y Tecnología,Ecuador,57,407183,12.5,2
+2025-01,Producto y Tecnología,Perú,38,283603,12.3,2
+2025-01,Producto y Tecnología,Uruguay,30,204230,17.7,3
+2025-01,Producto y Tecnología,Chile,13,89947,13.3,1
+2025-01,Producto y Tecnología,Remoto / otros,10,72167,11.5,0
+2025-01,Servicio al Cliente,Colombia,291,690941,17.6,4
+2025-01,Servicio al Cliente,México,117,278590,19.8,4
+2025-01,Servicio al Cliente,Ecuador,49,120258,23.1,0
+2025-01,Servicio al Cliente,Perú,32,78194,19.2,1
+2025-01,Servicio al Cliente,Uruguay,26,60001,18.7,0
+2025-01,Servicio al Cliente,Chile,11,26814,15.9,2
+2025-01,Servicio al Cliente,Remoto / otros,9,21611,16.3,0
+2025-01,Comercial,Colombia,210,617184,11.8,2
+2025-01,Comercial,México,84,257402,9.2,1
+2025-01,Comercial,Ecuador,35,104087,18.4,1
+2025-01,Comercial,Perú,23,66131,17.6,1
+2025-01,Comercial,Uruguay,19,57739,11.6,0
+2025-01,Comercial,Chile,8,23629,11.6,0
+2025-01,Comercial,Remoto / otros,6,18952,14.3,2
+2025-01,Mercadeo,Colombia,63,218489,9.0,1
+2025-01,Mercadeo,México,25,91402,8.6,1
+2025-01,Mercadeo,Ecuador,10,36063,14.6,0
+2025-01,Mercadeo,Perú,7,24553,11.8,0
+2025-01,Mercadeo,Uruguay,5,17607,10.5,0
+2025-01,Mercadeo,Chile,2,7411,9.4,0
+2025-01,Mercadeo,Remoto / otros,1,3673,11.2,0
+2025-01,Operaciones,Colombia,87,248908,11.2,2
+2025-01,Operaciones,México,35,95281,13.7,1
+2025-01,Operaciones,Ecuador,14,40114,14.2,0
+2025-01,Operaciones,Perú,9,24166,9.7,0
+2025-01,Operaciones,Uruguay,7,19560,14.2,0
+2025-01,Operaciones,Chile,3,8851,6.7,0
+2025-01,Operaciones,Remoto / otros,2,5676,10.8,0
+2025-01,Finanzas y Administración,Colombia,56,228362,10.6,1
+2025-01,Finanzas y Administración,México,22,93536,8.1,0
+2025-01,Finanzas y Administración,Ecuador,9,38268,9.4,1
+2025-01,Finanzas y Administración,Perú,6,25195,11.5,1
+2025-01,Finanzas y Administración,Uruguay,5,20714,8.7,0
+2025-01,Finanzas y Administración,Chile,2,8434,11.0,1
+2025-01,Finanzas y Administración,Remoto / otros,1,4056,15.0,0
+2025-01,Gente y Cultura,Colombia,38,132763,11.5,1
+2025-01,Gente y Cultura,México,15,49609,9.7,0
+2025-01,Gente y Cultura,Ecuador,6,20185,12.5,0
+2025-01,Gente y Cultura,Perú,4,13470,13.9,0
+2025-01,Gente y Cultura,Uruguay,3,10408,12.3,0
+2025-01,Gente y Cultura,Chile,1,3516,11.4,0
+2025-01,Gente y Cultura,Remoto / otros,1,3453,13.1,0
+2025-02,Producto y Tecnología,Colombia,343,2345266,11.3,6
+2025-02,Producto y Tecnología,México,138,936977,15.9,4
+2025-02,Producto y Tecnología,Ecuador,58,412682,12.9,2
+2025-02,Producto y Tecnología,Perú,38,264749,13.1,1
+2025-02,Producto y Tecnología,Uruguay,31,221103,12.8,1
+2025-02,Producto y Tecnología,Chile,13,94390,7.6,0
+2025-02,Producto y Tecnología,Remoto / otros,10,66133,8.6,0
+2025-02,Servicio al Cliente,Colombia,295,700873,18.9,8
+2025-02,Servicio al Cliente,México,118,285926,16.4,3
+2025-02,Servicio al Cliente,Ecuador,50,120017,20.3,1
+2025-02,Servicio al Cliente,Perú,33,74824,21.2,0
+2025-02,Servicio al Cliente,Uruguay,26,61071,19.2,0
+2025-02,Servicio al Cliente,Chile,12,28402,22.1,0
+2025-02,Servicio al Cliente,Remoto / otros,9,21487,18.8,1
+2025-02,Comercial,Colombia,213,645845,14.7,6
+2025-02,Comercial,México,86,270326,11.6,4
+2025-02,Comercial,Ecuador,36,111126,15.9,0
+2025-02,Comercial,Perú,24,75767,7.9,1
+2025-02,Comercial,Uruguay,19,62700,7.0,0
+2025-02,Comercial,Chile,8,25254,11.0,1
+2025-02,Comercial,Remoto / otros,6,18568,10.0,0
+2025-02,Mercadeo,Colombia,63,235254,9.6,1
+2025-02,Mercadeo,México,25,88464,14.4,1
+2025-02,Mercadeo,Ecuador,10,36389,14.3,0
+2025-02,Mercadeo,Perú,7,26622,8.8,0
+2025-02,Mercadeo,Uruguay,5,18332,10.6,0
+2025-02,Mercadeo,Chile,2,7024,11.1,1
+2025-02,Mercadeo,Remoto / otros,2,7505,14.9,0
+2025-02,Operaciones,Colombia,89,241743,14.9,1
+2025-02,Operaciones,México,35,99503,10.7,0
+2025-02,Operaciones,Ecuador,15,40613,10.6,1
+2025-02,Operaciones,Perú,10,29223,14.9,0
+2025-02,Operaciones,Uruguay,8,23061,11.2,0
+2025-02,Operaciones,Chile,3,8516,13.4,0
+2025-02,Operaciones,Remoto / otros,2,5544,8.4,0
+2025-02,Finanzas y Administración,Colombia,57,238193,13.5,0
+2025-02,Finanzas y Administración,México,23,99104,12.3,1
+2025-02,Finanzas y Administración,Ecuador,9,37534,10.6,1
+2025-02,Finanzas y Administración,Perú,6,25009,11.6,1
+2025-02,Finanzas y Administración,Uruguay,5,20886,9.4,0
+2025-02,Finanzas y Administración,Chile,2,8711,9.0,0
+2025-02,Finanzas y Administración,Remoto / otros,1,4331,9.1,0
+2025-02,Gente y Cultura,Colombia,38,136711,9.2,1
+2025-02,Gente y Cultura,México,15,51108,14.4,0
+2025-02,Gente y Cultura,Ecuador,6,20214,14.3,0
+2025-02,Gente y Cultura,Perú,4,13598,13.8,0
+2025-02,Gente y Cultura,Uruguay,3,10289,9.0,0
+2025-02,Gente y Cultura,Chile,1,3467,7.8,0
+2025-02,Gente y Cultura,Remoto / otros,1,3305,11.0,1
+2025-03,Producto y Tecnología,Colombia,347,2457540,11.4,12
+2025-03,Producto y Tecnología,México,140,916518,12.6,3
+2025-03,Producto y Tecnología,Ecuador,59,401646,10.5,2
+2025-03,Producto y Tecnología,Perú,39,270432,14.4,0
+2025-03,Producto y Tecnología,Uruguay,31,218006,11.8,1
+2025-03,Producto y Tecnología,Chile,14,100882,9.5,0
+2025-03,Producto y Tecnología,Remoto / otros,10,65649,15.7,1
+2025-03,Servicio al Cliente,Colombia,298,728535,15.1,12
+2025-03,Servicio al Cliente,México,120,281332,15.4,7
+2025-03,Servicio al Cliente,Ecuador,50,124241,20.2,1
+2025-03,Servicio al Cliente,Perú,33,82352,13.8,0
+2025-03,Servicio al Cliente,Uruguay,27,64446,19.7,1
+2025-03,Servicio al Cliente,Chile,12,29256,18.5,0
+2025-03,Servicio al Cliente,Remoto / otros,9,20786,20.8,0
+2025-03,Comercial,Colombia,216,685672,13.3,7
+2025-03,Comercial,México,87,287846,6.1,3
+2025-03,Comercial,Ecuador,36,113894,14.3,1
+2025-03,Comercial,Perú,24,73011,13.7,2
+2025-03,Comercial,Uruguay,19,58521,12.3,0
+2025-03,Comercial,Chile,8,24286,14.4,0
+2025-03,Comercial,Remoto / otros,6,19492,9.6,0
+2025-03,Mercadeo,Colombia,64,239601,11.2,0
+2025-03,Mercadeo,México,26,91709,12.5,2
+2025-03,Mercadeo,Ecuador,10,36566,14.9,0
+2025-03,Mercadeo,Perú,7,24979,13.6,0
+2025-03,Mercadeo,Uruguay,5,18267,10.2,1
+2025-03,Mercadeo,Chile,2,7310,7.5,0
+2025-03,Mercadeo,Remoto / otros,2,7427,13.9,0
+2025-03,Operaciones,Colombia,90,256174,8.4,5
+2025-03,Operaciones,México,36,104771,13.3,0
+2025-03,Operaciones,Ecuador,15,40989,14.1,1
+2025-03,Operaciones,Perú,10,27459,12.4,0
+2025-03,Operaciones,Uruguay,8,22667,8.5,1
+2025-03,Operaciones,Chile,3,8179,15.9,0
+2025-03,Operaciones,Remoto / otros,2,5677,14.4,0
+2025-03,Finanzas y Administración,Colombia,57,242217,15.3,0
+2025-03,Finanzas y Administración,México,23,101562,10.8,0
+2025-03,Finanzas y Administración,Ecuador,9,39757,13.3,1
+2025-03,Finanzas y Administración,Perú,6,25013,9.3,0
+2025-03,Finanzas y Administración,Uruguay,5,22540,12.8,0
+2025-03,Finanzas y Administración,Chile,2,8652,11.9,0
+2025-03,Finanzas y Administración,Remoto / otros,1,4019,11.4,0
+2025-03,Gente y Cultura,Colombia,38,122763,6.2,1
+2025-03,Gente y Cultura,México,15,52269,10.7,2
+2025-03,Gente y Cultura,Ecuador,6,21404,12.8,0
+2025-03,Gente y Cultura,Perú,4,13928,12.0,0
+2025-03,Gente y Cultura,Uruguay,3,10305,13.2,0
+2025-03,Gente y Cultura,Chile,1,3424,9.8,0
+2025-03,Gente y Cultura,Remoto / otros,1,3339,14.5,0
+2025-04,Producto y Tecnología,Colombia,349,2440494,14.8,14
+2025-04,Producto y Tecnología,México,140,1024404,12.9,7
+2025-04,Producto y Tecnología,Ecuador,59,401263,12.4,5
+2025-04,Producto y Tecnología,Perú,39,274823,13.1,1
+2025-04,Producto y Tecnología,Uruguay,31,215734,11.2,1
+2025-04,Producto y Tecnología,Chile,14,95687,10.5,0
+2025-04,Producto y Tecnología,Remoto / otros,10,69098,9.3,0
+2025-04,Servicio al Cliente,Colombia,300,756333,16.1,4
+2025-04,Servicio al Cliente,México,120,294764,20.2,3
+2025-04,Servicio al Cliente,Ecuador,51,126004,16.9,3
+2025-04,Servicio al Cliente,Perú,33,85033,14.9,2
+2025-04,Servicio al Cliente,Uruguay,27,64933,15.4,1
+2025-04,Servicio al Cliente,Chile,12,28600,20.9,0
+2025-04,Servicio al Cliente,Remoto / otros,9,21173,16.2,1
+2025-04,Comercial,Colombia,217,656418,7.3,12
+2025-04,Comercial,México,87,268265,14.9,2
+2025-04,Comercial,Ecuador,36,112740,15.5,1
+2025-04,Comercial,Perú,24,74385,14.4,3
+2025-04,Comercial,Uruguay,19,59810,11.4,1
+2025-04,Comercial,Chile,8,25753,14.3,0
+2025-04,Comercial,Remoto / otros,6,18234,11.6,0
+2025-04,Mercadeo,Colombia,64,221834,13.7,5
+2025-04,Mercadeo,México,26,96197,16.4,0
+2025-04,Mercadeo,Ecuador,11,39998,10.6,0
+2025-04,Mercadeo,Perú,7,24521,10.9,0
+2025-04,Mercadeo,Uruguay,5,17430,14.9,0
+2025-04,Mercadeo,Chile,2,7363,12.8,0
+2025-04,Mercadeo,Remoto / otros,2,7227,18.1,0
+2025-04,Operaciones,Colombia,90,250051,14.0,1
+2025-04,Operaciones,México,36,101572,11.7,1
+2025-04,Operaciones,Ecuador,15,41785,7.7,0
+2025-04,Operaciones,Perú,10,27053,15.7,0
+2025-04,Operaciones,Uruguay,8,20821,13.8,0
+2025-04,Operaciones,Chile,3,8325,11.0,0
+2025-04,Operaciones,Remoto / otros,2,5743,12.3,0
+2025-04,Finanzas y Administración,Colombia,58,238589,8.8,1
+2025-04,Finanzas y Administración,México,23,95499,9.8,1
+2025-04,Finanzas y Administración,Ecuador,9,38975,11.9,0
+2025-04,Finanzas y Administración,Perú,6,25307,11.8,0
+2025-04,Finanzas y Administración,Uruguay,5,21140,9.8,0
+2025-04,Finanzas y Administración,Chile,2,8386,11.4,0
+2025-04,Finanzas y Administración,Remoto / otros,1,4306,15.6,0
+2025-04,Gente y Cultura,Colombia,39,134939,13.2,0
+2025-04,Gente y Cultura,México,15,49761,14.7,0
+2025-04,Gente y Cultura,Ecuador,6,19997,15.3,0
+2025-04,Gente y Cultura,Perú,4,13704,19.0,0
+2025-04,Gente y Cultura,Uruguay,3,10295,13.4,0
+2025-04,Gente y Cultura,Chile,1,3397,10.9,0
+2025-04,Gente y Cultura,Remoto / otros,1,3357,13.2,0
+2025-05,Producto y Tecnología,Colombia,347,2420661,15.5,8
+2025-05,Producto y Tecnología,México,139,955948,12.8,3
+2025-05,Producto y Tecnología,Ecuador,59,399722,12.3,1
+2025-05,Producto y Tecnología,Perú,39,274894,12.5,2
+2025-05,Producto y Tecnología,Uruguay,31,208967,10.3,0
+2025-05,Producto y Tecnología,Chile,14,94603,11.5,0
+2025-05,Producto y Tecnología,Remoto / otros,10,70911,10.6,0
+2025-05,Servicio al Cliente,Colombia,298,738634,21.5,10
+2025-05,Servicio al Cliente,México,120,286083,15.8,5
+2025-05,Servicio al Cliente,Ecuador,50,118206,15.5,3
+2025-05,Servicio al Cliente,Perú,33,75706,25.1,1
+2025-05,Servicio al Cliente,Uruguay,26,62040,20.3,0
+2025-05,Servicio al Cliente,Chile,12,28784,20.0,0
+2025-05,Servicio al Cliente,Remoto / otros,9,20735,16.4,0
+2025-05,Comercial,Colombia,215,644431,11.9,6
+2025-05,Comercial,México,86,269158,12.3,4
+2025-05,Comercial,Ecuador,36,109559,10.5,0
+2025-05,Comercial,Perú,24,75323,18.0,1
+2025-05,Comercial,Uruguay,19,59244,13.1,2
+2025-05,Comercial,Chile,8,24691,12.0,0
+2025-05,Comercial,Remoto / otros,6,17855,12.2,1
+2025-05,Mercadeo,Colombia,64,223545,11.4,0
+2025-05,Mercadeo,México,25,89746,7.1,2
+2025-05,Mercadeo,Ecuador,10,37141,13.3,0
+2025-05,Mercadeo,Perú,7,25273,9.2,1
+2025-05,Mercadeo,Uruguay,5,17688,11.9,0
+2025-05,Mercadeo,Chile,2,7103,10.1,0
+2025-05,Mercadeo,Remoto / otros,2,7020,13.0,0
+2025-05,Operaciones,Colombia,90,244260,12.2,2
+2025-05,Operaciones,México,36,101150,11.3,2
+2025-05,Operaciones,Ecuador,15,42934,10.8,1
+2025-05,Operaciones,Perú,10,29152,9.5,1
+2025-05,Operaciones,Uruguay,8,21690,14.7,0
+2025-05,Operaciones,Chile,3,8454,9.5,0
+2025-05,Operaciones,Remoto / otros,2,5547,11.8,0
+2025-05,Finanzas y Administración,Colombia,57,252092,11.2,3
+2025-05,Finanzas y Administración,México,23,95175,12.4,0
+2025-05,Finanzas y Administración,Ecuador,9,36588,10.0,0
+2025-05,Finanzas y Administración,Perú,6,24469,10.3,0
+2025-05,Finanzas y Administración,Uruguay,5,21516,13.1,0
+2025-05,Finanzas y Administración,Chile,2,9148,13.2,0
+2025-05,Finanzas y Administración,Remoto / otros,1,4238,15.4,0
+2025-05,Gente y Cultura,Colombia,38,130965,14.0,1
+2025-05,Gente y Cultura,México,15,52058,11.0,1
+2025-05,Gente y Cultura,Ecuador,6,20185,12.5,0
+2025-05,Gente y Cultura,Perú,4,13336,12.9,0
+2025-05,Gente y Cultura,Uruguay,3,10234,8.9,0
+2025-05,Gente y Cultura,Chile,1,3239,13.1,0
+2025-05,Gente y Cultura,Remoto / otros,1,3304,7.1,0
+2025-06,Producto y Tecnología,Colombia,350,2431595,13.1,11
+2025-06,Producto y Tecnología,México,141,1022718,10.8,3
+2025-06,Producto y Tecnología,Ecuador,59,400718,14.4,0
+2025-06,Producto y Tecnología,Perú,39,268628,12.0,1
+2025-06,Producto y Tecnología,Uruguay,31,215081,11.7,4
+2025-06,Producto y Tecnología,Chile,14,94617,12.6,0
+2025-06,Producto y Tecnología,Remoto / otros,11,78224,13.8,0
+2025-06,Servicio al Cliente,Colombia,300,716754,19.2,10
+2025-06,Servicio al Cliente,México,121,293466,20.4,7
+2025-06,Servicio al Cliente,Ecuador,51,124840,19.8,0
+2025-06,Servicio al Cliente,Perú,33,81684,17.6,0
+2025-06,Servicio al Cliente,Uruguay,27,63075,16.4,0
+2025-06,Servicio al Cliente,Chile,12,27241,16.4,0
+2025-06,Servicio al Cliente,Remoto / otros,9,20879,21.5,0
+2025-06,Comercial,Colombia,217,696555,11.1,8
+2025-06,Comercial,México,87,283712,8.7,2
+2025-06,Comercial,Ecuador,37,111514,16.1,2
+2025-06,Comercial,Perú,24,76432,15.1,1
+2025-06,Comercial,Uruguay,19,57298,11.3,1
+2025-06,Comercial,Chile,8,23985,7.9,0
+2025-06,Comercial,Remoto / otros,6,19097,10.4,1
+2025-06,Mercadeo,Colombia,65,242704,13.3,0
+2025-06,Mercadeo,México,26,91423,8.2,1
+2025-06,Mercadeo,Ecuador,11,39554,12.7,1
+2025-06,Mercadeo,Perú,7,25026,10.8,0
+2025-06,Mercadeo,Uruguay,5,18564,8.6,0
+2025-06,Mercadeo,Chile,2,7099,14.4,0
+2025-06,Mercadeo,Remoto / otros,2,7409,9.2,0
+2025-06,Operaciones,Colombia,90,260958,10.3,0
+2025-06,Operaciones,México,36,98874,13.1,1
+2025-06,Operaciones,Ecuador,15,41756,10.2,0
+2025-06,Operaciones,Perú,10,28129,11.9,0
+2025-06,Operaciones,Uruguay,8,22579,15.4,0
+2025-06,Operaciones,Chile,3,8346,10.4,0
+2025-06,Operaciones,Remoto / otros,2,5559,14.8,0
+2025-06,Finanzas y Administración,Colombia,58,239474,12.9,2
+2025-06,Finanzas y Administración,México,23,93226,14.9,0
+2025-06,Finanzas y Administración,Ecuador,9,36019,10.8,0
+2025-06,Finanzas y Administración,Perú,6,25854,10.8,0
+2025-06,Finanzas y Administración,Uruguay,5,21793,11.8,0
+2025-06,Finanzas y Administración,Chile,2,8337,9.2,0
+2025-06,Finanzas y Administración,Remoto / otros,1,3831,16.3,0
+2025-06,Gente y Cultura,Colombia,39,136383,13.0,3
+2025-06,Gente y Cultura,México,15,49533,14.6,1
+2025-06,Gente y Cultura,Ecuador,6,21015,13.1,0
+2025-06,Gente y Cultura,Perú,4,14764,7.4,0
+2025-06,Gente y Cultura,Uruguay,3,10402,14.4,0
+2025-06,Gente y Cultura,Chile,1,3442,7.8,0
+2025-06,Gente y Cultura,Remoto / otros,1,3362,7.8,0
+2025-07,Producto y Tecnología,Colombia,352,2474193,12.2,3
+2025-07,Producto y Tecnología,México,142,994109,14.3,5
+2025-07,Producto y Tecnología,Ecuador,59,406667,12.3,5
+2025-07,Producto y Tecnología,Perú,39,268164,12.4,1
+2025-07,Producto y Tecnología,Uruguay,31,216808,10.5,2
+2025-07,Producto y Tecnología,Chile,14,100635,15.8,0
+2025-07,Producto y Tecnología,Remoto / otros,11,78873,11.8,0
+2025-07,Servicio al Cliente,Colombia,303,724606,22.0,5
+2025-07,Servicio al Cliente,México,122,291408,19.4,2
+2025-07,Servicio al Cliente,Ecuador,51,119914,20.8,1
+2025-07,Servicio al Cliente,Perú,34,84173,18.0,1
+2025-07,Servicio al Cliente,Uruguay,27,66382,20.0,2
+2025-07,Servicio al Cliente,Chile,12,28813,19.5,0
+2025-07,Servicio al Cliente,Remoto / otros,9,21898,20.9,0
+2025-07,Comercial,Colombia,219,641092,16.4,6
+2025-07,Comercial,México,88,273687,11.4,0
+2025-07,Comercial,Ecuador,37,119296,15.9,1
+2025-07,Comercial,Perú,24,73791,10.1,3
+2025-07,Comercial,Uruguay,19,58059,13.6,1
+2025-07,Comercial,Chile,8,23914,11.8,0
+2025-07,Comercial,Remoto / otros,6,18152,12.8,0
+2025-07,Mercadeo,Colombia,65,236181,13.7,1
+2025-07,Mercadeo,México,26,95459,9.0,1
+2025-07,Mercadeo,Ecuador,11,40836,11.6,1
+2025-07,Mercadeo,Perú,7,25928,8.6,0
+2025-07,Mercadeo,Uruguay,5,17796,14.8,0
+2025-07,Mercadeo,Chile,2,7453,9.1,1
+2025-07,Mercadeo,Remoto / otros,2,7114,14.6,0
+2025-07,Operaciones,Colombia,91,258321,15.1,4
+2025-07,Operaciones,México,36,104408,12.3,0
+2025-07,Operaciones,Ecuador,15,41705,14.7,0
+2025-07,Operaciones,Perú,10,27945,13.1,1
+2025-07,Operaciones,Uruguay,8,22434,7.6,0
+2025-07,Operaciones,Chile,3,7866,8.3,0
+2025-07,Operaciones,Remoto / otros,2,5664,13.6,0
+2025-07,Finanzas y Administración,Colombia,58,237598,12.1,1
+2025-07,Finanzas y Administración,México,23,98337,15.3,1
+2025-07,Finanzas y Administración,Ecuador,9,39770,12.7,0
+2025-07,Finanzas y Administración,Perú,6,24511,8.7,0
+2025-07,Finanzas y Administración,Uruguay,5,21871,9.9,0
+2025-07,Finanzas y Administración,Chile,2,8670,8.6,0
+2025-07,Finanzas y Administración,Remoto / otros,1,4055,13.2,0
+2025-07,Gente y Cultura,Colombia,39,136979,8.4,0
+2025-07,Gente y Cultura,México,15,52762,12.2,1
+2025-07,Gente y Cultura,Ecuador,6,21580,12.3,0
+2025-07,Gente y Cultura,Perú,4,13698,10.1,0
+2025-07,Gente y Cultura,Uruguay,3,10684,8.8,0
+2025-07,Gente y Cultura,Chile,1,3226,10.0,0
+2025-07,Gente y Cultura,Remoto / otros,1,3247,14.8,0
+2025-08,Producto y Tecnología,Colombia,357,2517239,12.0,13
+2025-08,Producto y Tecnología,México,144,1010088,8.1,7
+2025-08,Producto y Tecnología,Ecuador,60,414950,8.9,2
+2025-08,Producto y Tecnología,Perú,40,274185,16.3,4
+2025-08,Producto y Tecnología,Uruguay,32,222994,16.3,2
+2025-08,Producto y Tecnología,Chile,14,97927,7.5,0
+2025-08,Producto y Tecnología,Remoto / otros,11,73596,11.3,1
+2025-08,Servicio al Cliente,Colombia,307,744597,12.0,13
+2025-08,Servicio al Cliente,México,123,285065,15.1,4
+2025-08,Servicio al Cliente,Ecuador,52,123951,21.7,2
+2025-08,Servicio al Cliente,Perú,34,80680,19.3,2
+2025-08,Servicio al Cliente,Uruguay,27,64044,18.9,2
+2025-08,Servicio al Cliente,Chile,12,28559,17.3,0
+2025-08,Servicio al Cliente,Remoto / otros,9,21423,19.6,0
+2025-08,Comercial,Colombia,222,706510,12.5,6
+2025-08,Comercial,México,89,249336,15.7,2
+2025-08,Comercial,Ecuador,37,119826,10.5,0
+2025-08,Comercial,Perú,25,77877,11.9,0
+2025-08,Comercial,Uruguay,20,62266,10.3,2
+2025-08,Comercial,Chile,9,28517,13.9,1
+2025-08,Comercial,Remoto / otros,6,19272,12.1,0
+2025-08,Mercadeo,Colombia,66,240490,14.0,2
+2025-08,Mercadeo,México,26,92162,13.7,1
+2025-08,Mercadeo,Ecuador,11,41903,13.5,0
+2025-08,Mercadeo,Perú,7,24575,9.0,0
+2025-08,Mercadeo,Uruguay,6,20496,8.5,0
+2025-08,Mercadeo,Chile,2,7419,12.5,0
+2025-08,Mercadeo,Remoto / otros,2,7201,13.4,0
+2025-08,Operaciones,Colombia,92,254219,18.8,6
+2025-08,Operaciones,México,37,96465,10.7,0
+2025-08,Operaciones,Ecuador,15,40909,12.9,0
+2025-08,Operaciones,Perú,10,27951,15.1,0
+2025-08,Operaciones,Uruguay,8,21825,8.7,0
+2025-08,Operaciones,Chile,3,8311,16.4,1
+2025-08,Operaciones,Remoto / otros,2,5473,11.4,0
+2025-08,Finanzas y Administración,Colombia,59,259730,8.2,1
+2025-08,Finanzas y Administración,México,24,100253,13.8,0
+2025-08,Finanzas y Administración,Ecuador,10,40611,12.9,1
+2025-08,Finanzas y Administración,Perú,6,23947,10.9,1
+2025-08,Finanzas y Administración,Uruguay,5,20192,11.3,0
+2025-08,Finanzas y Administración,Chile,2,8215,14.9,1
+2025-08,Finanzas y Administración,Remoto / otros,1,4342,12.9,0
+2025-08,Gente y Cultura,Colombia,40,137021,8.0,1
+2025-08,Gente y Cultura,México,16,56054,13.9,1
+2025-08,Gente y Cultura,Ecuador,6,20777,14.5,0
+2025-08,Gente y Cultura,Perú,4,14101,11.0,0
+2025-08,Gente y Cultura,Uruguay,3,10607,9.0,0
+2025-08,Gente y Cultura,Chile,1,3189,12.8,0
+2025-08,Gente y Cultura,Remoto / otros,1,3349,11.2,0
+2025-09,Producto y Tecnología,Colombia,358,2590785,7.1,13
+2025-09,Producto y Tecnología,México,144,995468,14.1,10
+2025-09,Producto y Tecnología,Ecuador,60,399273,8.6,0
+2025-09,Producto y Tecnología,Perú,40,276407,9.2,1
+2025-09,Producto y Tecnología,Uruguay,32,224718,11.5,0
+2025-09,Producto y Tecnología,Chile,14,99338,11.7,0
+2025-09,Producto y Tecnología,Remoto / otros,11,74455,11.8,0
+2025-09,Servicio al Cliente,Colombia,307,709829,17.8,10
+2025-09,Servicio al Cliente,México,124,302151,22.9,3
+2025-09,Servicio al Cliente,Ecuador,52,127297,18.1,1
+2025-09,Servicio al Cliente,Perú,34,80169,20.1,0
+2025-09,Servicio al Cliente,Uruguay,27,62203,18.0,0
+2025-09,Servicio al Cliente,Chile,12,27640,15.4,0
+2025-09,Servicio al Cliente,Remoto / otros,9,21340,19.9,0
+2025-09,Comercial,Colombia,222,671783,13.5,7
+2025-09,Comercial,México,89,270498,15.3,8
+2025-09,Comercial,Ecuador,37,108863,9.5,0
+2025-09,Comercial,Perú,25,78076,10.3,0
+2025-09,Comercial,Uruguay,20,61993,10.8,1
+2025-09,Comercial,Chile,9,27944,10.6,0
+2025-09,Comercial,Remoto / otros,7,22008,9.8,1
+2025-09,Mercadeo,Colombia,66,236678,12.4,4
+2025-09,Mercadeo,México,26,94345,13.1,1
+2025-09,Mercadeo,Ecuador,11,42214,14.9,0
+2025-09,Mercadeo,Perú,7,24473,12.5,0
+2025-09,Mercadeo,Uruguay,6,21566,8.4,0
+2025-09,Mercadeo,Chile,2,6896,12.4,0
+2025-09,Mercadeo,Remoto / otros,2,6861,12.0,0
+2025-09,Operaciones,Colombia,93,253906,10.1,3
+2025-09,Operaciones,México,37,101609,10.5,2
+2025-09,Operaciones,Ecuador,15,43305,12.5,0
+2025-09,Operaciones,Perú,10,27866,9.1,0
+2025-09,Operaciones,Uruguay,8,22789,8.9,0
+2025-09,Operaciones,Chile,3,8895,10.1,0
+2025-09,Operaciones,Remoto / otros,2,5771,12.6,0
+2025-09,Finanzas y Administración,Colombia,59,242403,13.9,2
+2025-09,Finanzas y Administración,México,24,102608,9.2,1
+2025-09,Finanzas y Administración,Ecuador,10,42201,9.3,0
+2025-09,Finanzas y Administración,Perú,6,24210,12.9,0
+2025-09,Finanzas y Administración,Uruguay,5,21751,8.9,0
+2025-09,Finanzas y Administración,Chile,2,8342,9.4,1
+2025-09,Finanzas y Administración,Remoto / otros,1,4117,9.0,0
+2025-09,Gente y Cultura,Colombia,40,132525,8.0,2
+2025-09,Gente y Cultura,México,16,54713,13.4,0
+2025-09,Gente y Cultura,Ecuador,6,21127,13.2,1
+2025-09,Gente y Cultura,Perú,4,13878,11.0,0
+2025-09,Gente y Cultura,Uruguay,3,10094,9.2,0
+2025-09,Gente y Cultura,Chile,1,3523,10.6,0
+2025-09,Gente y Cultura,Remoto / otros,1,3403,12.1,0
+2025-10,Producto y Tecnología,Colombia,362,2522652,11.4,6
+2025-10,Producto y Tecnología,México,145,1018155,9.5,4
+2025-10,Producto y Tecnología,Ecuador,61,425131,15.0,1
+2025-10,Producto y Tecnología,Perú,40,274227,14.3,1
+2025-10,Producto y Tecnología,Uruguay,32,226675,15.6,2
+2025-10,Producto y Tecnología,Chile,14,90196,11.0,1
+2025-10,Producto y Tecnología,Remoto / otros,11,78281,16.1,1
+2025-10,Servicio al Cliente,Colombia,310,744754,15.3,7
+2025-10,Servicio al Cliente,México,125,301951,22.2,5
+2025-10,Servicio al Cliente,Ecuador,52,126360,16.7,2
+2025-10,Servicio al Cliente,Perú,35,81856,19.9,2
+2025-10,Servicio al Cliente,Uruguay,28,65551,18.1,0
+2025-10,Servicio al Cliente,Chile,12,29282,16.6,0
+2025-10,Servicio al Cliente,Remoto / otros,9,21896,19.3,0
+2025-10,Comercial,Colombia,225,715626,13.6,7
+2025-10,Comercial,México,90,283143,12.4,2
+2025-10,Comercial,Ecuador,38,116711,17.1,2
+2025-10,Comercial,Perú,25,73861,14.9,0
+2025-10,Comercial,Uruguay,20,61385,13.0,1
+2025-10,Comercial,Chile,9,26346,6.8,0
+2025-10,Comercial,Remoto / otros,7,21295,10.8,0
+2025-10,Mercadeo,Colombia,67,237461,15.7,3
+2025-10,Mercadeo,México,27,99046,12.9,1
+2025-10,Mercadeo,Ecuador,11,39785,9.4,1
+2025-10,Mercadeo,Perú,7,25144,12.7,0
+2025-10,Mercadeo,Uruguay,6,20706,14.4,0
+2025-10,Mercadeo,Chile,2,7460,14.7,0
+2025-10,Mercadeo,Remoto / otros,2,6863,10.8,0
+2025-10,Operaciones,Colombia,93,264019,11.3,2
+2025-10,Operaciones,México,37,105690,12.0,3
+2025-10,Operaciones,Ecuador,15,43080,9.3,0
+2025-10,Operaciones,Perú,10,28500,15.5,1
+2025-10,Operaciones,Uruguay,8,23968,10.3,0
+2025-10,Operaciones,Chile,3,8632,10.6,0
+2025-10,Operaciones,Remoto / otros,2,5826,14.4,0
+2025-10,Finanzas y Administración,Colombia,60,254510,5.5,1
+2025-10,Finanzas y Administración,México,24,99976,11.4,0
+2025-10,Finanzas y Administración,Ecuador,10,40638,10.5,1
+2025-10,Finanzas y Administración,Perú,6,26713,13.6,0
+2025-10,Finanzas y Administración,Uruguay,5,21260,12.8,0
+2025-10,Finanzas y Administración,Chile,2,8808,14.8,0
+2025-10,Finanzas y Administración,Remoto / otros,1,4307,15.3,0
+2025-10,Gente y Cultura,Colombia,40,131937,13.1,0
+2025-10,Gente y Cultura,México,16,52409,10.4,0
+2025-10,Gente y Cultura,Ecuador,6,21236,12.7,0
+2025-10,Gente y Cultura,Perú,4,12361,13.4,0
+2025-10,Gente y Cultura,Uruguay,3,10507,12.9,0
+2025-10,Gente y Cultura,Chile,1,3433,13.2,0
+2025-10,Gente y Cultura,Remoto / otros,1,3355,12.5,0
+2025-11,Producto y Tecnología,Colombia,365,2594795,12.2,4
+2025-11,Producto y Tecnología,México,147,1063828,9.6,2
+2025-11,Producto y Tecnología,Ecuador,62,439221,11.0,1
+2025-11,Producto y Tecnología,Perú,41,273642,18.3,0
+2025-11,Producto y Tecnología,Uruguay,33,231525,7.1,4
+2025-11,Producto y Tecnología,Chile,14,95579,13.1,0
+2025-11,Producto y Tecnología,Remoto / otros,11,78492,12.7,1
+2025-11,Servicio al Cliente,Colombia,314,723899,16.0,13
+2025-11,Servicio al Cliente,México,126,299497,18.1,4
+2025-11,Servicio al Cliente,Ecuador,53,127881,17.9,2
+2025-11,Servicio al Cliente,Perú,35,84296,19.2,1
+2025-11,Servicio al Cliente,Uruguay,28,68089,20.9,0
+2025-11,Servicio al Cliente,Chile,12,28823,17.6,1
+2025-11,Servicio al Cliente,Remoto / otros,9,20854,21.0,1
+2025-11,Comercial,Colombia,227,705383,15.4,7
+2025-11,Comercial,México,91,290474,10.2,5
+2025-11,Comercial,Ecuador,38,121436,8.2,5
+2025-11,Comercial,Perú,25,78575,10.7,0
+2025-11,Comercial,Uruguay,20,63424,12.5,0
+2025-11,Comercial,Chile,9,26618,10.5,0
+2025-11,Comercial,Remoto / otros,7,21694,11.3,0
+2025-11,Mercadeo,Colombia,67,240957,11.6,3
+2025-11,Mercadeo,México,27,98592,14.0,1
+2025-11,Mercadeo,Ecuador,11,39308,13.4,0
+2025-11,Mercadeo,Perú,7,25618,9.7,0
+2025-11,Mercadeo,Uruguay,6,22039,13.6,0
+2025-11,Mercadeo,Chile,2,7261,8.1,0
+2025-11,Mercadeo,Remoto / otros,2,7153,14.9,0
+2025-11,Operaciones,Colombia,94,267092,9.2,3
+2025-11,Operaciones,México,38,105393,10.2,1
+2025-11,Operaciones,Ecuador,16,43633,12.6,1
+2025-11,Operaciones,Perú,10,28979,16.1,0
+2025-11,Operaciones,Uruguay,8,22012,13.1,1
+2025-11,Operaciones,Chile,3,8204,10.1,0
+2025-11,Operaciones,Remoto / otros,2,5469,12.9,0
+2025-11,Finanzas y Administración,Colombia,60,255055,9.8,3
+2025-11,Finanzas y Administración,México,24,103923,15.0,1
+2025-11,Finanzas y Administración,Ecuador,10,42813,11.9,1
+2025-11,Finanzas y Administración,Perú,6,24347,14.6,0
+2025-11,Finanzas y Administración,Uruguay,5,20523,13.1,0
+2025-11,Finanzas y Administración,Chile,2,8463,13.0,0
+2025-11,Finanzas y Administración,Remoto / otros,1,3997,6.7,0
+2025-11,Gente y Cultura,Colombia,41,142795,9.5,1
+2025-11,Gente y Cultura,México,16,55003,13.4,1
+2025-11,Gente y Cultura,Ecuador,6,21497,12.5,0
+2025-11,Gente y Cultura,Perú,4,13820,11.8,0
+2025-11,Gente y Cultura,Uruguay,3,10038,9.0,0
+2025-11,Gente y Cultura,Chile,1,3308,16.0,0
+2025-11,Gente y Cultura,Remoto / otros,1,3491,15.5,0
+2025-12,Producto y Tecnología,Colombia,365,2494714,12.8,13
+2025-12,Producto y Tecnología,México,147,1019716,11.1,4
+2025-12,Producto y Tecnología,Ecuador,62,404191,12.7,2
+2025-12,Producto y Tecnología,Perú,41,278627,10.4,3
+2025-12,Producto y Tecnología,Uruguay,33,223814,10.1,1
+2025-12,Producto y Tecnología,Chile,14,96358,11.3,1
+2025-12,Producto y Tecnología,Remoto / otros,11,75673,9.9,1
+2025-12,Servicio al Cliente,Colombia,313,701388,20.7,13
+2025-12,Servicio al Cliente,México,126,300805,20.3,1
+2025-12,Servicio al Cliente,Ecuador,53,122441,20.7,1
+2025-12,Servicio al Cliente,Perú,35,84225,23.1,1
+2025-12,Servicio al Cliente,Uruguay,28,66707,18.2,1
+2025-12,Servicio al Cliente,Chile,12,28455,24.9,0
+2025-12,Servicio al Cliente,Remoto / otros,9,20968,22.2,0
+2025-12,Comercial,Colombia,227,700134,13.8,9
+2025-12,Comercial,México,91,270557,12.3,4
+2025-12,Comercial,Ecuador,38,114603,14.3,2
+2025-12,Comercial,Perú,25,80091,13.5,2
+2025-12,Comercial,Uruguay,20,61502,8.3,0
+2025-12,Comercial,Chile,9,29626,12.3,0
+2025-12,Comercial,Remoto / otros,7,20630,9.6,0
+2025-12,Mercadeo,Colombia,67,235317,13.3,2
+2025-12,Mercadeo,México,27,94172,9.2,1
+2025-12,Mercadeo,Ecuador,11,37237,8.8,0
+2025-12,Mercadeo,Perú,7,24817,8.6,0
+2025-12,Mercadeo,Uruguay,6,21448,11.7,0
+2025-12,Mercadeo,Chile,2,7259,15.7,0
+2025-12,Mercadeo,Remoto / otros,2,6859,14.3,0
+2025-12,Operaciones,Colombia,94,264860,10.4,5
+2025-12,Operaciones,México,38,102795,15.1,0
+2025-12,Operaciones,Ecuador,16,42297,11.2,1
+2025-12,Operaciones,Perú,10,27863,10.2,0
+2025-12,Operaciones,Uruguay,8,21459,11.2,1
+2025-12,Operaciones,Chile,3,8446,11.7,0
+2025-12,Operaciones,Remoto / otros,2,5429,11.4,0
+2025-12,Finanzas y Administración,Colombia,60,258442,11.2,4
+2025-12,Finanzas y Administración,México,24,100696,10.6,1
+2025-12,Finanzas y Administración,Ecuador,10,41540,12.5,1
+2025-12,Finanzas y Administración,Perú,6,25071,10.3,0
+2025-12,Finanzas y Administración,Uruguay,5,21187,16.5,1
+2025-12,Finanzas y Administración,Chile,2,8679,12.4,0
+2025-12,Finanzas y Administración,Remoto / otros,1,4259,12.1,0
+2025-12,Gente y Cultura,Colombia,40,133486,16.2,0
+2025-12,Gente y Cultura,México,16,54210,14.5,0
+2025-12,Gente y Cultura,Ecuador,6,20836,11.5,0
+2025-12,Gente y Cultura,Perú,4,14155,9.3,0
+2025-12,Gente y Cultura,Uruguay,3,9979,10.1,0
+2025-12,Gente y Cultura,Chile,1,3470,13.4,0
+2025-12,Gente y Cultura,Remoto / otros,1,3506,10.9,0
+2026-01,Producto y Tecnología,Colombia,368,2575316,11.6,10
+2026-01,Producto y Tecnología,México,148,994283,7.4,6
+2026-01,Producto y Tecnología,Ecuador,62,436531,12.1,3
+2026-01,Producto y Tecnología,Perú,41,281869,14.0,1
+2026-01,Producto y Tecnología,Uruguay,33,232583,9.3,0
+2026-01,Producto y Tecnología,Chile,14,98689,12.1,0
+2026-01,Producto y Tecnología,Remoto / otros,11,72852,13.5,0
+2026-01,Servicio al Cliente,Colombia,316,760627,20.4,10
+2026-01,Servicio al Cliente,México,127,315487,14.9,10
+2026-01,Servicio al Cliente,Ecuador,53,123476,19.1,0
+2026-01,Servicio al Cliente,Perú,35,80567,19.6,1
+2026-01,Servicio al Cliente,Uruguay,28,67810,16.4,2
+2026-01,Servicio al Cliente,Chile,12,30251,18.5,2
+2026-01,Servicio al Cliente,Remoto / otros,9,21787,21.0,0
+2026-01,Comercial,Colombia,229,695597,15.2,1
+2026-01,Comercial,México,92,275836,14.1,2
+2026-01,Comercial,Ecuador,38,118509,13.8,1
+2026-01,Comercial,Perú,25,79193,12.5,1
+2026-01,Comercial,Uruguay,20,61459,12.4,0
+2026-01,Comercial,Chile,9,26765,16.1,0
+2026-01,Comercial,Remoto / otros,7,21213,10.3,1
+2026-01,Mercadeo,Colombia,68,246834,10.6,2
+2026-01,Mercadeo,México,27,97352,14.6,0
+2026-01,Mercadeo,Ecuador,11,38894,13.2,0
+2026-01,Mercadeo,Perú,7,25088,13.3,2
+2026-01,Mercadeo,Uruguay,6,20664,13.0,1
+2026-01,Mercadeo,Chile,2,7301,9.9,0
+2026-01,Mercadeo,Remoto / otros,2,7082,14.6,0
+2026-01,Operaciones,Colombia,95,272133,12.2,4
+2026-01,Operaciones,México,38,106537,11.6,2
+2026-01,Operaciones,Ecuador,16,43820,10.2,0
+2026-01,Operaciones,Perú,10,27394,10.3,0
+2026-01,Operaciones,Uruguay,8,22793,8.5,0
+2026-01,Operaciones,Chile,3,8435,9.6,0
+2026-01,Operaciones,Remoto / otros,3,8356,13.6,0
+2026-01,Finanzas y Administración,Colombia,61,258908,12.0,2
+2026-01,Finanzas y Administración,México,24,103370,11.6,0
+2026-01,Finanzas y Administración,Ecuador,10,40151,14.3,0
+2026-01,Finanzas y Administración,Perú,6,25279,12.4,0
+2026-01,Finanzas y Administración,Uruguay,5,22008,14.0,0
+2026-01,Finanzas y Administración,Chile,2,8685,15.9,0
+2026-01,Finanzas y Administración,Remoto / otros,1,4171,11.5,0
+2026-01,Gente y Cultura,Colombia,41,137849,11.9,1
+2026-01,Gente y Cultura,México,16,52492,5.2,1
+2026-01,Gente y Cultura,Ecuador,7,23979,14.0,0
+2026-01,Gente y Cultura,Perú,4,13086,13.0,0
+2026-01,Gente y Cultura,Uruguay,3,10213,10.4,0
+2026-01,Gente y Cultura,Chile,1,3452,8.2,0
+2026-01,Gente y Cultura,Remoto / otros,1,3654,13.2,0
+2026-02,Producto y Tecnología,Colombia,372,2554434,12.5,13
+2026-02,Producto y Tecnología,México,150,1024369,11.4,1
+2026-02,Producto y Tecnología,Ecuador,63,423610,13.6,0
+2026-02,Producto y Tecnología,Perú,42,305605,11.2,2
+2026-02,Producto y Tecnología,Uruguay,33,234165,12.6,0
+2026-02,Producto y Tecnología,Chile,15,103433,10.4,0
+2026-02,Producto y Tecnología,Remoto / otros,11,73598,13.5,0
+2026-02,Servicio al Cliente,Colombia,320,772125,14.0,12
+2026-02,Servicio al Cliente,México,129,320326,18.6,3
+2026-02,Servicio al Cliente,Ecuador,54,127390,14.7,1
+2026-02,Servicio al Cliente,Perú,36,82578,18.7,1
+2026-02,Servicio al Cliente,Uruguay,28,68968,19.8,1
+2026-02,Servicio al Cliente,Chile,13,33819,18.2,1
+2026-02,Servicio al Cliente,Remoto / otros,10,25055,19.4,0
+2026-02,Comercial,Colombia,231,722460,11.7,8
+2026-02,Comercial,México,93,286033,7.1,3
+2026-02,Comercial,Ecuador,39,124623,11.3,1
+2026-02,Comercial,Perú,26,78778,14.2,1
+2026-02,Comercial,Uruguay,20,61628,9.6,0
+2026-02,Comercial,Chile,9,28006,17.1,1
+2026-02,Comercial,Remoto / otros,7,21573,13.8,0
+2026-02,Mercadeo,Colombia,69,239751,10.6,3
+2026-02,Mercadeo,México,27,95438,14.4,0
+2026-02,Mercadeo,Ecuador,11,41604,10.7,1
+2026-02,Mercadeo,Perú,7,24952,17.5,0
+2026-02,Mercadeo,Uruguay,6,21830,13.4,1
+2026-02,Mercadeo,Chile,2,6900,8.9,0
+2026-02,Mercadeo,Remoto / otros,2,7197,13.4,0
+2026-02,Operaciones,Colombia,96,277597,10.8,4
+2026-02,Operaciones,México,38,105830,12.2,0
+2026-02,Operaciones,Ecuador,16,44919,13.2,2
+2026-02,Operaciones,Perú,10,27435,9.6,0
+2026-02,Operaciones,Uruguay,8,21771,14.8,1
+2026-02,Operaciones,Chile,3,8532,10.1,1
+2026-02,Operaciones,Remoto / otros,3,7976,13.5,0
+2026-02,Finanzas y Administración,Colombia,62,250911,14.0,2
+2026-02,Finanzas y Administración,México,25,99968,11.6,0
+2026-02,Finanzas y Administración,Ecuador,10,42617,6.0,0
+2026-02,Finanzas y Administración,Perú,7,29390,14.2,0
+2026-02,Finanzas y Administración,Uruguay,5,21483,7.6,0
+2026-02,Finanzas y Administración,Chile,2,8703,11.3,0
+2026-02,Finanzas y Administración,Remoto / otros,1,4314,12.0,0
+2026-02,Gente y Cultura,Colombia,41,140953,15.0,2
+2026-02,Gente y Cultura,México,16,55042,11.6,0
+2026-02,Gente y Cultura,Ecuador,7,23497,12.4,0
+2026-02,Gente y Cultura,Perú,4,13926,11.9,0
+2026-02,Gente y Cultura,Uruguay,3,10554,11.7,1
+2026-02,Gente y Cultura,Chile,1,3347,10.4,0
+2026-02,Gente y Cultura,Remoto / otros,1,3485,13.6,0
+2026-03,Producto y Tecnología,Colombia,373,2630615,11.5,11
+2026-03,Producto y Tecnología,México,150,1025646,8.8,9
+2026-03,Producto y Tecnología,Ecuador,63,433832,15.9,2
+2026-03,Producto y Tecnología,Perú,42,303069,12.5,1
+2026-03,Producto y Tecnología,Uruguay,33,239423,12.5,1
+2026-03,Producto y Tecnología,Chile,15,101055,14.6,0
+2026-03,Producto y Tecnología,Remoto / otros,11,74436,12.2,1
+2026-03,Servicio al Cliente,Colombia,321,723298,16.2,8
+2026-03,Servicio al Cliente,México,129,301757,15.5,6
+2026-03,Servicio al Cliente,Ecuador,54,131996,17.7,3
+2026-03,Servicio al Cliente,Perú,36,85643,18.3,1
+2026-03,Servicio al Cliente,Uruguay,29,65862,17.9,1
+2026-03,Servicio al Cliente,Chile,13,30544,19.5,1
+2026-03,Servicio al Cliente,Remoto / otros,10,24744,16.2,1
+2026-03,Comercial,Colombia,232,700072,11.4,7
+2026-03,Comercial,México,93,292654,14.2,5
+2026-03,Comercial,Ecuador,39,123839,11.7,1
+2026-03,Comercial,Perú,26,79238,13.1,2
+2026-03,Comercial,Uruguay,21,63614,14.4,0
+2026-03,Comercial,Chile,9,28243,10.3,0
+2026-03,Comercial,Remoto / otros,7,22259,13.1,0
+2026-03,Mercadeo,Colombia,69,260410,12.0,2
+2026-03,Mercadeo,México,27,96412,14.1,0
+2026-03,Mercadeo,Ecuador,11,40373,10.7,0
+2026-03,Mercadeo,Perú,7,25326,11.9,0
+2026-03,Mercadeo,Uruguay,6,21832,10.9,1
+2026-03,Mercadeo,Chile,2,7320,13.0,0
+2026-03,Mercadeo,Remoto / otros,2,7234,10.1,0
+2026-03,Operaciones,Colombia,97,251513,14.6,5
+2026-03,Operaciones,México,39,107181,13.4,0
+2026-03,Operaciones,Ecuador,16,44649,10.5,1
+2026-03,Operaciones,Perú,10,29477,12.2,0
+2026-03,Operaciones,Uruguay,8,22253,12.2,0
+2026-03,Operaciones,Chile,3,8250,15.0,0
+2026-03,Operaciones,Remoto / otros,3,7941,14.1,1
+2026-03,Finanzas y Administración,Colombia,62,261666,13.1,4
+2026-03,Finanzas y Administración,México,25,103289,12.1,0
+2026-03,Finanzas y Administración,Ecuador,10,42682,13.2,0
+2026-03,Finanzas y Administración,Perú,7,29192,12.8,0
+2026-03,Finanzas y Administración,Uruguay,5,21292,11.5,0
+2026-03,Finanzas y Administración,Chile,2,8101,13.1,0
+2026-03,Finanzas y Administración,Remoto / otros,1,4342,15.7,0
+2026-03,Gente y Cultura,Colombia,41,139993,14.0,3
+2026-03,Gente y Cultura,México,16,54050,8.3,1
+2026-03,Gente y Cultura,Ecuador,7,24350,10.2,0
+2026-03,Gente y Cultura,Perú,4,13524,9.0,0
+2026-03,Gente y Cultura,Uruguay,3,10478,13.4,0
+2026-03,Gente y Cultura,Chile,1,3251,10.0,0
+2026-03,Gente y Cultura,Remoto / otros,1,3483,10.8,0
+2026-04,Producto y Tecnología,Colombia,380,2533033,10.7,13
+2026-04,Producto y Tecnología,México,153,1079848,11.1,3
+2026-04,Producto y Tecnología,Ecuador,64,466296,14.0,1
+2026-04,Producto y Tecnología,Perú,42,293594,17.5,1
+2026-04,Producto y Tecnología,Uruguay,34,234981,9.7,1
+2026-04,Producto y Tecnología,Chile,15,101640,14.9,2
+2026-04,Producto y Tecnología,Remoto / otros,11,73790,13.3,1
+2026-04,Servicio al Cliente,Colombia,327,736874,16.9,4
+2026-04,Servicio al Cliente,México,131,307860,17.4,5
+2026-04,Servicio al Cliente,Ecuador,55,135988,18.5,2
+2026-04,Servicio al Cliente,Perú,36,87296,17.8,0
+2026-04,Servicio al Cliente,Uruguay,29,67897,16.1,0
+2026-04,Servicio al Cliente,Chile,13,31134,15.8,0
+2026-04,Servicio al Cliente,Remoto / otros,10,23514,15.8,1
+2026-04,Comercial,Colombia,236,761011,13.2,9
+2026-04,Comercial,México,95,290286,9.2,1
+2026-04,Comercial,Ecuador,40,119976,13.1,1
+2026-04,Comercial,Perú,26,82250,14.2,1
+2026-04,Comercial,Uruguay,21,67111,16.2,0
+2026-04,Comercial,Chile,9,28499,19.2,0
+2026-04,Comercial,Remoto / otros,7,20687,9.9,0
+2026-04,Mercadeo,Colombia,70,258070,12.9,2
+2026-04,Mercadeo,México,28,101044,11.4,1
+2026-04,Mercadeo,Ecuador,12,42120,10.9,0
+2026-04,Mercadeo,Perú,7,24603,9.1,0
+2026-04,Mercadeo,Uruguay,6,21740,12.2,1
+2026-04,Mercadeo,Chile,2,7568,12.0,0
+2026-04,Mercadeo,Remoto / otros,2,7084,8.9,0
+2026-04,Operaciones,Colombia,98,269514,15.5,1
+2026-04,Operaciones,México,39,104046,15.5,2
+2026-04,Operaciones,Ecuador,16,47652,8.5,1
+2026-04,Operaciones,Perú,11,29874,6.9,0
+2026-04,Operaciones,Uruguay,8,21539,11.8,1
+2026-04,Operaciones,Chile,4,11015,9.0,0
+2026-04,Operaciones,Remoto / otros,3,8560,9.8,0
+2026-04,Finanzas y Administración,Colombia,63,252350,12.2,2
+2026-04,Finanzas y Administración,México,25,110262,11.4,2
+2026-04,Finanzas y Administración,Ecuador,10,43041,10.4,1
+2026-04,Finanzas y Administración,Perú,7,29975,12.4,0
+2026-04,Finanzas y Administración,Uruguay,5,21858,12.5,0
+2026-04,Finanzas y Administración,Chile,2,8136,13.2,0
+2026-04,Finanzas y Administración,Remoto / otros,1,4239,9.9,0
+2026-04,Gente y Cultura,Colombia,42,153084,9.1,1
+2026-04,Gente y Cultura,México,17,59751,9.0,0
+2026-04,Gente y Cultura,Ecuador,7,24035,11.5,0
+2026-04,Gente y Cultura,Perú,4,14336,12.9,0
+2026-04,Gente y Cultura,Uruguay,3,10309,15.0,0
+2026-04,Gente y Cultura,Chile,1,3355,9.9,0
+2026-04,Gente y Cultura,Remoto / otros,1,3174,17.4,0
+2026-05,Producto y Tecnología,Colombia,381,2687267,9.5,15
+2026-05,Producto y Tecnología,México,153,1069155,12.5,8
+2026-05,Producto y Tecnología,Ecuador,64,439611,11.4,3
+2026-05,Producto y Tecnología,Perú,43,290596,14.6,1
+2026-05,Producto y Tecnología,Uruguay,34,228186,9.3,3
+2026-05,Producto y Tecnología,Chile,15,106336,14.0,0
+2026-05,Producto y Tecnología,Remoto / otros,11,75154,13.3,0
+2026-05,Servicio al Cliente,Colombia,327,745667,14.9,9
+2026-05,Servicio al Cliente,México,132,303821,20.8,4
+2026-05,Servicio al Cliente,Ecuador,55,134989,17.4,1
+2026-05,Servicio al Cliente,Perú,36,86772,18.0,3
+2026-05,Servicio al Cliente,Uruguay,29,74757,17.7,2
+2026-05,Servicio al Cliente,Chile,13,30791,16.3,1
+2026-05,Servicio al Cliente,Remoto / otros,10,23849,22.4,0
+2026-05,Comercial,Colombia,237,755151,10.4,8
+2026-05,Comercial,México,95,306056,10.2,3
+2026-05,Comercial,Ecuador,40,120226,7.9,1
+2026-05,Comercial,Perú,26,83292,11.0,0
+2026-05,Comercial,Uruguay,21,67403,15.2,0
+2026-05,Comercial,Chile,9,26815,9.8,0
+2026-05,Comercial,Remoto / otros,7,21449,15.9,0
+2026-05,Mercadeo,Colombia,70,261693,14.5,2
+2026-05,Mercadeo,México,28,101936,9.8,1
+2026-05,Mercadeo,Ecuador,12,44437,11.2,0
+2026-05,Mercadeo,Perú,8,30024,20.4,0
+2026-05,Mercadeo,Uruguay,6,21562,8.7,0
+2026-05,Mercadeo,Chile,2,7374,16.8,0
+2026-05,Mercadeo,Remoto / otros,2,7536,12.7,0
+2026-05,Operaciones,Colombia,99,296943,11.2,3
+2026-05,Operaciones,México,39,104337,11.8,1
+2026-05,Operaciones,Ecuador,16,43890,12.3,0
+2026-05,Operaciones,Perú,11,30687,11.8,0
+2026-05,Operaciones,Uruguay,8,22486,11.1,0
+2026-05,Operaciones,Chile,4,11150,10.7,0
+2026-05,Operaciones,Remoto / otros,3,8432,8.3,0
+2026-05,Finanzas y Administración,Colombia,63,269007,12.6,0
+2026-05,Finanzas y Administración,México,25,107681,12.9,3
+2026-05,Finanzas y Administración,Ecuador,10,41748,16.1,0
+2026-05,Finanzas y Administración,Perú,7,30575,16.1,0
+2026-05,Finanzas y Administración,Uruguay,5,20383,14.3,0
+2026-05,Finanzas y Administración,Chile,2,8587,11.1,0
+2026-05,Finanzas y Administración,Remoto / otros,1,4353,13.3,0
+2026-05,Gente y Cultura,Colombia,42,140760,13.9,1
+2026-05,Gente y Cultura,México,17,54608,14.9,0
+2026-05,Gente y Cultura,Ecuador,7,23697,14.5,1
+2026-05,Gente y Cultura,Perú,4,13685,10.1,0
+2026-05,Gente y Cultura,Uruguay,3,10325,10.5,0
+2026-05,Gente y Cultura,Chile,1,3412,19.2,0
+2026-05,Gente y Cultura,Remoto / otros,1,3374,10.9,0
+2026-06,Producto y Tecnología,Colombia,380,2569749,10.3,19
+2026-06,Producto y Tecnología,México,153,1083813,17.4,2
+2026-06,Producto y Tecnología,Ecuador,64,434182,12.0,2
+2026-06,Producto y Tecnología,Perú,42,288340,13.9,2
+2026-06,Producto y Tecnología,Uruguay,34,238471,10.7,0
+2026-06,Producto y Tecnología,Chile,15,103213,14.0,1
+2026-06,Producto y Tecnología,Remoto / otros,11,79325,13.5,0
+2026-06,Servicio al Cliente,Colombia,327,794839,19.3,9
+2026-06,Servicio al Cliente,México,131,332324,16.9,5
+2026-06,Servicio al Cliente,Ecuador,55,133207,19.1,1
+2026-06,Servicio al Cliente,Perú,36,86050,18.3,4
+2026-06,Servicio al Cliente,Uruguay,29,70509,15.4,2
+2026-06,Servicio al Cliente,Chile,13,30811,16.9,1
+2026-06,Servicio al Cliente,Remoto / otros,10,23408,19.5,0
+2026-06,Comercial,Colombia,236,745779,11.0,9
+2026-06,Comercial,México,95,303899,9.9,3
+2026-06,Comercial,Ecuador,40,126535,10.5,1
+2026-06,Comercial,Perú,26,80208,8.8,1
+2026-06,Comercial,Uruguay,21,65160,12.2,1
+2026-06,Comercial,Chile,9,27574,10.5,0
+2026-06,Comercial,Remoto / otros,7,23093,9.6,0
+2026-06,Mercadeo,Colombia,70,256021,11.4,0
+2026-06,Mercadeo,México,28,99145,13.6,2
+2026-06,Mercadeo,Ecuador,12,42576,13.0,0
+2026-06,Mercadeo,Perú,7,25963,8.7,0
+2026-06,Mercadeo,Uruguay,6,20768,11.0,0
+2026-06,Mercadeo,Chile,2,7197,12.1,0
+2026-06,Mercadeo,Remoto / otros,2,7208,14.0,0
+2026-06,Operaciones,Colombia,98,274546,10.5,3
+2026-06,Operaciones,México,39,111730,12.7,0
+2026-06,Operaciones,Ecuador,16,43041,10.5,0
+2026-06,Operaciones,Perú,11,31582,11.3,0
+2026-06,Operaciones,Uruguay,8,20504,15.1,0
+2026-06,Operaciones,Chile,4,11201,8.9,0
+2026-06,Operaciones,Remoto / otros,3,8311,14.3,0
+2026-06,Finanzas y Administración,Colombia,63,268345,15.6,1
+2026-06,Finanzas y Administración,México,25,103147,10.8,1
+2026-06,Finanzas y Administración,Ecuador,10,41412,10.1,0
+2026-06,Finanzas y Administración,Perú,7,29529,13.0,0
+2026-06,Finanzas y Administración,Uruguay,5,20643,10.7,0
+2026-06,Finanzas y Administración,Chile,2,8466,8.8,0
+2026-06,Finanzas y Administración,Remoto / otros,1,4231,12.6,0
+2026-06,Gente y Cultura,Colombia,42,147904,9.2,0
+2026-06,Gente y Cultura,México,17,57096,14.2,0
+2026-06,Gente y Cultura,Ecuador,7,24326,9.2,0
+2026-06,Gente y Cultura,Perú,4,13109,11.7,0
+2026-06,Gente y Cultura,Uruguay,3,10046,12.8,0
+2026-06,Gente y Cultura,Chile,1,3205,11.9,0
+2026-06,Gente y Cultura,Remoto / otros,1,3471,12.4,0
+2026-07,Producto y Tecnología,Colombia,385,2642733,14.5,19
+2026-07,Producto y Tecnología,México,155,1064926,12.7,3
+2026-07,Producto y Tecnología,Ecuador,65,447499,13.9,2
+2026-07,Producto y Tecnología,Perú,43,289930,11.7,1
+2026-07,Producto y Tecnología,Uruguay,34,256528,14.8,3
+2026-07,Producto y Tecnología,Chile,15,104460,18.6,0
+2026-07,Producto y Tecnología,Remoto / otros,12,81552,11.9,1
+2026-07,Servicio al Cliente,Colombia,331,802708,16.9,10
+2026-07,Servicio al Cliente,México,133,317686,16.8,6
+2026-07,Servicio al Cliente,Ecuador,56,132416,18.6,1
+2026-07,Servicio al Cliente,Perú,37,89383,17.2,0
+2026-07,Servicio al Cliente,Uruguay,30,71471,19.6,1
+2026-07,Servicio al Cliente,Chile,13,32666,18.6,0
+2026-07,Servicio al Cliente,Remoto / otros,10,24805,16.6,0
+2026-07,Comercial,Colombia,239,710397,14.3,10
+2026-07,Comercial,México,96,300636,13.4,2
+2026-07,Comercial,Ecuador,40,124815,8.0,4
+2026-07,Comercial,Perú,27,84226,9.5,1
+2026-07,Comercial,Uruguay,21,65172,12.6,1
+2026-07,Comercial,Chile,9,27831,14.5,0
+2026-07,Comercial,Remoto / otros,7,21923,8.1,0
+2026-07,Mercadeo,Colombia,71,248775,15.6,8
+2026-07,Mercadeo,México,28,102065,13.8,0
+2026-07,Mercadeo,Ecuador,12,44153,13.5,1
+2026-07,Mercadeo,Perú,8,27422,12.2,0
+2026-07,Mercadeo,Uruguay,6,22573,12.3,1
+2026-07,Mercadeo,Chile,2,7286,12.0,0
+2026-07,Mercadeo,Remoto / otros,2,6846,14.7,0
+2026-07,Operaciones,Colombia,100,272554,8.3,2
+2026-07,Operaciones,México,40,107761,11.0,2
+2026-07,Operaciones,Ecuador,17,49161,13.1,1
+2026-07,Operaciones,Perú,11,30666,16.6,0
+2026-07,Operaciones,Uruguay,9,24889,9.9,0
+2026-07,Operaciones,Chile,4,10777,13.1,0
+2026-07,Operaciones,Remoto / otros,3,8283,10.6,0
+2026-07,Finanzas y Administración,Colombia,64,281304,10.2,1
+2026-07,Finanzas y Administración,México,25,107534,11.4,0
+2026-07,Finanzas y Administración,Ecuador,10,40829,11.4,0
+2026-07,Finanzas y Administración,Perú,7,29224,11.9,0
+2026-07,Finanzas y Administración,Uruguay,5,20365,14.3,0
+2026-07,Finanzas y Administración,Chile,2,8531,11.8,0
+2026-07,Finanzas y Administración,Remoto / otros,2,8687,13.9,0
+2026-07,Gente y Cultura,Colombia,43,146683,18.7,2
+2026-07,Gente y Cultura,México,17,59309,9.0,0
+2026-07,Gente y Cultura,Ecuador,7,24141,13.0,0
+2026-07,Gente y Cultura,Perú,4,13421,10.8,0
+2026-07,Gente y Cultura,Uruguay,3,10000,9.9,1
+2026-07,Gente y Cultura,Chile,1,3266,13.9,0
+2026-07,Gente y Cultura,Remoto / otros,1,3282,11.2,0
+2026-08,Producto y Tecnología,Colombia,389,2777137,12.3,8
+2026-08,Producto y Tecnología,México,157,1114255,15.4,4
+2026-08,Producto y Tecnología,Ecuador,66,464949,11.2,1
+2026-08,Producto y Tecnología,Perú,43,301759,16.0,2
+2026-08,Producto y Tecnología,Uruguay,35,234475,10.4,0
+2026-08,Producto y Tecnología,Chile,15,100794,12.1,0
+2026-08,Producto y Tecnología,Remoto / otros,12,82185,10.1,0
+2026-08,Servicio al Cliente,Colombia,334,778319,17.3,12
+2026-08,Servicio al Cliente,México,134,329482,18.7,2
+2026-08,Servicio al Cliente,Ecuador,56,141458,16.2,2
+2026-08,Servicio al Cliente,Perú,37,87398,20.5,3
+2026-08,Servicio al Cliente,Uruguay,30,71868,20.5,1
+2026-08,Servicio al Cliente,Chile,13,29468,14.9,0
+2026-08,Servicio al Cliente,Remoto / otros,10,24575,19.8,2
+2026-08,Comercial,Colombia,242,727969,14.4,17
+2026-08,Comercial,México,97,312713,8.2,1
+2026-08,Comercial,Ecuador,41,123541,16.2,5
+2026-08,Comercial,Perú,27,88082,13.1,2
+2026-08,Comercial,Uruguay,21,64313,13.3,1
+2026-08,Comercial,Chile,9,29403,10.2,0
+2026-08,Comercial,Remoto / otros,7,21817,13.0,1
+2026-08,Mercadeo,Colombia,72,256941,8.0,2
+2026-08,Mercadeo,México,29,100058,10.1,0
+2026-08,Mercadeo,Ecuador,12,44942,12.2,0
+2026-08,Mercadeo,Perú,8,28752,13.3,0
+2026-08,Mercadeo,Uruguay,6,20911,10.5,0
+2026-08,Mercadeo,Chile,2,6951,10.4,0
+2026-08,Mercadeo,Remoto / otros,2,6831,9.8,0
+2026-08,Operaciones,Colombia,101,284102,9.9,5
+2026-08,Operaciones,México,40,113305,10.2,1
+2026-08,Operaciones,Ecuador,17,46490,16.7,2
+2026-08,Operaciones,Perú,11,30822,14.7,1
+2026-08,Operaciones,Uruguay,9,24934,7.8,2
+2026-08,Operaciones,Chile,4,11549,6.1,0
+2026-08,Operaciones,Remoto / otros,3,8296,13.8,0
+2026-08,Finanzas y Administración,Colombia,64,261724,11.9,2
+2026-08,Finanzas y Administración,México,26,110528,14.9,0
+2026-08,Finanzas y Administración,Ecuador,11,44312,12.0,0
+2026-08,Finanzas y Administración,Perú,7,29268,11.5,0
+2026-08,Finanzas y Administración,Uruguay,5,21334,13.9,0
+2026-08,Finanzas y Administración,Chile,2,8647,9.9,0
+2026-08,Finanzas y Administración,Remoto / otros,2,8391,12.3,0
+2026-08,Gente y Cultura,Colombia,43,147041,11.3,2
+2026-08,Gente y Cultura,México,17,55550,10.0,1
+2026-08,Gente y Cultura,Ecuador,7,23868,13.7,0
+2026-08,Gente y Cultura,Perú,4,13066,12.5,0
+2026-08,Gente y Cultura,Uruguay,3,10112,12.2,0
+2026-08,Gente y Cultura,Chile,1,3349,13.0,0
+2026-08,Gente y Cultura,Remoto / otros,1,3510,13.2,0

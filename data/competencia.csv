@@ -1,0 +1,20 @@
+pais,competidor,participacion_pct,precio_relativo,fortaleza,debilidad
+Colombia,Siigo,41.2,1.0,Autorización DIAN y canal de contadores,Interfaz menos moderna
+Colombia,Alegra,18.6,0.79,Producto más moderno y simple,Menos profundidad contable
+Colombia,World Office,11.4,1.12,Fuerte en medianas,Poca presencia en micro
+Colombia,Helisa,8.9,1.06,Tradición entre contadores,Migración a nube lenta
+Colombia,Otros,19.9,0.92,Nicho y verticales,Fragmentados
+México,CONTPAQi,34.1,1.18,Estándar entre despachos,Modelo de escritorio
+México,Siigo/Aspel,27.8,0.94,Base histórica de Aspel,Migración a nube en curso
+México,Facturama,12.3,0.71,"Precio bajo, timbrado",Suite incompleta
+México,Otros,25.8,0.98,Muy fragmentado,—
+Ecuador,Siigo/Contífico,38.4,1.0,Líder local adquirido,Marca doble confunde
+Ecuador,Otros,61.6,0.95,Locales y de nicho,—
+Perú,Siigo,13.1,1.0,Entrada orgánica,Marca poco conocida
+Perú,Bsale,21.4,0.86,Fuerte en retail,Contabilidad limitada
+Perú,Otros,65.5,0.97,Muy fragmentado,—
+Uruguay,Siigo/Memory,44.2,1.0,Memory es el estándar local,Mercado pequeño
+Uruguay,Otros,55.8,1.02,Locales,—
+Chile,Siigo,4.8,1.0,Recién entrando,Sin masa crítica
+Chile,Defontana,23.6,1.09,Incumbente en nube,Precio alto
+Chile,Otros,71.6,0.94,"Bsale, Nubox y locales",—

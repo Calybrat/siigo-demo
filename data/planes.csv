@@ -1,0 +1,43 @@
+plan,pais,segmento,usuarios_incluidos,precio_usd_mes,precio_cop_mes,churn_mensual_ref_pct
+Siigo Contador,Colombia,Contador,3,0.0,0,1.3
+Siigo Contador,México,Contador,3,0.0,,1.3
+Siigo Contador,Ecuador,Contador,3,0.0,,1.3
+Siigo Contador,Perú,Contador,3,0.0,,1.3
+Siigo Contador,Uruguay,Contador,3,0.0,,1.3
+Siigo Contador,Chile,Contador,3,0.0,,1.3
+Profesional Independiente,Colombia,Micro,1,36.05,145993,2.35
+Profesional Independiente,México,Micro,1,46.14,,2.35
+Profesional Independiente,Ecuador,Micro,1,41.09,,2.35
+Profesional Independiente,Perú,Micro,1,34.61,,2.35
+Profesional Independiente,Uruguay,Micro,1,50.83,,2.35
+Profesional Independiente,Chile,Micro,1,43.98,,2.35
+Emprendedor,Colombia,Pequeña,3,47.24,191327,1.58
+Emprendedor,México,Pequeña,3,60.47,,1.58
+Emprendedor,Ecuador,Pequeña,3,53.86,,1.58
+Emprendedor,Perú,Pequeña,3,45.35,,1.58
+Emprendedor,Uruguay,Pequeña,3,66.61,,1.58
+Emprendedor,Chile,Pequeña,3,57.63,,1.58
+Premium,Colombia,Pequeña,5,51.33,207869,1.12
+Premium,México,Pequeña,5,65.7,,1.12
+Premium,Ecuador,Pequeña,5,58.51,,1.12
+Premium,Perú,Pequeña,5,49.27,,1.12
+Premium,Uruguay,Pequeña,5,72.37,,1.12
+Premium,Chile,Pequeña,5,62.62,,1.12
+Corporativo,Colombia,Mediana,12,96.05,389000,0.58
+Corporativo,México,Mediana,12,122.94,,0.58
+Corporativo,Ecuador,Mediana,12,109.5,,0.58
+Corporativo,Perú,Mediana,12,92.21,,0.58
+Corporativo,Uruguay,Mediana,12,135.43,,0.58
+Corporativo,Chile,Mediana,12,117.18,,0.58
+Siigo POS,Colombia,Micro,2,21.98,89000,2.06
+Siigo POS,México,Micro,2,28.13,,2.06
+Siigo POS,Ecuador,Micro,2,25.05,,2.06
+Siigo POS,Perú,Micro,2,21.1,,2.06
+Siigo POS,Uruguay,Micro,2,30.99,,2.06
+Siigo POS,Chile,Micro,2,26.81,,2.06
+POS Gastrobar,Colombia,Micro,3,29.38,119000,2.44
+POS Gastrobar,México,Micro,3,37.61,,2.44
+POS Gastrobar,Ecuador,Micro,3,33.5,,2.44
+POS Gastrobar,Perú,Micro,3,28.21,,2.44
+POS Gastrobar,Uruguay,Micro,3,41.43,,2.44
+POS Gastrobar,Chile,Micro,3,35.85,,2.44

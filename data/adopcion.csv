@@ -1,0 +1,1729 @@
+mes,pais,funcionalidad,es_ia,clientes_base,clientes_usando,adopcion_pct
+2024-09,Colombia,Facturación electrónica,False,106180,94665,89.16
+2024-09,Colombia,Informes financieros,False,106180,51246,48.26
+2024-09,Colombia,Inventarios,False,106180,36172,34.07
+2024-09,Colombia,Nómina electrónica,False,106180,215,0.2
+2024-09,Colombia,App móvil,False,106180,220,0.21
+2024-09,Colombia,Cobranza por WhatsApp,False,106180,218,0.21
+2024-09,Colombia,Siigo Pay,False,106180,207,0.2
+2024-09,Colombia,Centros de costo,False,106180,2731,2.57
+2024-09,Colombia,API pública,False,106180,212,0.2
+2024-09,Colombia,Conciliación bancaria IA,True,106180,218,0.21
+2024-09,Colombia,Captura de facturas por IA,True,106180,209,0.2
+2024-09,Colombia,Agente IA fiscal,True,106180,208,0.2
+2024-09,México,Facturación electrónica,False,67901,44000,64.8
+2024-09,México,Informes financieros,False,67901,26486,39.01
+2024-09,México,Inventarios,False,67901,18910,27.85
+2024-09,México,Nómina electrónica,False,67901,136,0.2
+2024-09,México,App móvil,False,67901,136,0.2
+2024-09,México,Cobranza por WhatsApp,False,67901,146,0.22
+2024-09,México,Siigo Pay,False,67901,140,0.21
+2024-09,México,Centros de costo,False,67901,1315,1.94
+2024-09,México,API pública,False,67901,133,0.2
+2024-09,México,Conciliación bancaria IA,True,67901,136,0.2
+2024-09,México,Captura de facturas por IA,True,67901,131,0.19
+2024-09,México,Agente IA fiscal,True,67901,131,0.19
+2024-09,Ecuador,Facturación electrónica,False,30804,24925,80.92
+2024-09,Ecuador,Informes financieros,False,30804,13547,43.98
+2024-09,Ecuador,Inventarios,False,30804,10139,32.91
+2024-09,Ecuador,Nómina electrónica,False,30804,62,0.2
+2024-09,Ecuador,App móvil,False,30804,60,0.2
+2024-09,Ecuador,Cobranza por WhatsApp,False,30804,62,0.2
+2024-09,Ecuador,Siigo Pay,False,30804,61,0.2
+2024-09,Ecuador,Centros de costo,False,30804,703,2.28
+2024-09,Ecuador,API pública,False,30804,57,0.19
+2024-09,Ecuador,Conciliación bancaria IA,True,30804,62,0.2
+2024-09,Ecuador,Captura de facturas por IA,True,30804,60,0.2
+2024-09,Ecuador,Agente IA fiscal,True,30804,64,0.21
+2024-09,Perú,Facturación electrónica,False,18936,14586,77.03
+2024-09,Perú,Informes financieros,False,18936,8155,43.07
+2024-09,Perú,Inventarios,False,18936,5726,30.24
+2024-09,Perú,Nómina electrónica,False,18936,37,0.2
+2024-09,Perú,App móvil,False,18936,37,0.2
+2024-09,Perú,Cobranza por WhatsApp,False,18936,38,0.21
+2024-09,Perú,Siigo Pay,False,18936,37,0.2
+2024-09,Perú,Centros de costo,False,18936,426,2.25
+2024-09,Perú,API pública,False,18936,35,0.19
+2024-09,Perú,Conciliación bancaria IA,True,18936,39,0.21
+2024-09,Perú,Captura de facturas por IA,True,18936,37,0.2
+2024-09,Perú,Agente IA fiscal,True,18936,36,0.19
+2024-09,Uruguay,Facturación electrónica,False,13255,11326,85.45
+2024-09,Uruguay,Informes financieros,False,13255,6315,47.65
+2024-09,Uruguay,Inventarios,False,13255,4315,32.56
+2024-09,Uruguay,Nómina electrónica,False,13255,26,0.2
+2024-09,Uruguay,App móvil,False,13255,26,0.2
+2024-09,Uruguay,Cobranza por WhatsApp,False,13255,26,0.2
+2024-09,Uruguay,Siigo Pay,False,13255,26,0.2
+2024-09,Uruguay,Centros de costo,False,13255,315,2.38
+2024-09,Uruguay,API pública,False,13255,25,0.2
+2024-09,Uruguay,Conciliación bancaria IA,True,13255,26,0.2
+2024-09,Uruguay,Captura de facturas por IA,True,13255,25,0.19
+2024-09,Uruguay,Agente IA fiscal,True,13255,27,0.21
+2024-09,Chile,Facturación electrónica,False,4372,3022,69.12
+2024-09,Chile,Informes financieros,False,4372,1727,39.52
+2024-09,Chile,Inventarios,False,4372,1178,26.95
+2024-09,Chile,Nómina electrónica,False,4372,8,0.2
+2024-09,Chile,App móvil,False,4372,8,0.19
+2024-09,Chile,Cobranza por WhatsApp,False,4372,8,0.2
+2024-09,Chile,Siigo Pay,False,4372,8,0.19
+2024-09,Chile,Centros de costo,False,4372,93,2.13
+2024-09,Chile,API pública,False,4372,8,0.19
+2024-09,Chile,Conciliación bancaria IA,True,4372,8,0.21
+2024-09,Chile,Captura de facturas por IA,True,4372,8,0.2
+2024-09,Chile,Agente IA fiscal,True,4372,9,0.21
+2024-10,Colombia,Facturación electrónica,False,106806,93717,87.75
+2024-10,Colombia,Informes financieros,False,106806,51104,47.85
+2024-10,Colombia,Inventarios,False,106806,37958,35.54
+2024-10,Colombia,Nómina electrónica,False,106806,448,0.42
+2024-10,Colombia,App móvil,False,106806,203,0.19
+2024-10,Colombia,Cobranza por WhatsApp,False,106806,208,0.2
+2024-10,Colombia,Siigo Pay,False,106806,219,0.21
+2024-10,Colombia,Centros de costo,False,106806,3354,3.14
+2024-10,Colombia,API pública,False,106806,212,0.2
+2024-10,Colombia,Conciliación bancaria IA,True,106806,216,0.2
+2024-10,Colombia,Captura de facturas por IA,True,106806,214,0.2
+2024-10,Colombia,Agente IA fiscal,True,106806,200,0.19
+2024-10,México,Facturación electrónica,False,68948,46449,67.37
+2024-10,México,Informes financieros,False,68948,27068,39.26
+2024-10,México,Inventarios,False,68948,18688,27.1
+2024-10,México,Nómina electrónica,False,68948,216,0.31
+2024-10,México,App móvil,False,68948,133,0.19
+2024-10,México,Cobranza por WhatsApp,False,68948,134,0.19
+2024-10,México,Siigo Pay,False,68948,141,0.21
+2024-10,México,Centros de costo,False,68948,1691,2.45
+2024-10,México,API pública,False,68948,139,0.2
+2024-10,México,Conciliación bancaria IA,True,68948,134,0.2
+2024-10,México,Captura de facturas por IA,True,68948,135,0.2
+2024-10,México,Agente IA fiscal,True,68948,136,0.2
+2024-10,Ecuador,Facturación electrónica,False,31086,23184,74.58
+2024-10,Ecuador,Informes financieros,False,31086,14039,45.16
+2024-10,Ecuador,Inventarios,False,31086,9827,31.62
+2024-10,Ecuador,Nómina electrónica,False,31086,112,0.36
+2024-10,Ecuador,App móvil,False,31086,64,0.21
+2024-10,Ecuador,Cobranza por WhatsApp,False,31086,59,0.19
+2024-10,Ecuador,Siigo Pay,False,31086,59,0.19
+2024-10,Ecuador,Centros de costo,False,31086,911,2.93
+2024-10,Ecuador,API pública,False,31086,61,0.2
+2024-10,Ecuador,Conciliación bancaria IA,True,31086,64,0.21
+2024-10,Ecuador,Captura de facturas por IA,True,31086,63,0.2
+2024-10,Ecuador,Agente IA fiscal,True,31086,60,0.19
+2024-10,Perú,Facturación electrónica,False,19158,14388,75.11
+2024-10,Perú,Informes financieros,False,19158,8577,44.77
+2024-10,Perú,Inventarios,False,19158,5715,29.83
+2024-10,Perú,Nómina electrónica,False,19158,66,0.34
+2024-10,Perú,App móvil,False,19158,39,0.2
+2024-10,Perú,Cobranza por WhatsApp,False,19158,40,0.21
+2024-10,Perú,Siigo Pay,False,19158,37,0.2
+2024-10,Perú,Centros de costo,False,19158,511,2.67
+2024-10,Perú,API pública,False,19158,39,0.21
+2024-10,Perú,Conciliación bancaria IA,True,19158,38,0.2
+2024-10,Perú,Captura de facturas por IA,True,19158,38,0.2
+2024-10,Perú,Agente IA fiscal,True,19158,38,0.2
+2024-10,Uruguay,Facturación electrónica,False,13334,11448,85.86
+2024-10,Uruguay,Informes financieros,False,13334,6728,50.46
+2024-10,Uruguay,Inventarios,False,13334,4444,33.33
+2024-10,Uruguay,Nómina electrónica,False,13334,51,0.39
+2024-10,Uruguay,App móvil,False,13334,26,0.2
+2024-10,Uruguay,Cobranza por WhatsApp,False,13334,27,0.21
+2024-10,Uruguay,Siigo Pay,False,13334,25,0.19
+2024-10,Uruguay,Centros de costo,False,13334,389,2.92
+2024-10,Uruguay,API pública,False,13334,27,0.21
+2024-10,Uruguay,Conciliación bancaria IA,True,13334,26,0.2
+2024-10,Uruguay,Captura de facturas por IA,True,13334,27,0.21
+2024-10,Uruguay,Agente IA fiscal,True,13334,27,0.21
+2024-10,Chile,Facturación electrónica,False,4500,3227,71.71
+2024-10,Chile,Informes financieros,False,4500,1813,40.31
+2024-10,Chile,Inventarios,False,4500,1237,27.49
+2024-10,Chile,Nómina electrónica,False,4500,14,0.33
+2024-10,Chile,App móvil,False,4500,8,0.2
+2024-10,Chile,Cobranza por WhatsApp,False,4500,9,0.2
+2024-10,Chile,Siigo Pay,False,4500,9,0.2
+2024-10,Chile,Centros de costo,False,4500,113,2.53
+2024-10,Chile,API pública,False,4500,9,0.2
+2024-10,Chile,Conciliación bancaria IA,True,4500,9,0.21
+2024-10,Chile,Captura de facturas por IA,True,4500,8,0.19
+2024-10,Chile,Agente IA fiscal,True,4500,8,0.2
+2024-11,Colombia,Facturación electrónica,False,107243,97849,91.24
+2024-11,Colombia,Informes financieros,False,107243,50405,47.0
+2024-11,Colombia,Inventarios,False,107243,37355,34.83
+2024-11,Colombia,Nómina electrónica,False,107243,1940,1.81
+2024-11,Colombia,App móvil,False,107243,207,0.19
+2024-11,Colombia,Cobranza por WhatsApp,False,107243,207,0.19
+2024-11,Colombia,Siigo Pay,False,107243,220,0.21
+2024-11,Colombia,Centros de costo,False,107243,4056,3.78
+2024-11,Colombia,API pública,False,107243,208,0.19
+2024-11,Colombia,Conciliación bancaria IA,True,107243,218,0.2
+2024-11,Colombia,Captura de facturas por IA,True,107243,220,0.21
+2024-11,Colombia,Agente IA fiscal,True,107243,218,0.2
+2024-11,México,Facturación electrónica,False,69821,50128,71.8
+2024-11,México,Informes financieros,False,69821,28212,40.41
+2024-11,México,Inventarios,False,69821,18438,26.41
+2024-11,México,Nómina electrónica,False,69821,907,1.3
+2024-11,México,App móvil,False,69821,137,0.2
+2024-11,México,Cobranza por WhatsApp,False,69821,138,0.2
+2024-11,México,Siigo Pay,False,69821,139,0.2
+2024-11,México,Centros de costo,False,69821,1899,2.72
+2024-11,México,API pública,False,69821,146,0.21
+2024-11,México,Conciliación bancaria IA,True,69821,131,0.19
+2024-11,México,Captura de facturas por IA,True,69821,146,0.21
+2024-11,México,Agente IA fiscal,True,69821,140,0.2
+2024-11,Ecuador,Facturación electrónica,False,31325,25340,80.89
+2024-11,Ecuador,Informes financieros,False,31325,14914,47.61
+2024-11,Ecuador,Inventarios,False,31325,10261,32.76
+2024-11,Ecuador,Nómina electrónica,False,31325,532,1.7
+2024-11,Ecuador,App móvil,False,31325,61,0.2
+2024-11,Ecuador,Cobranza por WhatsApp,False,31325,62,0.2
+2024-11,Ecuador,Siigo Pay,False,31325,60,0.19
+2024-11,Ecuador,Centros de costo,False,31325,1060,3.39
+2024-11,Ecuador,API pública,False,31325,62,0.2
+2024-11,Ecuador,Conciliación bancaria IA,True,31325,61,0.2
+2024-11,Ecuador,Captura de facturas por IA,True,31325,62,0.2
+2024-11,Ecuador,Agente IA fiscal,True,31325,60,0.19
+2024-11,Perú,Facturación electrónica,False,19360,14851,76.71
+2024-11,Perú,Informes financieros,False,19360,8721,45.05
+2024-11,Perú,Inventarios,False,19360,6189,31.97
+2024-11,Perú,Nómina electrónica,False,19360,303,1.57
+2024-11,Perú,App móvil,False,19360,35,0.18
+2024-11,Perú,Cobranza por WhatsApp,False,19360,38,0.2
+2024-11,Perú,Siigo Pay,False,19360,39,0.2
+2024-11,Perú,Centros de costo,False,19360,619,3.2
+2024-11,Perú,API pública,False,19360,39,0.21
+2024-11,Perú,Conciliación bancaria IA,True,19360,40,0.21
+2024-11,Perú,Captura de facturas por IA,True,19360,40,0.21
+2024-11,Perú,Agente IA fiscal,True,19360,38,0.2
+2024-11,Uruguay,Facturación electrónica,False,13384,11078,82.77
+2024-11,Uruguay,Informes financieros,False,13384,6655,49.73
+2024-11,Uruguay,Inventarios,False,13384,4617,34.5
+2024-11,Uruguay,Nómina electrónica,False,13384,233,1.74
+2024-11,Uruguay,App móvil,False,13384,27,0.2
+2024-11,Uruguay,Cobranza por WhatsApp,False,13384,27,0.21
+2024-11,Uruguay,Siigo Pay,False,13384,25,0.19
+2024-11,Uruguay,Centros de costo,False,13384,481,3.6
+2024-11,Uruguay,API pública,False,13384,26,0.2
+2024-11,Uruguay,Conciliación bancaria IA,True,13384,26,0.2
+2024-11,Uruguay,Captura de facturas por IA,True,13384,26,0.2
+2024-11,Uruguay,Agente IA fiscal,True,13384,26,0.2
+2024-11,Chile,Facturación electrónica,False,4612,3303,71.62
+2024-11,Chile,Informes financieros,False,4612,1847,40.06
+2024-11,Chile,Inventarios,False,4612,1325,28.74
+2024-11,Chile,Nómina electrónica,False,4612,71,1.55
+2024-11,Chile,App móvil,False,4612,9,0.21
+2024-11,Chile,Cobranza por WhatsApp,False,4612,9,0.21
+2024-11,Chile,Siigo Pay,False,4612,9,0.21
+2024-11,Chile,Centros de costo,False,4612,139,3.02
+2024-11,Chile,API pública,False,4612,9,0.2
+2024-11,Chile,Conciliación bancaria IA,True,4612,8,0.19
+2024-11,Chile,Captura de facturas por IA,True,4612,9,0.21
+2024-11,Chile,Agente IA fiscal,True,4612,9,0.21
+2024-12,Colombia,Facturación electrónica,False,107220,93088,86.82
+2024-12,Colombia,Informes financieros,False,107220,54680,51.0
+2024-12,Colombia,Inventarios,False,107220,39400,36.75
+2024-12,Colombia,Nómina electrónica,False,107220,3273,3.05
+2024-12,Colombia,App móvil,False,107220,1743,1.63
+2024-12,Colombia,Cobranza por WhatsApp,False,107220,219,0.21
+2024-12,Colombia,Siigo Pay,False,107220,215,0.2
+2024-12,Colombia,Centros de costo,False,107220,4727,4.41
+2024-12,Colombia,API pública,False,107220,206,0.19
+2024-12,Colombia,Conciliación bancaria IA,True,107220,224,0.21
+2024-12,Colombia,Captura de facturas por IA,True,107220,212,0.2
+2024-12,Colombia,Agente IA fiscal,True,107220,223,0.21
+2024-12,México,Facturación electrónica,False,70507,47715,67.67
+2024-12,México,Informes financieros,False,70507,28724,40.74
+2024-12,México,Inventarios,False,70507,20947,29.71
+2024-12,México,Nómina electrónica,False,70507,1803,2.56
+2024-12,México,App móvil,False,70507,905,1.28
+2024-12,México,Cobranza por WhatsApp,False,70507,145,0.21
+2024-12,México,Siigo Pay,False,70507,141,0.2
+2024-12,México,Centros de costo,False,70507,2332,3.31
+2024-12,México,API pública,False,70507,140,0.2
+2024-12,México,Conciliación bancaria IA,True,70507,144,0.2
+2024-12,México,Captura de facturas por IA,True,70507,135,0.19
+2024-12,México,Agente IA fiscal,True,70507,143,0.2
+2024-12,Ecuador,Facturación electrónica,False,31465,25572,81.27
+2024-12,Ecuador,Informes financieros,False,31465,15171,48.22
+2024-12,Ecuador,Inventarios,False,31465,10437,33.17
+2024-12,Ecuador,Nómina electrónica,False,31465,959,3.05
+2024-12,Ecuador,App móvil,False,31465,448,1.43
+2024-12,Ecuador,Cobranza por WhatsApp,False,31465,63,0.2
+2024-12,Ecuador,Siigo Pay,False,31465,64,0.2
+2024-12,Ecuador,Centros de costo,False,31465,1238,3.94
+2024-12,Ecuador,API pública,False,31465,62,0.2
+2024-12,Ecuador,Conciliación bancaria IA,True,31465,61,0.19
+2024-12,Ecuador,Captura de facturas por IA,True,31465,61,0.2
+2024-12,Ecuador,Agente IA fiscal,True,31465,65,0.21
+2024-12,Perú,Facturación electrónica,False,19489,15030,77.12
+2024-12,Perú,Informes financieros,False,19489,8750,44.9
+2024-12,Perú,Inventarios,False,19489,6223,31.93
+2024-12,Perú,Nómina electrónica,False,19489,549,2.82
+2024-12,Perú,App móvil,False,19489,274,1.41
+2024-12,Perú,Cobranza por WhatsApp,False,19489,38,0.2
+2024-12,Perú,Siigo Pay,False,19489,39,0.2
+2024-12,Perú,Centros de costo,False,19489,713,3.66
+2024-12,Perú,API pública,False,19489,40,0.21
+2024-12,Perú,Conciliación bancaria IA,True,19489,36,0.19
+2024-12,Perú,Captura de facturas por IA,True,19489,39,0.2
+2024-12,Perú,Agente IA fiscal,True,19489,38,0.2
+2024-12,Uruguay,Facturación electrónica,False,13400,11653,86.97
+2024-12,Uruguay,Informes financieros,False,13400,6870,51.28
+2024-12,Uruguay,Inventarios,False,13400,4930,36.79
+2024-12,Uruguay,Nómina electrónica,False,13400,437,3.27
+2024-12,Uruguay,App móvil,False,13400,213,1.59
+2024-12,Uruguay,Cobranza por WhatsApp,False,13400,26,0.2
+2024-12,Uruguay,Siigo Pay,False,13400,26,0.2
+2024-12,Uruguay,Centros de costo,False,13400,534,3.99
+2024-12,Uruguay,API pública,False,13400,27,0.21
+2024-12,Uruguay,Conciliación bancaria IA,True,13400,26,0.2
+2024-12,Uruguay,Captura de facturas por IA,True,13400,26,0.2
+2024-12,Uruguay,Agente IA fiscal,True,13400,25,0.19
+2024-12,Chile,Facturación electrónica,False,4707,3461,73.54
+2024-12,Chile,Informes financieros,False,4707,1998,42.46
+2024-12,Chile,Inventarios,False,4707,1459,31.0
+2024-12,Chile,Nómina electrónica,False,4707,122,2.61
+2024-12,Chile,App móvil,False,4707,62,1.32
+2024-12,Chile,Cobranza por WhatsApp,False,4707,9,0.2
+2024-12,Chile,Siigo Pay,False,4707,9,0.2
+2024-12,Chile,Centros de costo,False,4707,162,3.45
+2024-12,Chile,API pública,False,4707,9,0.2
+2024-12,Chile,Conciliación bancaria IA,True,4707,9,0.2
+2024-12,Chile,Captura de facturas por IA,True,4707,9,0.19
+2024-12,Chile,Agente IA fiscal,True,4707,8,0.19
+2025-01,Colombia,Facturación electrónica,False,108877,94763,87.04
+2025-01,Colombia,Informes financieros,False,108877,60226,55.32
+2025-01,Colombia,Inventarios,False,108877,41079,37.73
+2025-01,Colombia,Nómina electrónica,False,108877,5103,4.69
+2025-01,Colombia,App móvil,False,108877,4122,3.79
+2025-01,Colombia,Cobranza por WhatsApp,False,108877,220,0.2
+2025-01,Colombia,Siigo Pay,False,108877,233,0.21
+2025-01,Colombia,Centros de costo,False,108877,5380,4.94
+2025-01,Colombia,API pública,False,108877,217,0.2
+2025-01,Colombia,Conciliación bancaria IA,True,108877,223,0.2
+2025-01,Colombia,Captura de facturas por IA,True,108877,215,0.2
+2025-01,Colombia,Agente IA fiscal,True,108877,217,0.2
+2025-01,México,Facturación electrónica,False,72205,48257,66.83
+2025-01,México,Informes financieros,False,72205,30962,42.88
+2025-01,México,Inventarios,False,72205,21411,29.65
+2025-01,México,Nómina electrónica,False,72205,2512,3.48
+2025-01,México,App móvil,False,72205,2071,2.87
+2025-01,México,Cobranza por WhatsApp,False,72205,141,0.2
+2025-01,México,Siigo Pay,False,72205,148,0.21
+2025-01,México,Centros de costo,False,72205,2838,3.93
+2025-01,México,API pública,False,72205,149,0.21
+2025-01,México,Conciliación bancaria IA,True,72205,140,0.19
+2025-01,México,Captura de facturas por IA,True,72205,147,0.2
+2025-01,México,Agente IA fiscal,True,72205,150,0.21
+2025-01,Ecuador,Facturación electrónica,False,31988,26436,82.64
+2025-01,Ecuador,Informes financieros,False,31988,15288,47.8
+2025-01,Ecuador,Inventarios,False,31988,11082,34.64
+2025-01,Ecuador,Nómina electrónica,False,31988,1406,4.4
+2025-01,Ecuador,App móvil,False,31988,1074,3.36
+2025-01,Ecuador,Cobranza por WhatsApp,False,31988,61,0.19
+2025-01,Ecuador,Siigo Pay,False,31988,65,0.2
+2025-01,Ecuador,Centros de costo,False,31988,1416,4.43
+2025-01,Ecuador,API pública,False,31988,61,0.19
+2025-01,Ecuador,Conciliación bancaria IA,True,31988,64,0.2
+2025-01,Ecuador,Captura de facturas por IA,True,31988,62,0.2
+2025-01,Ecuador,Agente IA fiscal,True,31988,63,0.2
+2025-01,Perú,Facturación electrónica,False,19859,15951,80.32
+2025-01,Perú,Informes financieros,False,19859,9539,48.04
+2025-01,Perú,Inventarios,False,19859,6655,33.51
+2025-01,Perú,Nómina electrónica,False,19859,771,3.88
+2025-01,Perú,App móvil,False,19859,661,3.33
+2025-01,Perú,Cobranza por WhatsApp,False,19859,41,0.21
+2025-01,Perú,Siigo Pay,False,19859,39,0.2
+2025-01,Perú,Centros de costo,False,19859,840,4.23
+2025-01,Perú,API pública,False,19859,39,0.2
+2025-01,Perú,Conciliación bancaria IA,True,19859,40,0.2
+2025-01,Perú,Captura de facturas por IA,True,19859,40,0.2
+2025-01,Perú,Agente IA fiscal,True,19859,38,0.2
+2025-01,Uruguay,Facturación electrónica,False,13528,10901,80.59
+2025-01,Uruguay,Informes financieros,False,13528,6692,49.47
+2025-01,Uruguay,Inventarios,False,13528,5123,37.87
+2025-01,Uruguay,Nómina electrónica,False,13528,628,4.65
+2025-01,Uruguay,App móvil,False,13528,475,3.51
+2025-01,Uruguay,Cobranza por WhatsApp,False,13528,27,0.2
+2025-01,Uruguay,Siigo Pay,False,13528,27,0.21
+2025-01,Uruguay,Centros de costo,False,13528,630,4.66
+2025-01,Uruguay,API pública,False,13528,26,0.2
+2025-01,Uruguay,Conciliación bancaria IA,True,13528,28,0.21
+2025-01,Uruguay,Captura de facturas por IA,True,13528,27,0.2
+2025-01,Uruguay,Agente IA fiscal,True,13528,25,0.19
+2025-01,Chile,Facturación electrónica,False,4889,3541,72.44
+2025-01,Chile,Informes financieros,False,4889,2190,44.81
+2025-01,Chile,Inventarios,False,4889,1470,30.07
+2025-01,Chile,Nómina electrónica,False,4889,185,3.8
+2025-01,Chile,App móvil,False,4889,155,3.18
+2025-01,Chile,Cobranza por WhatsApp,False,4889,9,0.2
+2025-01,Chile,Siigo Pay,False,4889,9,0.2
+2025-01,Chile,Centros de costo,False,4889,195,4.0
+2025-01,Chile,API pública,False,4889,9,0.2
+2025-01,Chile,Conciliación bancaria IA,True,4889,9,0.2
+2025-01,Chile,Captura de facturas por IA,True,4889,9,0.19
+2025-01,Chile,Agente IA fiscal,True,4889,9,0.19
+2025-02,Colombia,Facturación electrónica,False,110097,101576,92.26
+2025-02,Colombia,Informes financieros,False,110097,61879,56.2
+2025-02,Colombia,Inventarios,False,110097,40382,36.68
+2025-02,Colombia,Nómina electrónica,False,110097,6587,5.98
+2025-02,Colombia,App móvil,False,110097,6651,6.04
+2025-02,Colombia,Cobranza por WhatsApp,False,110097,221,0.2
+2025-02,Colombia,Siigo Pay,False,110097,224,0.2
+2025-02,Colombia,Centros de costo,False,110097,5869,5.33
+2025-02,Colombia,API pública,False,110097,214,0.19
+2025-02,Colombia,Conciliación bancaria IA,True,110097,232,0.21
+2025-02,Colombia,Captura de facturas por IA,True,110097,214,0.2
+2025-02,Colombia,Agente IA fiscal,True,110097,233,0.21
+2025-02,México,Facturación electrónica,False,73570,51518,70.03
+2025-02,México,Informes financieros,False,73570,31029,42.18
+2025-02,México,Inventarios,False,73570,23750,32.28
+2025-02,México,Nómina electrónica,False,73570,3548,4.82
+2025-02,México,App móvil,False,73570,3232,4.39
+2025-02,México,Cobranza por WhatsApp,False,73570,154,0.21
+2025-02,México,Siigo Pay,False,73570,140,0.19
+2025-02,México,Centros de costo,False,73570,3050,4.15
+2025-02,México,API pública,False,73570,143,0.2
+2025-02,México,Conciliación bancaria IA,True,73570,135,0.18
+2025-02,México,Captura de facturas por IA,True,73570,144,0.2
+2025-02,México,Agente IA fiscal,True,73570,149,0.2
+2025-02,Ecuador,Facturación electrónica,False,32379,27855,86.03
+2025-02,Ecuador,Informes financieros,False,32379,16305,50.36
+2025-02,Ecuador,Inventarios,False,32379,10935,33.77
+2025-02,Ecuador,Nómina electrónica,False,32379,1792,5.54
+2025-02,Ecuador,App móvil,False,32379,1736,5.36
+2025-02,Ecuador,Cobranza por WhatsApp,False,32379,63,0.2
+2025-02,Ecuador,Siigo Pay,False,32379,65,0.2
+2025-02,Ecuador,Centros de costo,False,32379,1584,4.89
+2025-02,Ecuador,API pública,False,32379,65,0.2
+2025-02,Ecuador,Conciliación bancaria IA,True,32379,60,0.19
+2025-02,Ecuador,Captura de facturas por IA,True,32379,65,0.2
+2025-02,Ecuador,Agente IA fiscal,True,32379,60,0.19
+2025-02,Perú,Facturación electrónica,False,20186,16009,79.31
+2025-02,Perú,Informes financieros,False,20186,9693,48.02
+2025-02,Perú,Inventarios,False,20186,6700,33.2
+2025-02,Perú,Nómina electrónica,False,20186,1052,5.21
+2025-02,Perú,App móvil,False,20186,1075,5.33
+2025-02,Perú,Cobranza por WhatsApp,False,20186,41,0.21
+2025-02,Perú,Siigo Pay,False,20186,37,0.19
+2025-02,Perú,Centros de costo,False,20186,1006,4.98
+2025-02,Perú,API pública,False,20186,40,0.2
+2025-02,Perú,Conciliación bancaria IA,True,20186,39,0.2
+2025-02,Perú,Captura de facturas por IA,True,20186,41,0.2
+2025-02,Perú,Agente IA fiscal,True,20186,41,0.21
+2025-02,Uruguay,Facturación electrónica,False,13648,11491,84.2
+2025-02,Uruguay,Informes financieros,False,13648,7476,54.78
+2025-02,Uruguay,Inventarios,False,13648,5165,37.85
+2025-02,Uruguay,Nómina electrónica,False,13648,743,5.45
+2025-02,Uruguay,App móvil,False,13648,757,5.55
+2025-02,Uruguay,Cobranza por WhatsApp,False,13648,27,0.2
+2025-02,Uruguay,Siigo Pay,False,13648,26,0.2
+2025-02,Uruguay,Centros de costo,False,13648,727,5.33
+2025-02,Uruguay,API pública,False,13648,28,0.21
+2025-02,Uruguay,Conciliación bancaria IA,True,13648,28,0.21
+2025-02,Uruguay,Captura de facturas por IA,True,13648,26,0.2
+2025-02,Uruguay,Agente IA fiscal,True,13648,27,0.2
+2025-02,Chile,Facturación electrónica,False,5048,3729,73.88
+2025-02,Chile,Informes financieros,False,5048,2240,44.38
+2025-02,Chile,Inventarios,False,5048,1643,32.56
+2025-02,Chile,Nómina electrónica,False,5048,241,4.79
+2025-02,Chile,App móvil,False,5048,257,5.1
+2025-02,Chile,Cobranza por WhatsApp,False,5048,9,0.19
+2025-02,Chile,Siigo Pay,False,5048,10,0.21
+2025-02,Chile,Centros de costo,False,5048,236,4.69
+2025-02,Chile,API pública,False,5048,10,0.2
+2025-02,Chile,Conciliación bancaria IA,True,5048,10,0.2
+2025-02,Chile,Captura de facturas por IA,True,5048,9,0.19
+2025-02,Chile,Agente IA fiscal,True,5048,10,0.2
+2025-03,Colombia,Facturación electrónica,False,111160,99792,89.77
+2025-03,Colombia,Informes financieros,False,111160,59283,53.33
+2025-03,Colombia,Inventarios,False,111160,44115,39.69
+2025-03,Colombia,Nómina electrónica,False,111160,8521,7.67
+2025-03,Colombia,App móvil,False,111160,9064,8.15
+2025-03,Colombia,Cobranza por WhatsApp,False,111160,220,0.2
+2025-03,Colombia,Siigo Pay,False,111160,242,0.22
+2025-03,Colombia,Centros de costo,False,111160,6717,6.04
+2025-03,Colombia,API pública,False,111160,235,0.21
+2025-03,Colombia,Conciliación bancaria IA,True,111160,217,0.2
+2025-03,Colombia,Captura de facturas por IA,True,111160,218,0.2
+2025-03,Colombia,Agente IA fiscal,True,111160,218,0.2
+2025-03,México,Facturación electrónica,False,74967,53285,71.08
+2025-03,México,Informes financieros,False,74967,32334,43.13
+2025-03,México,Inventarios,False,74967,22787,30.4
+2025-03,México,Nómina electrónica,False,74967,4455,5.94
+2025-03,México,App móvil,False,74967,4730,6.31
+2025-03,México,Cobranza por WhatsApp,False,74967,149,0.2
+2025-03,México,Siigo Pay,False,74967,143,0.19
+2025-03,México,Centros de costo,False,74967,3594,4.79
+2025-03,México,API pública,False,74967,148,0.2
+2025-03,México,Conciliación bancaria IA,True,74967,147,0.2
+2025-03,México,Captura de facturas por IA,True,74967,151,0.2
+2025-03,México,Agente IA fiscal,True,74967,145,0.19
+2025-03,Ecuador,Facturación electrónica,False,32766,26536,80.99
+2025-03,Ecuador,Informes financieros,False,32766,16915,51.62
+2025-03,Ecuador,Inventarios,False,32766,11832,36.11
+2025-03,Ecuador,Nómina electrónica,False,32766,2233,6.82
+2025-03,Ecuador,App móvil,False,32766,2332,7.12
+2025-03,Ecuador,Cobranza por WhatsApp,False,32766,67,0.21
+2025-03,Ecuador,Siigo Pay,False,32766,66,0.2
+2025-03,Ecuador,Centros de costo,False,32766,1810,5.53
+2025-03,Ecuador,API pública,False,32766,66,0.2
+2025-03,Ecuador,Conciliación bancaria IA,True,32766,64,0.2
+2025-03,Ecuador,Captura de facturas por IA,True,32766,64,0.2
+2025-03,Ecuador,Agente IA fiscal,True,32766,66,0.2
+2025-03,Perú,Facturación electrónica,False,20462,16546,80.87
+2025-03,Perú,Informes financieros,False,20462,9587,46.86
+2025-03,Perú,Inventarios,False,20462,7623,37.26
+2025-03,Perú,Nómina electrónica,False,20462,1336,6.53
+2025-03,Perú,App móvil,False,20462,1408,6.88
+2025-03,Perú,Cobranza por WhatsApp,False,20462,43,0.21
+2025-03,Perú,Siigo Pay,False,20462,42,0.21
+2025-03,Perú,Centros de costo,False,20462,1122,5.49
+2025-03,Perú,API pública,False,20462,39,0.19
+2025-03,Perú,Conciliación bancaria IA,True,20462,41,0.2
+2025-03,Perú,Captura de facturas por IA,True,20462,41,0.2
+2025-03,Perú,Agente IA fiscal,True,20462,39,0.19
+2025-03,Uruguay,Facturación electrónica,False,13729,11762,85.68
+2025-03,Uruguay,Informes financieros,False,13729,7211,52.53
+2025-03,Uruguay,Inventarios,False,13729,5185,37.77
+2025-03,Uruguay,Nómina electrónica,False,13729,1008,7.34
+2025-03,Uruguay,App móvil,False,13729,1057,7.7
+2025-03,Uruguay,Cobranza por WhatsApp,False,13729,26,0.19
+2025-03,Uruguay,Siigo Pay,False,13729,28,0.21
+2025-03,Uruguay,Centros de costo,False,13729,835,6.09
+2025-03,Uruguay,API pública,False,13729,29,0.21
+2025-03,Uruguay,Conciliación bancaria IA,True,13729,26,0.19
+2025-03,Uruguay,Captura de facturas por IA,True,13729,28,0.21
+2025-03,Uruguay,Agente IA fiscal,True,13729,27,0.2
+2025-03,Chile,Facturación electrónica,False,5217,3832,73.46
+2025-03,Chile,Informes financieros,False,5217,2315,44.39
+2025-03,Chile,Inventarios,False,5217,1598,30.64
+2025-03,Chile,Nómina electrónica,False,5217,323,6.21
+2025-03,Chile,App móvil,False,5217,334,6.42
+2025-03,Chile,Cobranza por WhatsApp,False,5217,9,0.19
+2025-03,Chile,Siigo Pay,False,5217,10,0.2
+2025-03,Chile,Centros de costo,False,5217,275,5.28
+2025-03,Chile,API pública,False,5217,10,0.21
+2025-03,Chile,Conciliación bancaria IA,True,5217,10,0.2
+2025-03,Chile,Captura de facturas por IA,True,5217,9,0.19
+2025-03,Chile,Agente IA fiscal,True,5217,10,0.2
+2025-04,Colombia,Facturación electrónica,False,111896,104636,93.51
+2025-04,Colombia,Informes financieros,False,111896,63027,56.33
+2025-04,Colombia,Inventarios,False,111896,44824,40.06
+2025-04,Colombia,Nómina electrónica,False,111896,9726,8.69
+2025-04,Colombia,App móvil,False,111896,10930,9.77
+2025-04,Colombia,Cobranza por WhatsApp,False,111896,233,0.21
+2025-04,Colombia,Siigo Pay,False,111896,220,0.2
+2025-04,Colombia,Centros de costo,False,111896,7559,6.76
+2025-04,Colombia,API pública,False,111896,225,0.2
+2025-04,Colombia,Conciliación bancaria IA,True,111896,223,0.2
+2025-04,Colombia,Captura de facturas por IA,True,111896,230,0.21
+2025-04,Colombia,Agente IA fiscal,True,111896,224,0.2
+2025-04,México,Facturación electrónica,False,76075,53531,70.37
+2025-04,México,Informes financieros,False,76075,31993,42.06
+2025-04,México,Inventarios,False,76075,24595,32.33
+2025-04,México,Nómina electrónica,False,76075,5268,6.93
+2025-04,México,App móvil,False,76075,5844,7.68
+2025-04,México,Cobranza por WhatsApp,False,76075,159,0.21
+2025-04,México,Siigo Pay,False,76075,158,0.21
+2025-04,México,Centros de costo,False,76075,3951,5.19
+2025-04,México,API pública,False,76075,154,0.2
+2025-04,México,Conciliación bancaria IA,True,76075,154,0.2
+2025-04,México,Captura de facturas por IA,True,76075,150,0.2
+2025-04,México,Agente IA fiscal,True,76075,153,0.2
+2025-04,Ecuador,Facturación electrónica,False,33031,27535,83.36
+2025-04,Ecuador,Informes financieros,False,33031,15982,48.39
+2025-04,Ecuador,Inventarios,False,33031,12686,38.41
+2025-04,Ecuador,Nómina electrónica,False,33031,2591,7.84
+2025-04,Ecuador,App móvil,False,33031,3038,9.2
+2025-04,Ecuador,Cobranza por WhatsApp,False,33031,64,0.2
+2025-04,Ecuador,Siigo Pay,False,33031,67,0.2
+2025-04,Ecuador,Centros de costo,False,33031,1994,6.04
+2025-04,Ecuador,API pública,False,33031,67,0.2
+2025-04,Ecuador,Conciliación bancaria IA,True,33031,64,0.19
+2025-04,Ecuador,Captura de facturas por IA,True,33031,62,0.19
+2025-04,Ecuador,Agente IA fiscal,True,33031,69,0.21
+2025-04,Perú,Facturación electrónica,False,20721,15416,74.4
+2025-04,Perú,Informes financieros,False,20721,10628,51.29
+2025-04,Perú,Inventarios,False,20721,7388,35.66
+2025-04,Perú,Nómina electrónica,False,20721,1516,7.32
+2025-04,Perú,App móvil,False,20721,1786,8.62
+2025-04,Perú,Cobranza por WhatsApp,False,20721,42,0.2
+2025-04,Perú,Siigo Pay,False,20721,40,0.2
+2025-04,Perú,Centros de costo,False,20721,1233,5.95
+2025-04,Perú,API pública,False,20721,40,0.19
+2025-04,Perú,Conciliación bancaria IA,True,20721,42,0.2
+2025-04,Perú,Captura de facturas por IA,True,20721,38,0.19
+2025-04,Perú,Agente IA fiscal,True,20721,38,0.19
+2025-04,Uruguay,Facturación electrónica,False,13787,12143,88.08
+2025-04,Uruguay,Informes financieros,False,13787,7620,55.27
+2025-04,Uruguay,Inventarios,False,13787,5550,40.26
+2025-04,Uruguay,Nómina electrónica,False,13787,1145,8.31
+2025-04,Uruguay,App móvil,False,13787,1324,9.61
+2025-04,Uruguay,Cobranza por WhatsApp,False,13787,28,0.21
+2025-04,Uruguay,Siigo Pay,False,13787,28,0.21
+2025-04,Uruguay,Centros de costo,False,13787,840,6.1
+2025-04,Uruguay,API pública,False,13787,27,0.2
+2025-04,Uruguay,Conciliación bancaria IA,True,13787,26,0.19
+2025-04,Uruguay,Captura de facturas por IA,True,13787,27,0.2
+2025-04,Uruguay,Agente IA fiscal,True,13787,26,0.19
+2025-04,Chile,Facturación electrónica,False,5376,3963,73.73
+2025-04,Chile,Informes financieros,False,5376,2533,47.13
+2025-04,Chile,Inventarios,False,5376,1762,32.78
+2025-04,Chile,Nómina electrónica,False,5376,386,7.19
+2025-04,Chile,App móvil,False,5376,432,8.04
+2025-04,Chile,Cobranza por WhatsApp,False,5376,11,0.21
+2025-04,Chile,Siigo Pay,False,5376,11,0.21
+2025-04,Chile,Centros de costo,False,5376,282,5.25
+2025-04,Chile,API pública,False,5376,10,0.19
+2025-04,Chile,Conciliación bancaria IA,True,5376,10,0.2
+2025-04,Chile,Captura de facturas por IA,True,5376,10,0.2
+2025-04,Chile,Agente IA fiscal,True,5376,9,0.19
+2025-05,Colombia,Facturación electrónica,False,112592,100770,89.5
+2025-05,Colombia,Informes financieros,False,112592,63850,56.71
+2025-05,Colombia,Inventarios,False,112592,45992,40.85
+2025-05,Colombia,Nómina electrónica,False,112592,11608,10.31
+2025-05,Colombia,App móvil,False,112592,13339,11.85
+2025-05,Colombia,Cobranza por WhatsApp,False,112592,226,0.2
+2025-05,Colombia,Siigo Pay,False,112592,226,0.2
+2025-05,Colombia,Centros de costo,False,112592,8084,7.18
+2025-05,Colombia,API pública,False,112592,227,0.2
+2025-05,Colombia,Conciliación bancaria IA,True,112592,220,0.2
+2025-05,Colombia,Captura de facturas por IA,True,112592,224,0.2
+2025-05,Colombia,Agente IA fiscal,True,112592,216,0.19
+2025-05,México,Facturación electrónica,False,77147,55141,71.48
+2025-05,México,Informes financieros,False,77147,34202,44.33
+2025-05,México,Inventarios,False,77147,25986,33.68
+2025-05,México,Nómina electrónica,False,77147,6244,8.09
+2025-05,México,App móvil,False,77147,7244,9.39
+2025-05,México,Cobranza por WhatsApp,False,77147,154,0.2
+2025-05,México,Siigo Pay,False,77147,157,0.2
+2025-05,México,Centros de costo,False,77147,4335,5.62
+2025-05,México,API pública,False,77147,154,0.2
+2025-05,México,Conciliación bancaria IA,True,77147,157,0.2
+2025-05,México,Captura de facturas por IA,True,77147,158,0.2
+2025-05,México,Agente IA fiscal,True,77147,152,0.2
+2025-05,Ecuador,Facturación electrónica,False,33296,27511,82.63
+2025-05,Ecuador,Informes financieros,False,33296,18264,54.86
+2025-05,Ecuador,Inventarios,False,33296,12629,37.93
+2025-05,Ecuador,Nómina electrónica,False,33296,3122,9.38
+2025-05,Ecuador,App móvil,False,33296,3655,10.98
+2025-05,Ecuador,Cobranza por WhatsApp,False,33296,63,0.19
+2025-05,Ecuador,Siigo Pay,False,33296,64,0.19
+2025-05,Ecuador,Centros de costo,False,33296,2208,6.63
+2025-05,Ecuador,API pública,False,33296,63,0.19
+2025-05,Ecuador,Conciliación bancaria IA,True,33296,64,0.19
+2025-05,Ecuador,Captura de facturas por IA,True,33296,66,0.2
+2025-05,Ecuador,Agente IA fiscal,True,33296,64,0.19
+2025-05,Perú,Facturación electrónica,False,20942,16008,76.44
+2025-05,Perú,Informes financieros,False,20942,10882,51.97
+2025-05,Perú,Inventarios,False,20942,7690,36.72
+2025-05,Perú,Nómina electrónica,False,20942,1880,8.98
+2025-05,Perú,App móvil,False,20942,2212,10.57
+2025-05,Perú,Cobranza por WhatsApp,False,20942,42,0.2
+2025-05,Perú,Siigo Pay,False,20942,39,0.19
+2025-05,Perú,Centros de costo,False,20942,1253,5.99
+2025-05,Perú,API pública,False,20942,40,0.19
+2025-05,Perú,Conciliación bancaria IA,True,20942,42,0.2
+2025-05,Perú,Captura de facturas por IA,True,20942,43,0.21
+2025-05,Perú,Agente IA fiscal,True,20942,40,0.19
+2025-05,Uruguay,Facturación electrónica,False,13855,11525,83.19
+2025-05,Uruguay,Informes financieros,False,13855,7827,56.49
+2025-05,Uruguay,Inventarios,False,13855,5265,38.01
+2025-05,Uruguay,Nómina electrónica,False,13855,1411,10.18
+2025-05,Uruguay,App móvil,False,13855,1573,11.36
+2025-05,Uruguay,Cobranza por WhatsApp,False,13855,28,0.21
+2025-05,Uruguay,Siigo Pay,False,13855,27,0.2
+2025-05,Uruguay,Centros de costo,False,13855,978,7.06
+2025-05,Uruguay,API pública,False,13855,28,0.2
+2025-05,Uruguay,Conciliación bancaria IA,True,13855,26,0.19
+2025-05,Uruguay,Captura de facturas por IA,True,13855,26,0.19
+2025-05,Uruguay,Agente IA fiscal,True,13855,28,0.2
+2025-05,Chile,Facturación electrónica,False,5521,4135,74.91
+2025-05,Chile,Informes financieros,False,5521,2538,45.98
+2025-05,Chile,Inventarios,False,5521,1910,34.61
+2025-05,Chile,Nómina electrónica,False,5521,485,8.79
+2025-05,Chile,App móvil,False,5521,540,9.78
+2025-05,Chile,Cobranza por WhatsApp,False,5521,10,0.2
+2025-05,Chile,Siigo Pay,False,5521,10,0.2
+2025-05,Chile,Centros de costo,False,5521,327,5.93
+2025-05,Chile,API pública,False,5521,11,0.2
+2025-05,Chile,Conciliación bancaria IA,True,5521,10,0.19
+2025-05,Chile,Captura de facturas por IA,True,5521,10,0.19
+2025-05,Chile,Agente IA fiscal,True,5521,10,0.19
+2025-06,Colombia,Facturación electrónica,False,113031,101116,89.46
+2025-06,Colombia,Informes financieros,False,113031,64396,56.97
+2025-06,Colombia,Inventarios,False,113031,45631,40.37
+2025-06,Colombia,Nómina electrónica,False,113031,12995,11.5
+2025-06,Colombia,App móvil,False,113031,16774,14.84
+2025-06,Colombia,Cobranza por WhatsApp,False,113031,222,0.2
+2025-06,Colombia,Siigo Pay,False,113031,226,0.2
+2025-06,Colombia,Centros de costo,False,113031,9032,7.99
+2025-06,Colombia,API pública,False,113031,232,0.21
+2025-06,Colombia,Conciliación bancaria IA,True,113031,227,0.2
+2025-06,Colombia,Captura de facturas por IA,True,113031,222,0.2
+2025-06,Colombia,Agente IA fiscal,True,113031,223,0.2
+2025-06,México,Facturación electrónica,False,78204,58190,74.41
+2025-06,México,Informes financieros,False,78204,35620,45.55
+2025-06,México,Inventarios,False,78204,25478,32.58
+2025-06,México,Nómina electrónica,False,78204,7164,9.16
+2025-06,México,App móvil,False,78204,8759,11.2
+2025-06,México,Cobranza por WhatsApp,False,78204,157,0.2
+2025-06,México,Siigo Pay,False,78204,157,0.2
+2025-06,México,Centros de costo,False,78204,4731,6.05
+2025-06,México,API pública,False,78204,150,0.19
+2025-06,México,Conciliación bancaria IA,True,78204,156,0.2
+2025-06,México,Captura de facturas por IA,True,78204,159,0.2
+2025-06,México,Agente IA fiscal,True,78204,153,0.2
+2025-06,Ecuador,Facturación electrónica,False,33562,28088,83.69
+2025-06,Ecuador,Informes financieros,False,33562,17124,51.02
+2025-06,Ecuador,Inventarios,False,33562,12982,38.68
+2025-06,Ecuador,Nómina electrónica,False,33562,3568,10.63
+2025-06,Ecuador,App móvil,False,33562,4393,13.09
+2025-06,Ecuador,Cobranza por WhatsApp,False,33562,67,0.2
+2025-06,Ecuador,Siigo Pay,False,33562,69,0.21
+2025-06,Ecuador,Centros de costo,False,33562,2366,7.05
+2025-06,Ecuador,API pública,False,33562,66,0.2
+2025-06,Ecuador,Conciliación bancaria IA,True,33562,68,0.2
+2025-06,Ecuador,Captura de facturas por IA,True,33562,67,0.2
+2025-06,Ecuador,Agente IA fiscal,True,33562,68,0.21
+2025-06,Perú,Facturación electrónica,False,21168,17093,80.75
+2025-06,Perú,Informes financieros,False,21168,11493,54.3
+2025-06,Perú,Inventarios,False,21168,7779,36.75
+2025-06,Perú,Nómina electrónica,False,21168,2123,10.03
+2025-06,Perú,App móvil,False,21168,2605,12.31
+2025-06,Perú,Cobranza por WhatsApp,False,21168,42,0.2
+2025-06,Perú,Siigo Pay,False,21168,40,0.19
+2025-06,Perú,Centros de costo,False,21168,1395,6.59
+2025-06,Perú,API pública,False,21168,42,0.2
+2025-06,Perú,Conciliación bancaria IA,True,21168,41,0.2
+2025-06,Perú,Captura de facturas por IA,True,21168,43,0.2
+2025-06,Perú,Agente IA fiscal,True,21168,44,0.21
+2025-06,Uruguay,Facturación electrónica,False,13899,12783,91.97
+2025-06,Uruguay,Informes financieros,False,13899,8061,58.0
+2025-06,Uruguay,Inventarios,False,13899,5446,39.18
+2025-06,Uruguay,Nómina electrónica,False,13899,1666,11.99
+2025-06,Uruguay,App móvil,False,13899,1864,13.42
+2025-06,Uruguay,Cobranza por WhatsApp,False,13899,28,0.21
+2025-06,Uruguay,Siigo Pay,False,13899,28,0.21
+2025-06,Uruguay,Centros de costo,False,13899,1032,7.43
+2025-06,Uruguay,API pública,False,13899,27,0.2
+2025-06,Uruguay,Conciliación bancaria IA,True,13899,27,0.2
+2025-06,Uruguay,Captura de facturas por IA,True,13899,26,0.19
+2025-06,Uruguay,Agente IA fiscal,True,13899,27,0.19
+2025-06,Chile,Facturación electrónica,False,5674,4271,75.29
+2025-06,Chile,Informes financieros,False,5674,2734,48.19
+2025-06,Chile,Inventarios,False,5674,1893,33.37
+2025-06,Chile,Nómina electrónica,False,5674,536,9.45
+2025-06,Chile,App móvil,False,5674,675,11.91
+2025-06,Chile,Cobranza por WhatsApp,False,5674,11,0.2
+2025-06,Chile,Siigo Pay,False,5674,11,0.21
+2025-06,Chile,Centros de costo,False,5674,376,6.63
+2025-06,Chile,API pública,False,5674,11,0.2
+2025-06,Chile,Conciliación bancaria IA,True,5674,11,0.2
+2025-06,Chile,Captura de facturas por IA,True,5674,11,0.21
+2025-06,Chile,Agente IA fiscal,True,5674,11,0.21
+2025-07,Colombia,Facturación electrónica,False,113477,103340,91.07
+2025-07,Colombia,Informes financieros,False,113477,65945,58.11
+2025-07,Colombia,Inventarios,False,113477,46373,40.87
+2025-07,Colombia,Nómina electrónica,False,113477,14660,12.92
+2025-07,Colombia,App móvil,False,113477,17956,15.82
+2025-07,Colombia,Cobranza por WhatsApp,False,113477,203,0.18
+2025-07,Colombia,Siigo Pay,False,113477,214,0.19
+2025-07,Colombia,Centros de costo,False,113477,10191,8.98
+2025-07,Colombia,API pública,False,113477,220,0.19
+2025-07,Colombia,Conciliación bancaria IA,True,113477,229,0.2
+2025-07,Colombia,Captura de facturas por IA,True,113477,231,0.2
+2025-07,Colombia,Agente IA fiscal,True,113477,212,0.19
+2025-07,México,Facturación electrónica,False,79307,55602,70.11
+2025-07,México,Informes financieros,False,79307,34882,43.98
+2025-07,México,Inventarios,False,79307,27175,34.27
+2025-07,México,Nómina electrónica,False,79307,8136,10.26
+2025-07,México,App móvil,False,79307,9674,12.2
+2025-07,México,Cobranza por WhatsApp,False,79307,159,0.2
+2025-07,México,Siigo Pay,False,79307,165,0.21
+2025-07,México,Centros de costo,False,79307,5418,6.83
+2025-07,México,API pública,False,79307,156,0.2
+2025-07,México,Conciliación bancaria IA,True,79307,161,0.2
+2025-07,México,Captura de facturas por IA,True,79307,160,0.2
+2025-07,México,Agente IA fiscal,True,79307,160,0.2
+2025-07,Ecuador,Facturación electrónica,False,33846,27130,80.16
+2025-07,Ecuador,Informes financieros,False,33846,18533,54.76
+2025-07,Ecuador,Inventarios,False,33846,13990,41.33
+2025-07,Ecuador,Nómina electrónica,False,33846,3913,11.56
+2025-07,Ecuador,App móvil,False,33846,5117,15.12
+2025-07,Ecuador,Cobranza por WhatsApp,False,33846,70,0.21
+2025-07,Ecuador,Siigo Pay,False,33846,67,0.2
+2025-07,Ecuador,Centros de costo,False,33846,2547,7.53
+2025-07,Ecuador,API pública,False,33846,69,0.21
+2025-07,Ecuador,Conciliación bancaria IA,True,33846,70,0.21
+2025-07,Ecuador,Captura de facturas por IA,True,33846,67,0.2
+2025-07,Ecuador,Agente IA fiscal,True,33846,66,0.2
+2025-07,Perú,Facturación electrónica,False,21400,17245,80.59
+2025-07,Perú,Informes financieros,False,21400,10870,50.8
+2025-07,Perú,Inventarios,False,21400,8223,38.43
+2025-07,Perú,Nómina electrónica,False,21400,2472,11.55
+2025-07,Perú,App móvil,False,21400,3113,14.55
+2025-07,Perú,Cobranza por WhatsApp,False,21400,43,0.2
+2025-07,Perú,Siigo Pay,False,21400,43,0.2
+2025-07,Perú,Centros de costo,False,21400,1496,6.99
+2025-07,Perú,API pública,False,21400,42,0.2
+2025-07,Perú,Conciliación bancaria IA,True,21400,43,0.2
+2025-07,Perú,Captura de facturas por IA,True,21400,42,0.2
+2025-07,Perú,Agente IA fiscal,True,21400,42,0.2
+2025-07,Uruguay,Facturación electrónica,False,13964,12318,88.22
+2025-07,Uruguay,Informes financieros,False,13964,7613,54.52
+2025-07,Uruguay,Inventarios,False,13964,5872,42.06
+2025-07,Uruguay,Nómina electrónica,False,13964,1790,12.82
+2025-07,Uruguay,App móvil,False,13964,2106,15.08
+2025-07,Uruguay,Cobranza por WhatsApp,False,13964,27,0.19
+2025-07,Uruguay,Siigo Pay,False,13964,28,0.2
+2025-07,Uruguay,Centros de costo,False,13964,1113,7.97
+2025-07,Uruguay,API pública,False,13964,27,0.19
+2025-07,Uruguay,Conciliación bancaria IA,True,13964,28,0.2
+2025-07,Uruguay,Captura de facturas por IA,True,13964,27,0.2
+2025-07,Uruguay,Agente IA fiscal,True,13964,28,0.21
+2025-07,Chile,Facturación electrónica,False,5838,4445,76.14
+2025-07,Chile,Informes financieros,False,5838,2806,48.08
+2025-07,Chile,Inventarios,False,5838,1978,33.88
+2025-07,Chile,Nómina electrónica,False,5838,633,10.85
+2025-07,Chile,App móvil,False,5838,790,13.54
+2025-07,Chile,Cobranza por WhatsApp,False,5838,12,0.21
+2025-07,Chile,Siigo Pay,False,5838,11,0.2
+2025-07,Chile,Centros de costo,False,5838,395,6.77
+2025-07,Chile,API pública,False,5838,12,0.21
+2025-07,Chile,Conciliación bancaria IA,True,5838,11,0.2
+2025-07,Chile,Captura de facturas por IA,True,5838,12,0.21
+2025-07,Chile,Agente IA fiscal,True,5838,12,0.21
+2025-08,Colombia,Facturación electrónica,False,114203,105447,92.33
+2025-08,Colombia,Informes financieros,False,114203,69736,61.06
+2025-08,Colombia,Inventarios,False,114203,50156,43.92
+2025-08,Colombia,Nómina electrónica,False,114203,16238,14.22
+2025-08,Colombia,App móvil,False,114203,21496,18.82
+2025-08,Colombia,Cobranza por WhatsApp,False,114203,229,0.2
+2025-08,Colombia,Siigo Pay,False,114203,236,0.21
+2025-08,Colombia,Centros de costo,False,114203,10062,8.81
+2025-08,Colombia,API pública,False,114203,233,0.2
+2025-08,Colombia,Conciliación bancaria IA,True,114203,233,0.2
+2025-08,Colombia,Captura de facturas por IA,True,114203,224,0.2
+2025-08,Colombia,Agente IA fiscal,True,114203,237,0.21
+2025-08,México,Facturación electrónica,False,80508,57294,71.17
+2025-08,México,Informes financieros,False,80508,36520,45.36
+2025-08,México,Inventarios,False,80508,27866,34.61
+2025-08,México,Nómina electrónica,False,80508,8626,10.71
+2025-08,México,App móvil,False,80508,11160,13.86
+2025-08,México,Cobranza por WhatsApp,False,80508,158,0.2
+2025-08,México,Siigo Pay,False,80508,159,0.2
+2025-08,México,Centros de costo,False,80508,5675,7.05
+2025-08,México,API pública,False,80508,158,0.2
+2025-08,México,Conciliación bancaria IA,True,80508,159,0.2
+2025-08,México,Captura de facturas por IA,True,80508,162,0.2
+2025-08,México,Agente IA fiscal,True,80508,156,0.19
+2025-08,Ecuador,Facturación electrónica,False,34180,28029,82.01
+2025-08,Ecuador,Informes financieros,False,34180,18758,54.88
+2025-08,Ecuador,Inventarios,False,34180,13304,38.92
+2025-08,Ecuador,Nómina electrónica,False,34180,4634,13.56
+2025-08,Ecuador,App móvil,False,34180,5617,16.44
+2025-08,Ecuador,Cobranza por WhatsApp,False,34180,69,0.2
+2025-08,Ecuador,Siigo Pay,False,34180,67,0.2
+2025-08,Ecuador,Centros de costo,False,34180,2828,8.27
+2025-08,Ecuador,API pública,False,34180,67,0.2
+2025-08,Ecuador,Conciliación bancaria IA,True,34180,67,0.2
+2025-08,Ecuador,Captura de facturas por IA,True,34180,67,0.2
+2025-08,Ecuador,Agente IA fiscal,True,34180,69,0.2
+2025-08,Perú,Facturación electrónica,False,21663,17501,80.79
+2025-08,Perú,Informes financieros,False,21663,11599,53.54
+2025-08,Perú,Inventarios,False,21663,8436,38.94
+2025-08,Perú,Nómina electrónica,False,21663,2736,12.63
+2025-08,Perú,App móvil,False,21663,3324,15.34
+2025-08,Perú,Cobranza por WhatsApp,False,21663,42,0.19
+2025-08,Perú,Siigo Pay,False,21663,44,0.2
+2025-08,Perú,Centros de costo,False,21663,1737,8.02
+2025-08,Perú,API pública,False,21663,43,0.2
+2025-08,Perú,Conciliación bancaria IA,True,21663,42,0.19
+2025-08,Perú,Captura de facturas por IA,True,21663,44,0.2
+2025-08,Perú,Agente IA fiscal,True,21663,43,0.2
+2025-08,Uruguay,Facturación electrónica,False,14040,12267,87.37
+2025-08,Uruguay,Informes financieros,False,14040,8156,58.09
+2025-08,Uruguay,Inventarios,False,14040,5866,41.79
+2025-08,Uruguay,Nómina electrónica,False,14040,1922,13.69
+2025-08,Uruguay,App móvil,False,14040,2556,18.21
+2025-08,Uruguay,Cobranza por WhatsApp,False,14040,27,0.19
+2025-08,Uruguay,Siigo Pay,False,14040,29,0.21
+2025-08,Uruguay,Centros de costo,False,14040,1234,8.79
+2025-08,Uruguay,API pública,False,14040,27,0.2
+2025-08,Uruguay,Conciliación bancaria IA,True,14040,28,0.2
+2025-08,Uruguay,Captura de facturas por IA,True,14040,27,0.2
+2025-08,Uruguay,Agente IA fiscal,True,14040,26,0.19
+2025-08,Chile,Facturación electrónica,False,5999,4250,70.85
+2025-08,Chile,Informes financieros,False,5999,3112,51.88
+2025-08,Chile,Inventarios,False,5999,2234,37.26
+2025-08,Chile,Nómina electrónica,False,5999,727,12.12
+2025-08,Chile,App móvil,False,5999,888,14.82
+2025-08,Chile,Cobranza por WhatsApp,False,5999,12,0.2
+2025-08,Chile,Siigo Pay,False,5999,12,0.2
+2025-08,Chile,Centros de costo,False,5999,434,7.25
+2025-08,Chile,API pública,False,5999,11,0.19
+2025-08,Chile,Conciliación bancaria IA,True,5999,11,0.2
+2025-08,Chile,Captura de facturas por IA,True,5999,11,0.2
+2025-08,Chile,Agente IA fiscal,True,5999,12,0.2
+2025-09,Colombia,Facturación electrónica,False,115103,107073,93.02
+2025-09,Colombia,Informes financieros,False,115103,71584,62.19
+2025-09,Colombia,Inventarios,False,115103,50878,44.2
+2025-09,Colombia,Nómina electrónica,False,115103,18405,15.99
+2025-09,Colombia,App móvil,False,115103,23356,20.29
+2025-09,Colombia,Cobranza por WhatsApp,False,115103,217,0.19
+2025-09,Colombia,Siigo Pay,False,115103,234,0.2
+2025-09,Colombia,Centros de costo,False,115103,11400,9.9
+2025-09,Colombia,API pública,False,115103,654,0.57
+2025-09,Colombia,Conciliación bancaria IA,True,115103,234,0.2
+2025-09,Colombia,Captura de facturas por IA,True,115103,233,0.2
+2025-09,Colombia,Agente IA fiscal,True,115103,230,0.2
+2025-09,México,Facturación electrónica,False,81810,59791,73.09
+2025-09,México,Informes financieros,False,81810,38871,47.51
+2025-09,México,Inventarios,False,81810,29504,36.06
+2025-09,México,Nómina electrónica,False,81810,10210,12.48
+2025-09,México,App móvil,False,81810,13187,16.12
+2025-09,México,Cobranza por WhatsApp,False,81810,166,0.2
+2025-09,México,Siigo Pay,False,81810,166,0.2
+2025-09,México,Centros de costo,False,81810,6135,7.5
+2025-09,México,API pública,False,81810,365,0.45
+2025-09,México,Conciliación bancaria IA,True,81810,160,0.2
+2025-09,México,Captura de facturas por IA,True,81810,164,0.2
+2025-09,México,Agente IA fiscal,True,81810,168,0.21
+2025-09,Ecuador,Facturación electrónica,False,34493,27852,80.75
+2025-09,Ecuador,Informes financieros,False,34493,19427,56.32
+2025-09,Ecuador,Inventarios,False,34493,13751,39.87
+2025-09,Ecuador,Nómina electrónica,False,34493,5106,14.8
+2025-09,Ecuador,App móvil,False,34493,6514,18.89
+2025-09,Ecuador,Cobranza por WhatsApp,False,34493,70,0.2
+2025-09,Ecuador,Siigo Pay,False,34493,66,0.19
+2025-09,Ecuador,Centros de costo,False,34493,2974,8.62
+2025-09,Ecuador,API pública,False,34493,187,0.54
+2025-09,Ecuador,Conciliación bancaria IA,True,34493,70,0.2
+2025-09,Ecuador,Captura de facturas por IA,True,34493,65,0.19
+2025-09,Ecuador,Agente IA fiscal,True,34493,75,0.22
+2025-09,Perú,Facturación electrónica,False,21911,17326,79.08
+2025-09,Perú,Informes financieros,False,21911,11864,54.15
+2025-09,Perú,Inventarios,False,21911,8396,38.32
+2025-09,Perú,Nómina electrónica,False,21911,2976,13.58
+2025-09,Perú,App móvil,False,21911,4058,18.52
+2025-09,Perú,Cobranza por WhatsApp,False,21911,44,0.2
+2025-09,Perú,Siigo Pay,False,21911,43,0.2
+2025-09,Perú,Centros de costo,False,21911,1879,8.58
+2025-09,Perú,API pública,False,21911,113,0.52
+2025-09,Perú,Conciliación bancaria IA,True,21911,43,0.2
+2025-09,Perú,Captura de facturas por IA,True,21911,44,0.21
+2025-09,Perú,Agente IA fiscal,True,21911,43,0.2
+2025-09,Uruguay,Facturación electrónica,False,14119,12155,86.1
+2025-09,Uruguay,Informes financieros,False,14119,8614,61.02
+2025-09,Uruguay,Inventarios,False,14119,6030,42.71
+2025-09,Uruguay,Nómina electrónica,False,14119,2074,14.69
+2025-09,Uruguay,App móvil,False,14119,2674,18.94
+2025-09,Uruguay,Cobranza por WhatsApp,False,14119,26,0.19
+2025-09,Uruguay,Siigo Pay,False,14119,30,0.21
+2025-09,Uruguay,Centros de costo,False,14119,1307,9.26
+2025-09,Uruguay,API pública,False,14119,85,0.6
+2025-09,Uruguay,Conciliación bancaria IA,True,14119,28,0.2
+2025-09,Uruguay,Captura de facturas por IA,True,14119,29,0.21
+2025-09,Uruguay,Agente IA fiscal,True,14119,28,0.2
+2025-09,Chile,Facturación electrónica,False,6187,4729,76.45
+2025-09,Chile,Informes financieros,False,6187,3144,50.82
+2025-09,Chile,Inventarios,False,6187,2223,35.95
+2025-09,Chile,Nómina electrónica,False,6187,814,13.17
+2025-09,Chile,App móvil,False,6187,1021,16.51
+2025-09,Chile,Cobranza por WhatsApp,False,6187,12,0.2
+2025-09,Chile,Siigo Pay,False,6187,12,0.2
+2025-09,Chile,Centros de costo,False,6187,496,8.02
+2025-09,Chile,API pública,False,6187,31,0.51
+2025-09,Chile,Conciliación bancaria IA,True,6187,12,0.2
+2025-09,Chile,Captura de facturas por IA,True,6187,12,0.21
+2025-09,Chile,Agente IA fiscal,True,6187,12,0.2
+2025-10,Colombia,Facturación electrónica,False,115792,107498,92.84
+2025-10,Colombia,Informes financieros,False,115792,74273,64.14
+2025-10,Colombia,Inventarios,False,115792,53898,46.55
+2025-10,Colombia,Nómina electrónica,False,115792,21191,18.3
+2025-10,Colombia,App móvil,False,115792,27280,23.56
+2025-10,Colombia,Cobranza por WhatsApp,False,115792,228,0.2
+2025-10,Colombia,Siigo Pay,False,115792,236,0.2
+2025-10,Colombia,Centros de costo,False,115792,12205,10.54
+2025-10,Colombia,API pública,False,115792,1534,1.33
+2025-10,Colombia,Conciliación bancaria IA,True,115792,226,0.2
+2025-10,Colombia,Captura de facturas por IA,True,115792,240,0.21
+2025-10,Colombia,Agente IA fiscal,True,115792,232,0.2
+2025-10,México,Facturación electrónica,False,83023,63914,76.98
+2025-10,México,Informes financieros,False,83023,40520,48.81
+2025-10,México,Inventarios,False,83023,27549,33.18
+2025-10,México,Nómina electrónica,False,83023,11698,14.09
+2025-10,México,App móvil,False,83023,14315,17.24
+2025-10,México,Cobranza por WhatsApp,False,83023,169,0.2
+2025-10,México,Siigo Pay,False,83023,169,0.2
+2025-10,México,Centros de costo,False,83023,6761,8.14
+2025-10,México,API pública,False,83023,879,1.06
+2025-10,México,Conciliación bancaria IA,True,83023,163,0.2
+2025-10,México,Captura de facturas por IA,True,83023,170,0.21
+2025-10,México,Agente IA fiscal,True,83023,157,0.19
+2025-10,Ecuador,Facturación electrónica,False,34832,30141,86.53
+2025-10,Ecuador,Informes financieros,False,34832,20742,59.55
+2025-10,Ecuador,Inventarios,False,34832,15017,43.11
+2025-10,Ecuador,Nómina electrónica,False,34832,5497,15.78
+2025-10,Ecuador,App móvil,False,34832,7142,20.51
+2025-10,Ecuador,Cobranza por WhatsApp,False,34832,67,0.19
+2025-10,Ecuador,Siigo Pay,False,34832,65,0.19
+2025-10,Ecuador,Centros de costo,False,34832,3364,9.66
+2025-10,Ecuador,API pública,False,34832,444,1.28
+2025-10,Ecuador,Conciliación bancaria IA,True,34832,65,0.19
+2025-10,Ecuador,Captura de facturas por IA,True,34832,68,0.2
+2025-10,Ecuador,Agente IA fiscal,True,34832,71,0.21
+2025-10,Perú,Facturación electrónica,False,22160,17051,76.95
+2025-10,Perú,Informes financieros,False,22160,12088,54.55
+2025-10,Perú,Inventarios,False,22160,8750,39.49
+2025-10,Perú,Nómina electrónica,False,22160,3237,14.61
+2025-10,Perú,App móvil,False,22160,4338,19.58
+2025-10,Perú,Cobranza por WhatsApp,False,22160,41,0.19
+2025-10,Perú,Siigo Pay,False,22160,43,0.2
+2025-10,Perú,Centros de costo,False,22160,2007,9.06
+2025-10,Perú,API pública,False,22160,265,1.2
+2025-10,Perú,Conciliación bancaria IA,True,22160,46,0.21
+2025-10,Perú,Captura de facturas por IA,True,22160,43,0.2
+2025-10,Perú,Agente IA fiscal,True,22160,43,0.2
+2025-10,Uruguay,Facturación electrónica,False,14194,12664,89.22
+2025-10,Uruguay,Informes financieros,False,14194,8708,61.35
+2025-10,Uruguay,Inventarios,False,14194,6471,45.59
+2025-10,Uruguay,Nómina electrónica,False,14194,2332,16.43
+2025-10,Uruguay,App móvil,False,14194,3068,21.62
+2025-10,Uruguay,Cobranza por WhatsApp,False,14194,26,0.19
+2025-10,Uruguay,Siigo Pay,False,14194,28,0.2
+2025-10,Uruguay,Centros de costo,False,14194,1403,9.89
+2025-10,Uruguay,API pública,False,14194,204,1.44
+2025-10,Uruguay,Conciliación bancaria IA,True,14194,26,0.18
+2025-10,Uruguay,Captura de facturas por IA,True,14194,27,0.2
+2025-10,Uruguay,Agente IA fiscal,True,14194,29,0.21
+2025-10,Chile,Facturación electrónica,False,6370,4881,76.63
+2025-10,Chile,Informes financieros,False,6370,3436,53.96
+2025-10,Chile,Inventarios,False,6370,2405,37.76
+2025-10,Chile,Nómina electrónica,False,6370,928,14.57
+2025-10,Chile,App móvil,False,6370,1191,18.7
+2025-10,Chile,Cobranza por WhatsApp,False,6370,12,0.2
+2025-10,Chile,Siigo Pay,False,6370,13,0.21
+2025-10,Chile,Centros de costo,False,6370,535,8.41
+2025-10,Chile,API pública,False,6370,72,1.14
+2025-10,Chile,Conciliación bancaria IA,True,6370,12,0.2
+2025-10,Chile,Captura de facturas por IA,True,6370,12,0.2
+2025-10,Chile,Agente IA fiscal,True,6370,12,0.2
+2025-11,Colombia,Facturación electrónica,False,116339,108564,93.32
+2025-11,Colombia,Informes financieros,False,116339,74271,63.84
+2025-11,Colombia,Inventarios,False,116339,54897,47.19
+2025-11,Colombia,Nómina electrónica,False,116339,21562,18.53
+2025-11,Colombia,App móvil,False,116339,30349,26.09
+2025-11,Colombia,Cobranza por WhatsApp,False,116339,234,0.2
+2025-11,Colombia,Siigo Pay,False,116339,1538,1.32
+2025-11,Colombia,Centros de costo,False,116339,13095,11.26
+2025-11,Colombia,API pública,False,116339,2449,2.11
+2025-11,Colombia,Conciliación bancaria IA,True,116339,232,0.2
+2025-11,Colombia,Captura de facturas por IA,True,116339,237,0.2
+2025-11,Colombia,Agente IA fiscal,True,116339,246,0.21
+2025-11,México,Facturación electrónica,False,84085,63486,75.5
+2025-11,México,Informes financieros,False,84085,43378,51.59
+2025-11,México,Inventarios,False,84085,30035,35.72
+2025-11,México,Nómina electrónica,False,84085,12025,14.3
+2025-11,México,App móvil,False,84085,16604,19.75
+2025-11,México,Cobranza por WhatsApp,False,84085,159,0.19
+2025-11,México,Siigo Pay,False,84085,854,1.02
+2025-11,México,Centros de costo,False,84085,7365,8.76
+2025-11,México,API pública,False,84085,1450,1.72
+2025-11,México,Conciliación bancaria IA,True,84085,172,0.21
+2025-11,México,Captura de facturas por IA,True,84085,172,0.2
+2025-11,México,Agente IA fiscal,True,84085,163,0.19
+2025-11,Ecuador,Facturación electrónica,False,35096,30744,87.6
+2025-11,Ecuador,Informes financieros,False,35096,20887,59.52
+2025-11,Ecuador,Inventarios,False,35096,14937,42.56
+2025-11,Ecuador,Nómina electrónica,False,35096,6011,17.13
+2025-11,Ecuador,App móvil,False,35096,8243,23.49
+2025-11,Ecuador,Cobranza por WhatsApp,False,35096,71,0.2
+2025-11,Ecuador,Siigo Pay,False,35096,400,1.14
+2025-11,Ecuador,Centros de costo,False,35096,3272,9.33
+2025-11,Ecuador,API pública,False,35096,692,1.97
+2025-11,Ecuador,Conciliación bancaria IA,True,35096,74,0.21
+2025-11,Ecuador,Captura de facturas por IA,True,35096,70,0.2
+2025-11,Ecuador,Agente IA fiscal,True,35096,68,0.2
+2025-11,Perú,Facturación electrónica,False,22342,18393,82.33
+2025-11,Perú,Informes financieros,False,22342,12729,56.98
+2025-11,Perú,Inventarios,False,22342,9205,41.2
+2025-11,Perú,Nómina electrónica,False,22342,3692,16.52
+2025-11,Perú,App móvil,False,22342,4972,22.26
+2025-11,Perú,Cobranza por WhatsApp,False,22342,44,0.2
+2025-11,Perú,Siigo Pay,False,22342,260,1.17
+2025-11,Perú,Centros de costo,False,22342,2152,9.63
+2025-11,Perú,API pública,False,22342,432,1.94
+2025-11,Perú,Conciliación bancaria IA,True,22342,44,0.2
+2025-11,Perú,Captura de facturas por IA,True,22342,47,0.21
+2025-11,Perú,Agente IA fiscal,True,22342,47,0.21
+2025-11,Uruguay,Facturación electrónica,False,14249,12515,87.83
+2025-11,Uruguay,Informes financieros,False,14249,8812,61.84
+2025-11,Uruguay,Inventarios,False,14249,6149,43.16
+2025-11,Uruguay,Nómina electrónica,False,14249,2611,18.33
+2025-11,Uruguay,App móvil,False,14249,3381,23.73
+2025-11,Uruguay,Cobranza por WhatsApp,False,14249,28,0.2
+2025-11,Uruguay,Siigo Pay,False,14249,176,1.24
+2025-11,Uruguay,Centros de costo,False,14249,1366,9.59
+2025-11,Uruguay,API pública,False,14249,306,2.15
+2025-11,Uruguay,Conciliación bancaria IA,True,14249,29,0.2
+2025-11,Uruguay,Captura de facturas por IA,True,14249,28,0.2
+2025-11,Uruguay,Agente IA fiscal,True,14249,30,0.21
+2025-11,Chile,Facturación electrónica,False,6549,4914,75.04
+2025-11,Chile,Informes financieros,False,6549,3551,54.23
+2025-11,Chile,Inventarios,False,6549,2553,38.99
+2025-11,Chile,Nómina electrónica,False,6549,1009,15.42
+2025-11,Chile,App móvil,False,6549,1347,20.57
+2025-11,Chile,Cobranza por WhatsApp,False,6549,13,0.2
+2025-11,Chile,Siigo Pay,False,6549,71,1.1
+2025-11,Chile,Centros de costo,False,6549,596,9.11
+2025-11,Chile,API pública,False,6549,114,1.75
+2025-11,Chile,Conciliación bancaria IA,True,6549,13,0.21
+2025-11,Chile,Captura de facturas por IA,True,6549,13,0.21
+2025-11,Chile,Agente IA fiscal,True,6549,12,0.19
+2025-12,Colombia,Facturación electrónica,False,116243,109803,94.46
+2025-12,Colombia,Informes financieros,False,116243,71636,61.63
+2025-12,Colombia,Inventarios,False,116243,56747,48.82
+2025-12,Colombia,Nómina electrónica,False,116243,23321,20.06
+2025-12,Colombia,App móvil,False,116243,29960,25.77
+2025-12,Colombia,Cobranza por WhatsApp,False,116243,2587,2.23
+2025-12,Colombia,Siigo Pay,False,116243,3699,3.18
+2025-12,Colombia,Centros de costo,False,116243,13807,11.88
+2025-12,Colombia,API pública,False,116243,3547,3.05
+2025-12,Colombia,Conciliación bancaria IA,True,116243,235,0.2
+2025-12,Colombia,Captura de facturas por IA,True,116243,237,0.2
+2025-12,Colombia,Agente IA fiscal,True,116243,220,0.19
+2025-12,México,Facturación electrónica,False,84948,58177,68.49
+2025-12,México,Informes financieros,False,84948,42506,50.04
+2025-12,México,Inventarios,False,84948,31182,36.71
+2025-12,México,Nómina electrónica,False,84948,13315,15.68
+2025-12,México,App móvil,False,84948,17620,20.74
+2025-12,México,Cobranza por WhatsApp,False,84948,1513,1.78
+2025-12,México,Siigo Pay,False,84948,2136,2.52
+2025-12,México,Centros de costo,False,84948,7544,8.88
+2025-12,México,API pública,False,84948,1934,2.28
+2025-12,México,Conciliación bancaria IA,True,84948,171,0.2
+2025-12,México,Captura de facturas por IA,True,84948,167,0.2
+2025-12,México,Agente IA fiscal,True,84948,169,0.2
+2025-12,Ecuador,Facturación electrónica,False,35276,30421,86.24
+2025-12,Ecuador,Informes financieros,False,35276,20027,56.77
+2025-12,Ecuador,Inventarios,False,35276,15200,43.09
+2025-12,Ecuador,Nómina electrónica,False,35276,6301,17.86
+2025-12,Ecuador,App móvil,False,35276,8305,23.54
+2025-12,Ecuador,Cobranza por WhatsApp,False,35276,728,2.07
+2025-12,Ecuador,Siigo Pay,False,35276,1045,2.96
+2025-12,Ecuador,Centros de costo,False,35276,3640,10.32
+2025-12,Ecuador,API pública,False,35276,988,2.8
+2025-12,Ecuador,Conciliación bancaria IA,True,35276,72,0.21
+2025-12,Ecuador,Captura de facturas por IA,True,35276,70,0.2
+2025-12,Ecuador,Agente IA fiscal,True,35276,73,0.21
+2025-12,Perú,Facturación electrónica,False,22488,18441,82.01
+2025-12,Perú,Informes financieros,False,22488,12436,55.3
+2025-12,Perú,Inventarios,False,22488,9424,41.91
+2025-12,Perú,Nómina electrónica,False,22488,3864,17.18
+2025-12,Perú,App móvil,False,22488,5279,23.48
+2025-12,Perú,Cobranza por WhatsApp,False,22488,456,2.03
+2025-12,Perú,Siigo Pay,False,22488,656,2.92
+2025-12,Perú,Centros de costo,False,22488,2246,9.99
+2025-12,Perú,API pública,False,22488,600,2.67
+2025-12,Perú,Conciliación bancaria IA,True,22488,44,0.2
+2025-12,Perú,Captura de facturas por IA,True,22488,45,0.2
+2025-12,Perú,Agente IA fiscal,True,22488,45,0.2
+2025-12,Uruguay,Facturación electrónica,False,14272,13186,92.39
+2025-12,Uruguay,Informes financieros,False,14272,8877,62.2
+2025-12,Uruguay,Inventarios,False,14272,6295,44.11
+2025-12,Uruguay,Nómina electrónica,False,14272,2785,19.52
+2025-12,Uruguay,App móvil,False,14272,3682,25.8
+2025-12,Uruguay,Cobranza por WhatsApp,False,14272,307,2.15
+2025-12,Uruguay,Siigo Pay,False,14272,464,3.26
+2025-12,Uruguay,Centros de costo,False,14272,1593,11.17
+2025-12,Uruguay,API pública,False,14272,403,2.82
+2025-12,Uruguay,Conciliación bancaria IA,True,14272,27,0.2
+2025-12,Uruguay,Captura de facturas por IA,True,14272,28,0.2
+2025-12,Uruguay,Agente IA fiscal,True,14272,30,0.21
+2025-12,Chile,Facturación electrónica,False,6674,5197,77.88
+2025-12,Chile,Informes financieros,False,6674,3667,54.96
+2025-12,Chile,Inventarios,False,6674,2723,40.81
+2025-12,Chile,Nómina electrónica,False,6674,1068,16.01
+2025-12,Chile,App móvil,False,6674,1522,22.81
+2025-12,Chile,Cobranza por WhatsApp,False,6674,135,2.04
+2025-12,Chile,Siigo Pay,False,6674,173,2.59
+2025-12,Chile,Centros de costo,False,6674,635,9.52
+2025-12,Chile,API pública,False,6674,166,2.49
+2025-12,Chile,Conciliación bancaria IA,True,6674,12,0.19
+2025-12,Chile,Captura de facturas por IA,True,6674,12,0.19
+2025-12,Chile,Agente IA fiscal,True,6674,13,0.2
+2026-01,Colombia,Facturación electrónica,False,118117,112508,95.25
+2026-01,Colombia,Informes financieros,False,118117,78710,66.64
+2026-01,Colombia,Inventarios,False,118117,60002,50.8
+2026-01,Colombia,Nómina electrónica,False,118117,24070,20.38
+2026-01,Colombia,App móvil,False,118117,33746,28.57
+2026-01,Colombia,Cobranza por WhatsApp,False,118117,6727,5.7
+2026-01,Colombia,Siigo Pay,False,118117,6152,5.21
+2026-01,Colombia,Centros de costo,False,118117,14165,11.99
+2026-01,Colombia,API pública,False,118117,4590,3.89
+2026-01,Colombia,Conciliación bancaria IA,True,118117,226,0.19
+2026-01,Colombia,Captura de facturas por IA,True,118117,233,0.2
+2026-01,Colombia,Agente IA fiscal,True,118117,234,0.2
+2026-01,México,Facturación electrónica,False,86969,62285,71.62
+2026-01,México,Informes financieros,False,86969,45011,51.76
+2026-01,México,Inventarios,False,86969,33522,38.55
+2026-01,México,Nómina electrónica,False,86969,13859,15.94
+2026-01,México,App móvil,False,86969,19781,22.75
+2026-01,México,Cobranza por WhatsApp,False,86969,3755,4.32
+2026-01,México,Siigo Pay,False,86969,3516,4.04
+2026-01,México,Centros de costo,False,86969,8406,9.67
+2026-01,México,API pública,False,86969,2636,3.03
+2026-01,México,Conciliación bancaria IA,True,86969,180,0.21
+2026-01,México,Captura de facturas por IA,True,86969,176,0.2
+2026-01,México,Agente IA fiscal,True,86969,174,0.2
+2026-01,Ecuador,Facturación electrónica,False,35828,29428,82.14
+2026-01,Ecuador,Informes financieros,False,35828,22603,63.09
+2026-01,Ecuador,Inventarios,False,35828,16172,45.14
+2026-01,Ecuador,Nómina electrónica,False,35828,6848,19.11
+2026-01,Ecuador,App móvil,False,35828,9268,25.87
+2026-01,Ecuador,Cobranza por WhatsApp,False,35828,1881,5.25
+2026-01,Ecuador,Siigo Pay,False,35828,1680,4.69
+2026-01,Ecuador,Centros de costo,False,35828,3888,10.85
+2026-01,Ecuador,API pública,False,35828,1275,3.56
+2026-01,Ecuador,Conciliación bancaria IA,True,35828,66,0.19
+2026-01,Ecuador,Captura de facturas por IA,True,35828,71,0.2
+2026-01,Ecuador,Agente IA fiscal,True,35828,73,0.2
+2026-01,Perú,Facturación electrónica,False,22878,17746,77.57
+2026-01,Perú,Informes financieros,False,22878,14068,61.49
+2026-01,Perú,Inventarios,False,22878,10129,44.27
+2026-01,Perú,Nómina electrónica,False,22878,4283,18.72
+2026-01,Perú,App móvil,False,22878,5948,26.0
+2026-01,Perú,Cobranza por WhatsApp,False,22878,1124,4.91
+2026-01,Perú,Siigo Pay,False,22878,1033,4.52
+2026-01,Perú,Centros de costo,False,22878,2433,10.64
+2026-01,Perú,API pública,False,22878,769,3.36
+2026-01,Perú,Conciliación bancaria IA,True,22878,43,0.19
+2026-01,Perú,Captura de facturas por IA,True,22878,44,0.2
+2026-01,Perú,Agente IA fiscal,True,22878,44,0.2
+2026-01,Uruguay,Facturación electrónica,False,14410,12690,88.06
+2026-01,Uruguay,Informes financieros,False,14410,9323,64.7
+2026-01,Uruguay,Inventarios,False,14410,6893,47.84
+2026-01,Uruguay,Nómina electrónica,False,14410,2989,20.75
+2026-01,Uruguay,App móvil,False,14410,3730,25.89
+2026-01,Uruguay,Cobranza por WhatsApp,False,14410,804,5.58
+2026-01,Uruguay,Siigo Pay,False,14410,695,4.82
+2026-01,Uruguay,Centros de costo,False,14410,1611,11.18
+2026-01,Uruguay,API pública,False,14410,520,3.61
+2026-01,Uruguay,Conciliación bancaria IA,True,14410,27,0.19
+2026-01,Uruguay,Captura de facturas por IA,True,14410,27,0.19
+2026-01,Uruguay,Agente IA fiscal,True,14410,28,0.2
+2026-01,Chile,Facturación electrónica,False,6924,5323,76.88
+2026-01,Chile,Informes financieros,False,6924,3627,52.4
+2026-01,Chile,Inventarios,False,6924,2665,38.5
+2026-01,Chile,Nómina electrónica,False,6924,1265,18.27
+2026-01,Chile,App móvil,False,6924,1598,23.09
+2026-01,Chile,Cobranza por WhatsApp,False,6924,342,4.94
+2026-01,Chile,Siigo Pay,False,6924,289,4.18
+2026-01,Chile,Centros de costo,False,6924,709,10.25
+2026-01,Chile,API pública,False,6924,224,3.24
+2026-01,Chile,Conciliación bancaria IA,True,6924,12,0.19
+2026-01,Chile,Captura de facturas por IA,True,6924,13,0.2
+2026-01,Chile,Agente IA fiscal,True,6924,13,0.19
+2026-02,Colombia,Facturación electrónica,False,119599,110542,92.43
+2026-02,Colombia,Informes financieros,False,119599,79679,66.62
+2026-02,Colombia,Inventarios,False,119599,60729,50.78
+2026-02,Colombia,Nómina electrónica,False,119599,27759,23.21
+2026-02,Colombia,App móvil,False,119599,37734,31.55
+2026-02,Colombia,Cobranza por WhatsApp,False,119599,10935,9.14
+2026-02,Colombia,Siigo Pay,False,119599,8995,7.52
+2026-02,Colombia,Centros de costo,False,119599,15162,12.68
+2026-02,Colombia,API pública,False,119599,5469,4.57
+2026-02,Colombia,Conciliación bancaria IA,True,119599,238,0.2
+2026-02,Colombia,Captura de facturas por IA,True,119599,242,0.2
+2026-02,Colombia,Agente IA fiscal,True,119599,239,0.2
+2026-02,México,Facturación electrónica,False,88633,66608,75.15
+2026-02,México,Informes financieros,False,88633,48340,54.54
+2026-02,México,Inventarios,False,88633,32482,36.65
+2026-02,México,Nómina electrónica,False,88633,14950,16.87
+2026-02,México,App móvil,False,88633,22352,25.22
+2026-02,México,Cobranza por WhatsApp,False,88633,6142,6.93
+2026-02,México,Siigo Pay,False,88633,4715,5.32
+2026-02,México,Centros de costo,False,88633,9201,10.38
+2026-02,México,API pública,False,88633,3125,3.53
+2026-02,México,Conciliación bancaria IA,True,88633,175,0.2
+2026-02,México,Captura de facturas por IA,True,88633,170,0.19
+2026-02,México,Agente IA fiscal,True,88633,174,0.2
+2026-02,Ecuador,Facturación electrónica,False,36263,29740,82.01
+2026-02,Ecuador,Informes financieros,False,36263,21368,58.93
+2026-02,Ecuador,Inventarios,False,36263,16325,45.02
+2026-02,Ecuador,Nómina electrónica,False,36263,7564,20.86
+2026-02,Ecuador,App móvil,False,36263,9912,27.34
+2026-02,Ecuador,Cobranza por WhatsApp,False,36263,2984,8.23
+2026-02,Ecuador,Siigo Pay,False,36263,2292,6.32
+2026-02,Ecuador,Centros de costo,False,36263,4163,11.48
+2026-02,Ecuador,API pública,False,36263,1603,4.42
+2026-02,Ecuador,Conciliación bancaria IA,True,36263,72,0.2
+2026-02,Ecuador,Captura de facturas por IA,True,36263,73,0.2
+2026-02,Ecuador,Agente IA fiscal,True,36263,75,0.21
+2026-02,Perú,Facturación electrónica,False,23235,19554,84.16
+2026-02,Perú,Informes financieros,False,23235,14186,61.06
+2026-02,Perú,Inventarios,False,23235,10444,44.95
+2026-02,Perú,Nómina electrónica,False,23235,4779,20.57
+2026-02,Perú,App móvil,False,23235,6581,28.33
+2026-02,Perú,Cobranza por WhatsApp,False,23235,1777,7.65
+2026-02,Perú,Siigo Pay,False,23235,1400,6.03
+2026-02,Perú,Centros de costo,False,23235,2661,11.46
+2026-02,Perú,API pública,False,23235,981,4.23
+2026-02,Perú,Conciliación bancaria IA,True,23235,46,0.2
+2026-02,Perú,Captura de facturas por IA,True,23235,46,0.2
+2026-02,Perú,Agente IA fiscal,True,23235,47,0.21
+2026-02,Uruguay,Facturación electrónica,False,14515,13146,90.57
+2026-02,Uruguay,Informes financieros,False,14515,9287,63.98
+2026-02,Uruguay,Inventarios,False,14515,6417,44.21
+2026-02,Uruguay,Nómina electrónica,False,14515,3138,21.62
+2026-02,Uruguay,App móvil,False,14515,4547,31.33
+2026-02,Uruguay,Cobranza por WhatsApp,False,14515,1215,8.37
+2026-02,Uruguay,Siigo Pay,False,14515,978,6.74
+2026-02,Uruguay,Centros de costo,False,14515,1761,12.13
+2026-02,Uruguay,API pública,False,14515,659,4.55
+2026-02,Uruguay,Conciliación bancaria IA,True,14515,29,0.2
+2026-02,Uruguay,Captura de facturas por IA,True,14515,28,0.19
+2026-02,Uruguay,Agente IA fiscal,True,14515,28,0.2
+2026-02,Chile,Facturación electrónica,False,7158,5264,73.55
+2026-02,Chile,Informes financieros,False,7158,4178,58.37
+2026-02,Chile,Inventarios,False,7158,2834,39.6
+2026-02,Chile,Nómina electrónica,False,7158,1411,19.72
+2026-02,Chile,App móvil,False,7158,1790,25.01
+2026-02,Chile,Cobranza por WhatsApp,False,7158,511,7.14
+2026-02,Chile,Siigo Pay,False,7158,418,5.84
+2026-02,Chile,Centros de costo,False,7158,764,10.69
+2026-02,Chile,API pública,False,7158,274,3.84
+2026-02,Chile,Conciliación bancaria IA,True,7158,14,0.21
+2026-02,Chile,Captura de facturas por IA,True,7158,14,0.2
+2026-02,Chile,Agente IA fiscal,True,7158,13,0.19
+2026-03,Colombia,Facturación electrónica,False,120865,114778,94.96
+2026-03,Colombia,Informes financieros,False,120865,86592,71.64
+2026-03,Colombia,Inventarios,False,120865,63376,52.44
+2026-03,Colombia,Nómina electrónica,False,120865,31084,25.72
+2026-03,Colombia,App móvil,False,120865,38680,32.0
+2026-03,Colombia,Cobranza por WhatsApp,False,120865,15031,12.44
+2026-03,Colombia,Siigo Pay,False,120865,10011,8.28
+2026-03,Colombia,Centros de costo,False,120865,15455,12.79
+2026-03,Colombia,API pública,False,120865,6554,5.42
+2026-03,Colombia,Conciliación bancaria IA,True,120865,240,0.2
+2026-03,Colombia,Captura de facturas por IA,True,120865,235,0.2
+2026-03,Colombia,Agente IA fiscal,True,120865,235,0.19
+2026-03,México,Facturación electrónica,False,90397,66478,73.54
+2026-03,México,Informes financieros,False,90397,48327,53.46
+2026-03,México,Inventarios,False,90397,35651,39.44
+2026-03,México,Nómina electrónica,False,90397,16379,18.12
+2026-03,México,App móvil,False,90397,23110,25.57
+2026-03,México,Cobranza por WhatsApp,False,90397,8792,9.73
+2026-03,México,Siigo Pay,False,90397,6346,7.02
+2026-03,México,Centros de costo,False,90397,9277,10.26
+2026-03,México,API pública,False,90397,3670,4.06
+2026-03,México,Conciliación bancaria IA,True,90397,181,0.2
+2026-03,México,Captura de facturas por IA,True,90397,179,0.2
+2026-03,México,Agente IA fiscal,True,90397,183,0.2
+2026-03,Ecuador,Facturación electrónica,False,36699,30377,82.78
+2026-03,Ecuador,Informes financieros,False,36699,23364,63.67
+2026-03,Ecuador,Inventarios,False,36699,16867,45.96
+2026-03,Ecuador,Nómina electrónica,False,36699,8154,22.22
+2026-03,Ecuador,App móvil,False,36699,11327,30.87
+2026-03,Ecuador,Cobranza por WhatsApp,False,36699,4232,11.53
+2026-03,Ecuador,Siigo Pay,False,36699,2803,7.64
+2026-03,Ecuador,Centros de costo,False,36699,4600,12.54
+2026-03,Ecuador,API pública,False,36699,1774,4.84
+2026-03,Ecuador,Conciliación bancaria IA,True,36699,76,0.21
+2026-03,Ecuador,Captura de facturas por IA,True,36699,68,0.19
+2026-03,Ecuador,Agente IA fiscal,True,36699,72,0.2
+2026-03,Perú,Facturación electrónica,False,23577,19460,82.54
+2026-03,Perú,Informes financieros,False,23577,13906,58.98
+2026-03,Perú,Inventarios,False,23577,10327,43.81
+2026-03,Perú,Nómina electrónica,False,23577,4780,20.28
+2026-03,Perú,App móvil,False,23577,6772,28.72
+2026-03,Perú,Cobranza por WhatsApp,False,23577,2500,10.6
+2026-03,Perú,Siigo Pay,False,23577,1814,7.7
+2026-03,Perú,Centros de costo,False,23577,2743,11.64
+2026-03,Perú,API pública,False,23577,1072,4.55
+2026-03,Perú,Conciliación bancaria IA,True,23577,48,0.21
+2026-03,Perú,Captura de facturas por IA,True,23577,45,0.19
+2026-03,Perú,Agente IA fiscal,True,23577,47,0.2
+2026-03,Uruguay,Facturación electrónica,False,14608,13173,90.18
+2026-03,Uruguay,Informes financieros,False,14608,9379,64.21
+2026-03,Uruguay,Inventarios,False,14608,7262,49.72
+2026-03,Uruguay,Nómina electrónica,False,14608,3379,23.13
+2026-03,Uruguay,App móvil,False,14608,4791,32.8
+2026-03,Uruguay,Cobranza por WhatsApp,False,14608,1710,11.71
+2026-03,Uruguay,Siigo Pay,False,14608,1216,8.33
+2026-03,Uruguay,Centros de costo,False,14608,1870,12.8
+2026-03,Uruguay,API pública,False,14608,768,5.26
+2026-03,Uruguay,Conciliación bancaria IA,True,14608,29,0.2
+2026-03,Uruguay,Captura de facturas por IA,True,14608,29,0.2
+2026-03,Uruguay,Agente IA fiscal,True,14608,30,0.21
+2026-03,Chile,Facturación electrónica,False,7386,5646,76.44
+2026-03,Chile,Informes financieros,False,7386,4080,55.25
+2026-03,Chile,Inventarios,False,7386,3162,42.82
+2026-03,Chile,Nómina electrónica,False,7386,1516,20.53
+2026-03,Chile,App móvil,False,7386,2044,27.68
+2026-03,Chile,Cobranza por WhatsApp,False,7386,738,10.0
+2026-03,Chile,Siigo Pay,False,7386,496,6.72
+2026-03,Chile,Centros de costo,False,7386,781,10.59
+2026-03,Chile,API pública,False,7386,329,4.47
+2026-03,Chile,Conciliación bancaria IA,True,7386,15,0.21
+2026-03,Chile,Captura de facturas por IA,True,7386,14,0.19
+2026-03,Chile,Agente IA fiscal,True,7386,15,0.2
+2026-04,Colombia,Facturación electrónica,False,121739,118639,97.45
+2026-04,Colombia,Informes financieros,False,121739,85778,70.46
+2026-04,Colombia,Inventarios,False,121739,57304,47.07
+2026-04,Colombia,Nómina electrónica,False,121739,30814,25.31
+2026-04,Colombia,App móvil,False,121739,40303,33.11
+2026-04,Colombia,Cobranza por WhatsApp,False,121739,19257,15.82
+2026-04,Colombia,Siigo Pay,False,121739,13114,10.77
+2026-04,Colombia,Centros de costo,False,121739,17120,14.06
+2026-04,Colombia,API pública,False,121739,7912,6.5
+2026-04,Colombia,Conciliación bancaria IA,True,121739,235,0.19
+2026-04,Colombia,Captura de facturas por IA,True,121739,223,0.18
+2026-04,Colombia,Agente IA fiscal,True,121739,237,0.2
+2026-04,México,Facturación electrónica,False,91933,68217,74.2
+2026-04,México,Informes financieros,False,91933,49477,53.82
+2026-04,México,Inventarios,False,91933,36451,39.65
+2026-04,México,Nómina electrónica,False,91933,18544,20.17
+2026-04,México,App móvil,False,91933,25891,28.16
+2026-04,México,Cobranza por WhatsApp,False,91933,11437,12.44
+2026-04,México,Siigo Pay,False,91933,7021,7.64
+2026-04,México,Centros de costo,False,91933,10142,11.03
+2026-04,México,API pública,False,91933,4198,4.57
+2026-04,México,Conciliación bancaria IA,True,91933,181,0.2
+2026-04,México,Captura de facturas por IA,True,91933,190,0.21
+2026-04,México,Agente IA fiscal,True,91933,174,0.19
+2026-04,Ecuador,Facturación electrónica,False,37097,32240,86.91
+2026-04,Ecuador,Informes financieros,False,37097,23326,62.88
+2026-04,Ecuador,Inventarios,False,37097,17565,47.35
+2026-04,Ecuador,Nómina electrónica,False,37097,8917,24.04
+2026-04,Ecuador,App móvil,False,37097,12177,32.83
+2026-04,Ecuador,Cobranza por WhatsApp,False,37097,5395,14.54
+2026-04,Ecuador,Siigo Pay,False,37097,3568,9.62
+2026-04,Ecuador,Centros de costo,False,37097,4877,13.15
+2026-04,Ecuador,API pública,False,37097,2163,5.83
+2026-04,Ecuador,Conciliación bancaria IA,True,37097,75,0.2
+2026-04,Ecuador,Captura de facturas por IA,True,37097,74,0.2
+2026-04,Ecuador,Agente IA fiscal,True,37097,76,0.21
+2026-04,Perú,Facturación electrónica,False,23859,20133,84.39
+2026-04,Perú,Informes financieros,False,23859,14933,62.59
+2026-04,Perú,Inventarios,False,23859,10745,45.04
+2026-04,Perú,Nómina electrónica,False,23859,5255,22.03
+2026-04,Perú,App móvil,False,23859,7457,31.26
+2026-04,Perú,Cobranza por WhatsApp,False,23859,3229,13.54
+2026-04,Perú,Siigo Pay,False,23859,2306,9.67
+2026-04,Perú,Centros de costo,False,23859,2927,12.27
+2026-04,Perú,API pública,False,23859,1262,5.29
+2026-04,Perú,Conciliación bancaria IA,True,23859,48,0.2
+2026-04,Perú,Captura de facturas por IA,True,23859,47,0.2
+2026-04,Perú,Agente IA fiscal,True,23859,47,0.2
+2026-04,Uruguay,Facturación electrónica,False,14705,13655,92.86
+2026-04,Uruguay,Informes financieros,False,14705,9827,66.83
+2026-04,Uruguay,Inventarios,False,14705,6851,46.59
+2026-04,Uruguay,Nómina electrónica,False,14705,3741,25.44
+2026-04,Uruguay,App móvil,False,14705,5359,36.44
+2026-04,Uruguay,Cobranza por WhatsApp,False,14705,2305,15.68
+2026-04,Uruguay,Siigo Pay,False,14705,1540,10.48
+2026-04,Uruguay,Centros de costo,False,14705,1919,13.05
+2026-04,Uruguay,API pública,False,14705,874,5.95
+2026-04,Uruguay,Conciliación bancaria IA,True,14705,28,0.19
+2026-04,Uruguay,Captura de facturas por IA,True,14705,28,0.2
+2026-04,Uruguay,Agente IA fiscal,True,14705,30,0.21
+2026-04,Chile,Facturación electrónica,False,7604,6041,79.45
+2026-04,Chile,Informes financieros,False,7604,4366,57.43
+2026-04,Chile,Inventarios,False,7604,3161,41.58
+2026-04,Chile,Nómina electrónica,False,7604,1644,21.63
+2026-04,Chile,App móvil,False,7604,2205,29.0
+2026-04,Chile,Cobranza por WhatsApp,False,7604,974,12.82
+2026-04,Chile,Siigo Pay,False,7604,687,9.04
+2026-04,Chile,Centros de costo,False,7604,837,11.01
+2026-04,Chile,API pública,False,7604,382,5.03
+2026-04,Chile,Conciliación bancaria IA,True,7604,15,0.2
+2026-04,Chile,Captura de facturas por IA,True,7604,14,0.19
+2026-04,Chile,Agente IA fiscal,True,7604,14,0.19
+2026-05,Colombia,Facturación electrónica,False,122425,113357,92.59
+2026-05,Colombia,Informes financieros,False,122425,86809,70.91
+2026-05,Colombia,Inventarios,False,122425,64499,52.69
+2026-05,Colombia,Nómina electrónica,False,122425,33160,27.09
+2026-05,Colombia,App móvil,False,122425,43360,35.42
+2026-05,Colombia,Cobranza por WhatsApp,False,122425,23298,19.03
+2026-05,Colombia,Siigo Pay,False,122425,15760,12.87
+2026-05,Colombia,Centros de costo,False,122425,17922,14.64
+2026-05,Colombia,API pública,False,122425,8249,6.74
+2026-05,Colombia,Conciliación bancaria IA,True,122425,248,0.2
+2026-05,Colombia,Captura de facturas por IA,True,122425,251,0.21
+2026-05,Colombia,Agente IA fiscal,True,122425,248,0.2
+2026-05,México,Facturación electrónica,False,93310,72020,77.18
+2026-05,México,Informes financieros,False,93310,50287,53.89
+2026-05,México,Inventarios,False,93310,38954,41.75
+2026-05,México,Nómina electrónica,False,93310,18758,20.1
+2026-05,México,App móvil,False,93310,28397,30.43
+2026-05,México,Cobranza por WhatsApp,False,93310,14364,15.39
+2026-05,México,Siigo Pay,False,93310,9650,10.34
+2026-05,México,Centros de costo,False,93310,10647,11.41
+2026-05,México,API pública,False,93310,5178,5.55
+2026-05,México,Conciliación bancaria IA,True,93310,195,0.21
+2026-05,México,Captura de facturas por IA,True,93310,180,0.19
+2026-05,México,Agente IA fiscal,True,93310,175,0.19
+2026-05,Ecuador,Facturación electrónica,False,37384,32890,87.98
+2026-05,Ecuador,Informes financieros,False,37384,25190,67.38
+2026-05,Ecuador,Inventarios,False,37384,18101,48.42
+2026-05,Ecuador,Nómina electrónica,False,37384,8844,23.66
+2026-05,Ecuador,App móvil,False,37384,13211,35.34
+2026-05,Ecuador,Cobranza por WhatsApp,False,37384,6371,17.04
+2026-05,Ecuador,Siigo Pay,False,37384,4238,11.34
+2026-05,Ecuador,Centros de costo,False,37384,4939,13.21
+2026-05,Ecuador,API pública,False,37384,2291,6.13
+2026-05,Ecuador,Conciliación bancaria IA,True,37384,78,0.21
+2026-05,Ecuador,Captura de facturas por IA,True,37384,73,0.2
+2026-05,Ecuador,Agente IA fiscal,True,37384,73,0.2
+2026-05,Perú,Facturación electrónica,False,24135,19632,81.35
+2026-05,Perú,Informes financieros,False,24135,14951,61.95
+2026-05,Perú,Inventarios,False,24135,10839,44.91
+2026-05,Perú,Nómina electrónica,False,24135,5433,22.51
+2026-05,Perú,App móvil,False,24135,8149,33.76
+2026-05,Perú,Cobranza por WhatsApp,False,24135,3902,16.17
+2026-05,Perú,Siigo Pay,False,24135,2703,11.2
+2026-05,Perú,Centros de costo,False,24135,3051,12.64
+2026-05,Perú,API pública,False,24135,1533,6.35
+2026-05,Perú,Conciliación bancaria IA,True,24135,48,0.2
+2026-05,Perú,Captura de facturas por IA,True,24135,48,0.2
+2026-05,Perú,Agente IA fiscal,True,24135,46,0.19
+2026-05,Uruguay,Facturación electrónica,False,14784,13246,89.6
+2026-05,Uruguay,Informes financieros,False,14784,9400,63.58
+2026-05,Uruguay,Inventarios,False,14784,7462,50.48
+2026-05,Uruguay,Nómina electrónica,False,14784,3870,26.18
+2026-05,Uruguay,App móvil,False,14784,5310,35.92
+2026-05,Uruguay,Cobranza por WhatsApp,False,14784,2671,18.07
+2026-05,Uruguay,Siigo Pay,False,14784,1821,12.32
+2026-05,Uruguay,Centros de costo,False,14784,2123,14.36
+2026-05,Uruguay,API pública,False,14784,937,6.34
+2026-05,Uruguay,Conciliación bancaria IA,True,14784,29,0.2
+2026-05,Uruguay,Captura de facturas por IA,True,14784,29,0.2
+2026-05,Uruguay,Agente IA fiscal,True,14784,29,0.2
+2026-05,Chile,Facturación electrónica,False,7800,6249,80.12
+2026-05,Chile,Informes financieros,False,7800,4557,58.44
+2026-05,Chile,Inventarios,False,7800,3353,43.0
+2026-05,Chile,Nómina electrónica,False,7800,1766,22.65
+2026-05,Chile,App móvil,False,7800,2456,31.49
+2026-05,Chile,Cobranza por WhatsApp,False,7800,1277,16.38
+2026-05,Chile,Siigo Pay,False,7800,810,10.39
+2026-05,Chile,Centros de costo,False,7800,938,12.04
+2026-05,Chile,API pública,False,7800,454,5.83
+2026-05,Chile,Conciliación bancaria IA,True,7800,14,0.19
+2026-05,Chile,Captura de facturas por IA,True,7800,15,0.19
+2026-05,Chile,Agente IA fiscal,True,7800,16,0.21
+2026-06,Colombia,Facturación electrónica,False,122992,116151,94.44
+2026-06,Colombia,Informes financieros,False,122992,90635,73.69
+2026-06,Colombia,Inventarios,False,122992,61261,49.81
+2026-06,Colombia,Nómina electrónica,False,122992,32932,26.78
+2026-06,Colombia,App móvil,False,122992,48635,39.54
+2026-06,Colombia,Cobranza por WhatsApp,False,122992,26347,21.42
+2026-06,Colombia,Siigo Pay,False,122992,17801,14.47
+2026-06,Colombia,Centros de costo,False,122992,18063,14.69
+2026-06,Colombia,API pública,False,122992,9885,8.04
+2026-06,Colombia,Conciliación bancaria IA,True,122992,4519,3.67
+2026-06,Colombia,Captura de facturas por IA,True,122992,1485,1.21
+2026-06,Colombia,Agente IA fiscal,True,122992,256,0.21
+2026-06,México,Facturación electrónica,False,94545,72111,76.27
+2026-06,México,Informes financieros,False,94545,53037,56.1
+2026-06,México,Inventarios,False,94545,37056,39.19
+2026-06,México,Nómina electrónica,False,94545,21739,22.99
+2026-06,México,App móvil,False,94545,28805,30.47
+2026-06,México,Cobranza por WhatsApp,False,94545,16296,17.24
+2026-06,México,Siigo Pay,False,94545,10906,11.54
+2026-06,México,Centros de costo,False,94545,10642,11.26
+2026-06,México,API pública,False,94545,5600,5.92
+2026-06,México,Conciliación bancaria IA,True,94545,2720,2.88
+2026-06,México,Captura de facturas por IA,True,94545,873,0.92
+2026-06,México,Agente IA fiscal,True,94545,188,0.2
+2026-06,Ecuador,Facturación electrónica,False,37644,32816,87.18
+2026-06,Ecuador,Informes financieros,False,37644,24638,65.45
+2026-06,Ecuador,Inventarios,False,37644,17874,47.48
+2026-06,Ecuador,Nómina electrónica,False,37644,9879,26.25
+2026-06,Ecuador,App móvil,False,37644,12669,33.66
+2026-06,Ecuador,Cobranza por WhatsApp,False,37644,7750,20.59
+2026-06,Ecuador,Siigo Pay,False,37644,4952,13.16
+2026-06,Ecuador,Centros de costo,False,37644,4946,13.14
+2026-06,Ecuador,API pública,False,37644,2792,7.42
+2026-06,Ecuador,Conciliación bancaria IA,True,37644,1256,3.34
+2026-06,Ecuador,Captura de facturas por IA,True,37644,412,1.1
+2026-06,Ecuador,Agente IA fiscal,True,37644,71,0.19
+2026-06,Perú,Facturación electrónica,False,24361,19897,81.68
+2026-06,Perú,Informes financieros,False,24361,14865,61.02
+2026-06,Perú,Inventarios,False,24361,11449,47.0
+2026-06,Perú,Nómina electrónica,False,24361,6045,24.82
+2026-06,Perú,App móvil,False,24361,8241,33.83
+2026-06,Perú,Cobranza por WhatsApp,False,24361,4720,19.38
+2026-06,Perú,Siigo Pay,False,24361,3225,13.24
+2026-06,Perú,Centros de costo,False,24361,3277,13.45
+2026-06,Perú,API pública,False,24361,1669,6.85
+2026-06,Perú,Conciliación bancaria IA,True,24361,792,3.25
+2026-06,Perú,Captura de facturas por IA,True,24361,258,1.06
+2026-06,Perú,Agente IA fiscal,True,24361,46,0.19
+2026-06,Uruguay,Facturación electrónica,False,14834,13906,93.74
+2026-06,Uruguay,Informes financieros,False,14834,10349,69.77
+2026-06,Uruguay,Inventarios,False,14834,7565,51.0
+2026-06,Uruguay,Nómina electrónica,False,14834,4010,27.04
+2026-06,Uruguay,App móvil,False,14834,5554,37.45
+2026-06,Uruguay,Cobranza por WhatsApp,False,14834,3184,21.47
+2026-06,Uruguay,Siigo Pay,False,14834,2100,14.16
+2026-06,Uruguay,Centros de costo,False,14834,2214,14.93
+2026-06,Uruguay,API pública,False,14834,1173,7.91
+2026-06,Uruguay,Conciliación bancaria IA,True,14834,512,3.46
+2026-06,Uruguay,Captura de facturas por IA,True,14834,174,1.18
+2026-06,Uruguay,Agente IA fiscal,True,14834,29,0.2
+2026-06,Chile,Facturación electrónica,False,7993,6535,81.76
+2026-06,Chile,Informes financieros,False,7993,4680,58.55
+2026-06,Chile,Inventarios,False,7993,3636,45.49
+2026-06,Chile,Nómina electrónica,False,7993,1887,23.61
+2026-06,Chile,App móvil,False,7993,2508,31.39
+2026-06,Chile,Cobranza por WhatsApp,False,7993,1454,18.19
+2026-06,Chile,Siigo Pay,False,7993,956,11.97
+2026-06,Chile,Centros de costo,False,7993,1018,12.74
+2026-06,Chile,API pública,False,7993,532,6.67
+2026-06,Chile,Conciliación bancaria IA,True,7993,243,3.05
+2026-06,Chile,Captura de facturas por IA,True,7993,79,0.99
+2026-06,Chile,Agente IA fiscal,True,7993,16,0.21
+2026-07,Colombia,Facturación electrónica,False,123619,113460,91.78
+2026-07,Colombia,Informes financieros,False,123619,83183,67.29
+2026-07,Colombia,Inventarios,False,123619,63264,51.18
+2026-07,Colombia,Nómina electrónica,False,123619,37221,30.11
+2026-07,Colombia,App móvil,False,123619,52880,42.78
+2026-07,Colombia,Cobranza por WhatsApp,False,123619,31013,25.09
+2026-07,Colombia,Siigo Pay,False,123619,19995,16.17
+2026-07,Colombia,Centros de costo,False,123619,19646,15.89
+2026-07,Colombia,API pública,False,123619,10985,8.89
+2026-07,Colombia,Conciliación bancaria IA,True,123619,9770,7.9
+2026-07,Colombia,Captura de facturas por IA,True,123619,6453,5.22
+2026-07,Colombia,Agente IA fiscal,True,123619,3985,3.22
+2026-07,México,Facturación electrónica,False,95713,69757,72.88
+2026-07,México,Informes financieros,False,95713,55003,57.47
+2026-07,México,Inventarios,False,95713,40948,42.78
+2026-07,México,Nómina electrónica,False,95713,22288,23.29
+2026-07,México,App móvil,False,95713,30085,31.43
+2026-07,México,Cobranza por WhatsApp,False,95713,18865,19.71
+2026-07,México,Siigo Pay,False,95713,12710,13.28
+2026-07,México,Centros de costo,False,95713,11553,12.07
+2026-07,México,API pública,False,95713,6503,6.79
+2026-07,México,Conciliación bancaria IA,True,95713,6144,6.42
+2026-07,México,Captura de facturas por IA,True,95713,3563,3.72
+2026-07,México,Agente IA fiscal,True,95713,2272,2.37
+2026-07,Ecuador,Facturación electrónica,False,37935,31827,83.9
+2026-07,Ecuador,Informes financieros,False,37935,25329,66.77
+2026-07,Ecuador,Inventarios,False,37935,17952,47.32
+2026-07,Ecuador,Nómina electrónica,False,37935,10367,27.33
+2026-07,Ecuador,App móvil,False,37935,13481,35.54
+2026-07,Ecuador,Cobranza por WhatsApp,False,37935,8469,22.33
+2026-07,Ecuador,Siigo Pay,False,37935,5633,14.85
+2026-07,Ecuador,Centros de costo,False,37935,5559,14.66
+2026-07,Ecuador,API pública,False,37935,2994,7.89
+2026-07,Ecuador,Conciliación bancaria IA,True,37935,2844,7.5
+2026-07,Ecuador,Captura de facturas por IA,True,37935,1679,4.43
+2026-07,Ecuador,Agente IA fiscal,True,37935,1062,2.8
+2026-07,Perú,Facturación electrónica,False,24627,22058,89.57
+2026-07,Perú,Informes financieros,False,24627,15246,61.91
+2026-07,Perú,Inventarios,False,24627,12056,48.96
+2026-07,Perú,Nómina electrónica,False,24627,6300,25.58
+2026-07,Perú,App móvil,False,24627,8914,36.2
+2026-07,Perú,Cobranza por WhatsApp,False,24627,5528,22.45
+2026-07,Perú,Siigo Pay,False,24627,3659,14.86
+2026-07,Perú,Centros de costo,False,24627,3464,14.07
+2026-07,Perú,API pública,False,24627,1843,7.49
+2026-07,Perú,Conciliación bancaria IA,True,24627,1657,6.73
+2026-07,Perú,Captura de facturas por IA,True,24627,1105,4.49
+2026-07,Perú,Agente IA fiscal,True,24627,665,2.7
+2026-07,Uruguay,Facturación electrónica,False,14909,13823,92.72
+2026-07,Uruguay,Informes financieros,False,14909,10473,70.25
+2026-07,Uruguay,Inventarios,False,14909,7360,49.37
+2026-07,Uruguay,Nómina electrónica,False,14909,4525,30.35
+2026-07,Uruguay,App móvil,False,14909,5502,36.91
+2026-07,Uruguay,Cobranza por WhatsApp,False,14909,3549,23.81
+2026-07,Uruguay,Siigo Pay,False,14909,2429,16.3
+2026-07,Uruguay,Centros de costo,False,14909,2273,15.25
+2026-07,Uruguay,API pública,False,14909,1176,7.89
+2026-07,Uruguay,Conciliación bancaria IA,True,14909,1191,7.99
+2026-07,Uruguay,Captura de facturas por IA,True,14909,722,4.84
+2026-07,Uruguay,Agente IA fiscal,True,14909,453,3.04
+2026-07,Chile,Facturación electrónica,False,8211,6412,78.1
+2026-07,Chile,Informes financieros,False,8211,5082,61.9
+2026-07,Chile,Inventarios,False,8211,3648,44.44
+2026-07,Chile,Nómina electrónica,False,8211,2011,24.49
+2026-07,Chile,App móvil,False,8211,2877,35.04
+2026-07,Chile,Cobranza por WhatsApp,False,8211,1705,20.77
+2026-07,Chile,Siigo Pay,False,8211,1110,13.53
+2026-07,Chile,Centros de costo,False,8211,1042,12.7
+2026-07,Chile,API pública,False,8211,548,6.68
+2026-07,Chile,Conciliación bancaria IA,True,8211,537,6.55
+2026-07,Chile,Captura de facturas por IA,True,8211,327,3.98
+2026-07,Chile,Agente IA fiscal,True,8211,209,2.55
+2026-08,Colombia,Facturación electrónica,False,124380,123758,99.5
+2026-08,Colombia,Informes financieros,False,124380,95359,76.67
+2026-08,Colombia,Inventarios,False,124380,67565,54.32
+2026-08,Colombia,Nómina electrónica,False,124380,38772,31.17
+2026-08,Colombia,App móvil,False,124380,53803,43.26
+2026-08,Colombia,Cobranza por WhatsApp,False,124380,36699,29.51
+2026-08,Colombia,Siigo Pay,False,124380,23984,19.28
+2026-08,Colombia,Centros de costo,False,124380,20383,16.39
+2026-08,Colombia,API pública,False,124380,11505,9.25
+2026-08,Colombia,Conciliación bancaria IA,True,124380,15334,12.33
+2026-08,Colombia,Captura de facturas por IA,True,124380,10957,8.81
+2026-08,Colombia,Agente IA fiscal,True,124380,7750,6.23
+2026-08,México,Facturación electrónica,False,97258,73666,75.74
+2026-08,México,Informes financieros,False,97258,55298,56.86
+2026-08,México,Inventarios,False,97258,42623,43.83
+2026-08,México,Nómina electrónica,False,97258,23451,24.11
+2026-08,México,App móvil,False,97258,31637,32.53
+2026-08,México,Cobranza por WhatsApp,False,97258,21466,22.07
+2026-08,México,Siigo Pay,False,97258,13797,14.19
+2026-08,México,Centros de costo,False,97258,11991,12.33
+2026-08,México,API pública,False,97258,7326,7.53
+2026-08,México,Conciliación bancaria IA,True,97258,8812,9.06
+2026-08,México,Captura de facturas por IA,True,97258,6627,6.81
+2026-08,México,Agente IA fiscal,True,97258,4492,4.62
+2026-08,Ecuador,Facturación electrónica,False,38306,34590,90.3
+2026-08,Ecuador,Informes financieros,False,38306,25688,67.06
+2026-08,Ecuador,Inventarios,False,38306,19427,50.72
+2026-08,Ecuador,Nómina electrónica,False,38306,11688,30.51
+2026-08,Ecuador,App móvil,False,38306,15522,40.52
+2026-08,Ecuador,Cobranza por WhatsApp,False,38306,10089,26.34
+2026-08,Ecuador,Siigo Pay,False,38306,6543,17.08
+2026-08,Ecuador,Centros de costo,False,38306,5733,14.97
+2026-08,Ecuador,API pública,False,38306,3069,8.01
+2026-08,Ecuador,Conciliación bancaria IA,True,38306,4203,10.97
+2026-08,Ecuador,Captura de facturas por IA,True,38306,2944,7.69
+2026-08,Ecuador,Agente IA fiscal,True,38306,2156,5.63
+2026-08,Perú,Facturación electrónica,False,24905,20119,80.79
+2026-08,Perú,Informes financieros,False,24905,15832,63.57
+2026-08,Perú,Inventarios,False,24905,12506,50.22
+2026-08,Perú,Nómina electrónica,False,24905,6901,27.71
+2026-08,Perú,App móvil,False,24905,9085,36.48
+2026-08,Perú,Cobranza por WhatsApp,False,24905,6254,25.12
+2026-08,Perú,Siigo Pay,False,24905,3907,15.69
+2026-08,Perú,Centros de costo,False,24905,3525,14.16
+2026-08,Perú,API pública,False,24905,2141,8.6
+2026-08,Perú,Conciliación bancaria IA,True,24905,2728,10.95
+2026-08,Perú,Captura de facturas por IA,True,24905,1909,7.67
+2026-08,Perú,Agente IA fiscal,True,24905,1285,5.16
+2026-08,Uruguay,Facturación electrónica,False,14965,14584,97.46
+2026-08,Uruguay,Informes financieros,False,14965,10487,70.08
+2026-08,Uruguay,Inventarios,False,14965,7491,50.06
+2026-08,Uruguay,Nómina electrónica,False,14965,4639,31.0
+2026-08,Uruguay,App móvil,False,14965,6380,42.64
+2026-08,Uruguay,Cobranza por WhatsApp,False,14965,4072,27.21
+2026-08,Uruguay,Siigo Pay,False,14965,2527,16.89
+2026-08,Uruguay,Centros de costo,False,14965,2350,15.71
+2026-08,Uruguay,API pública,False,14965,1343,8.98
+2026-08,Uruguay,Conciliación bancaria IA,True,14965,1707,11.41
+2026-08,Uruguay,Captura de facturas por IA,True,14965,1231,8.23
+2026-08,Uruguay,Agente IA fiscal,True,14965,918,6.14
+2026-08,Chile,Facturación electrónica,False,8472,6890,81.33
+2026-08,Chile,Informes financieros,False,8472,5328,62.89
+2026-08,Chile,Inventarios,False,8472,3835,45.27
+2026-08,Chile,Nómina electrónica,False,8472,2169,25.61
+2026-08,Chile,App móvil,False,8472,3024,35.7
+2026-08,Chile,Cobranza por WhatsApp,False,8472,1917,22.63
+2026-08,Chile,Siigo Pay,False,8472,1253,14.8
+2026-08,Chile,Centros de costo,False,8472,1191,14.06
+2026-08,Chile,API pública,False,8472,639,7.54
+2026-08,Chile,Conciliación bancaria IA,True,8472,842,9.95
+2026-08,Chile,Captura de facturas por IA,True,8472,603,7.13
+2026-08,Chile,Agente IA fiscal,True,8472,427,5.05

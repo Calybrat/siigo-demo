@@ -1,0 +1,1009 @@
+mes,pais,plan,clientes,arpa_usd,mrr_usd
+2024-09,Colombia,Siigo Contador,18051,0.0,0.0
+2024-09,Colombia,Profesional Independiente,24952,31.9,796031.7
+2024-09,Colombia,Emprendedor,28138,41.81,1176393.46
+2024-09,Colombia,Premium,16458,45.42,747570.05
+2024-09,Colombia,Corporativo,5521,85.0,469335.51
+2024-09,Colombia,Siigo POS,8813,19.45,171395.16
+2024-09,Colombia,POS Gastrobar,4247,26.0,110442.8
+2024-10,Colombia,Siigo Contador,18161,0.0,0.0
+2024-10,Colombia,Profesional Independiente,25034,31.99,800820.8
+2024-10,Colombia,Emprendedor,28309,42.15,1193104.75
+2024-10,Colombia,Premium,16589,45.67,757654.87
+2024-10,Colombia,Corporativo,5557,85.84,477003.08
+2024-10,Colombia,Siigo POS,8888,19.51,173424.8
+2024-10,Colombia,POS Gastrobar,4268,26.12,111487.35
+2024-11,Colombia,Siigo Contador,18250,0.0,0.0
+2024-11,Colombia,Profesional Independiente,25051,32.02,802111.08
+2024-11,Colombia,Emprendedor,28463,42.4,1206921.58
+2024-11,Colombia,Premium,16663,45.92,765211.36
+2024-11,Colombia,Corporativo,5589,86.21,481820.28
+2024-11,Colombia,Siigo POS,8942,19.53,174660.76
+2024-11,Colombia,POS Gastrobar,4285,26.16,112121.4
+2024-12,Colombia,Siigo Contador,18258,0.0,0.0
+2024-12,Colombia,Profesional Independiente,25024,32.11,803520.98
+2024-12,Colombia,Emprendedor,28465,42.46,1208507.58
+2024-12,Colombia,Premium,16662,46.21,769973.44
+2024-12,Colombia,Corporativo,5599,86.9,486547.57
+2024-12,Colombia,Siigo POS,8939,19.56,174882.88
+2024-12,Colombia,POS Gastrobar,4273,26.23,112079.47
+2025-01,Colombia,Siigo Contador,18512,0.0,0.0
+2025-01,Colombia,Profesional Independiente,25503,33.91,864935.42
+2025-01,Colombia,Emprendedor,28930,44.95,1300342.63
+2025-01,Colombia,Premium,16841,48.89,823384.3
+2025-01,Colombia,Corporativo,5657,92.12,521168.55
+2025-01,Colombia,Siigo POS,9069,20.7,187761.27
+2025-01,Colombia,POS Gastrobar,4365,27.66,120734.05
+2025-02,Colombia,Siigo Contador,18689,0.0,0.0
+2025-02,Colombia,Profesional Independiente,25894,33.96,879308.49
+2025-02,Colombia,Emprendedor,29233,45.16,1320105.61
+2025-02,Colombia,Premium,16982,49.05,832978.59
+2025-02,Colombia,Corporativo,5705,92.89,529918.63
+2025-02,Colombia,Siigo POS,9162,20.74,190000.51
+2025-02,Colombia,POS Gastrobar,4432,27.7,122763.72
+2025-03,Colombia,Siigo Contador,18882,0.0,0.0
+2025-03,Colombia,Profesional Independiente,26137,34.03,889541.31
+2025-03,Colombia,Emprendedor,29509,45.35,1338088.52
+2025-03,Colombia,Premium,17120,49.24,843031.59
+2025-03,Colombia,Corporativo,5753,93.56,538216.25
+2025-03,Colombia,Siigo POS,9256,20.79,192467.33
+2025-03,Colombia,POS Gastrobar,4503,27.75,124977.01
+2025-04,Colombia,Siigo Contador,19015,0.0,0.0
+2025-04,Colombia,Profesional Independiente,26348,34.08,897821.31
+2025-04,Colombia,Emprendedor,29709,45.53,1352672.34
+2025-04,Colombia,Premium,17225,49.55,853571.18
+2025-04,Colombia,Corporativo,5782,94.19,544624.63
+2025-04,Colombia,Siigo POS,9293,20.91,194340.6
+2025-04,Colombia,POS Gastrobar,4524,27.83,125899.14
+2025-05,Colombia,Siigo Contador,19131,0.0,0.0
+2025-05,Colombia,Profesional Independiente,26473,34.21,905731.3
+2025-05,Colombia,Emprendedor,29905,45.68,1366055.39
+2025-05,Colombia,Premium,17347,49.79,863695.17
+2025-05,Colombia,Corporativo,5817,94.67,550709.67
+2025-05,Colombia,Siigo POS,9367,21.05,197173.09
+2025-05,Colombia,POS Gastrobar,4552,27.97,127329.26
+2025-06,Colombia,Siigo Contador,19216,0.0,0.0
+2025-06,Colombia,Profesional Independiente,26600,34.34,913339.52
+2025-06,Colombia,Emprendedor,29987,45.97,1378381.48
+2025-06,Colombia,Premium,17434,50.08,873184.01
+2025-06,Colombia,Corporativo,5847,95.29,557163.26
+2025-06,Colombia,Siigo POS,9390,21.14,198461.07
+2025-06,Colombia,POS Gastrobar,4557,28.04,127774.8
+2025-07,Colombia,Siigo Contador,19296,0.0,0.0
+2025-07,Colombia,Profesional Independiente,26764,34.48,922675.53
+2025-07,Colombia,Emprendedor,30007,46.19,1385891.47
+2025-07,Colombia,Premium,17497,50.37,881386.8
+2025-07,Colombia,Corporativo,5882,95.99,564607.86
+2025-07,Colombia,Siigo POS,9457,21.21,200632.23
+2025-07,Colombia,POS Gastrobar,4574,28.13,128661.47
+2025-08,Colombia,Siigo Contador,19418,0.0,0.0
+2025-08,Colombia,Profesional Independiente,26947,34.62,932794.93
+2025-08,Colombia,Emprendedor,30244,46.52,1406827.84
+2025-08,Colombia,Premium,17572,50.67,890457.75
+2025-08,Colombia,Corporativo,5915,96.7,572019.37
+2025-08,Colombia,Siigo POS,9505,21.27,202221.8
+2025-08,Colombia,POS Gastrobar,4602,28.14,129501.36
+2025-09,Colombia,Siigo Contador,19521,0.0,0.0
+2025-09,Colombia,Profesional Independiente,27237,34.72,945610.52
+2025-09,Colombia,Emprendedor,30470,46.65,1421442.83
+2025-09,Colombia,Premium,17713,50.87,901108.27
+2025-09,Colombia,Corporativo,5958,96.99,577923.27
+2025-09,Colombia,Siigo POS,9571,21.36,204478.63
+2025-09,Colombia,POS Gastrobar,4633,28.24,130852.31
+2025-10,Colombia,Siigo Contador,19637,0.0,0.0
+2025-10,Colombia,Profesional Independiente,27442,34.76,953883.22
+2025-10,Colombia,Emprendedor,30644,46.94,1438359.24
+2025-10,Colombia,Premium,17784,51.32,912632.34
+2025-10,Colombia,Corporativo,5995,97.66,585474.1
+2025-10,Colombia,Siigo POS,9625,21.42,206144.1
+2025-10,Colombia,POS Gastrobar,4665,28.31,132059.9
+2025-11,Colombia,Siigo Contador,19724,0.0,0.0
+2025-11,Colombia,Profesional Independiente,27607,34.93,964324.65
+2025-11,Colombia,Emprendedor,30747,47.11,1448424.14
+2025-11,Colombia,Premium,17861,51.51,920022.8
+2025-11,Colombia,Corporativo,6029,98.04,591060.18
+2025-11,Colombia,Siigo POS,9686,21.52,208478.03
+2025-11,Colombia,POS Gastrobar,4685,28.42,133125.96
+2025-12,Colombia,Siigo Contador,19729,0.0,0.0
+2025-12,Colombia,Profesional Independiente,27536,35.02,964169.65
+2025-12,Colombia,Emprendedor,30755,47.32,1455492.37
+2025-12,Colombia,Premium,17871,51.88,927044.99
+2025-12,Colombia,Corporativo,6042,98.45,594825.55
+2025-12,Colombia,Siigo POS,9658,21.63,208879.0
+2025-12,Colombia,POS Gastrobar,4652,28.54,132776.91
+2026-01,Colombia,Siigo Contador,20018,0.0,0.0
+2026-01,Colombia,Profesional Independiente,27977,37.17,1039938.38
+2026-01,Colombia,Emprendedor,31284,50.19,1570105.87
+2026-01,Colombia,Premium,18120,55.09,998148.54
+2026-01,Colombia,Corporativo,6120,104.3,638302.02
+2026-01,Colombia,Siigo POS,9865,22.87,225599.18
+2026-01,Colombia,POS Gastrobar,4733,30.26,143221.25
+2026-02,Colombia,Siigo Contador,20236,0.0,0.0
+2026-02,Colombia,Profesional Independiente,28429,37.19,1057370.99
+2026-02,Colombia,Emprendedor,31680,50.39,1596474.68
+2026-02,Colombia,Premium,18318,55.35,1013869.9
+2026-02,Colombia,Corporativo,6178,104.91,648109.63
+2026-02,Colombia,Siigo POS,9955,22.88,227764.53
+2026-02,Colombia,POS Gastrobar,4803,30.31,145598.18
+2026-03,Colombia,Siigo Contador,20425,0.0,0.0
+2026-03,Colombia,Profesional Independiente,28747,37.3,1072289.21
+2026-03,Colombia,Emprendedor,32049,50.57,1620607.18
+2026-03,Colombia,Premium,18518,55.78,1032870.3
+2026-03,Colombia,Corporativo,6230,105.77,658926.01
+2026-03,Colombia,Siigo POS,10034,22.95,230287.24
+2026-03,Colombia,POS Gastrobar,4862,30.23,147010.99
+2026-04,Colombia,Siigo Contador,20596,0.0,0.0
+2026-04,Colombia,Profesional Independiente,28989,37.36,1083153.03
+2026-04,Colombia,Emprendedor,32260,50.64,1633518.97
+2026-04,Colombia,Premium,18636,56.16,1046554.17
+2026-04,Colombia,Corporativo,6267,106.23,665769.19
+2026-04,Colombia,Siigo POS,10095,22.99,232045.91
+2026-04,Colombia,POS Gastrobar,4896,30.31,148387.5
+2026-05,Colombia,Siigo Contador,20718,0.0,0.0
+2026-05,Colombia,Profesional Independiente,29143,37.4,1090101.7
+2026-05,Colombia,Emprendedor,32435,50.8,1647826.7
+2026-05,Colombia,Premium,18765,56.26,1055664.29
+2026-05,Colombia,Corporativo,6304,106.95,674231.68
+2026-05,Colombia,Siigo POS,10126,23.03,233237.07
+2026-05,Colombia,POS Gastrobar,4934,30.34,149704.19
+2026-06,Colombia,Siigo Contador,20823,0.0,0.0
+2026-06,Colombia,Profesional Independiente,29236,37.48,1095629.23
+2026-06,Colombia,Emprendedor,32606,51.04,1664303.92
+2026-06,Colombia,Premium,18863,56.35,1062888.49
+2026-06,Colombia,Corporativo,6340,107.43,681108.42
+2026-06,Colombia,Siigo POS,10165,23.1,234861.88
+2026-06,Colombia,POS Gastrobar,4959,30.48,151153.88
+2026-07,Colombia,Siigo Contador,20900,0.0,0.0
+2026-07,Colombia,Profesional Independiente,29308,37.65,1103585.94
+2026-07,Colombia,Emprendedor,32834,51.16,1679909.11
+2026-07,Colombia,Premium,18988,56.62,1075142.26
+2026-07,Colombia,Corporativo,6371,107.85,687104.39
+2026-07,Colombia,Siigo POS,10238,23.18,237332.63
+2026-07,Colombia,POS Gastrobar,4980,30.54,152080.54
+2026-08,Colombia,Siigo Contador,21073,0.0,0.0
+2026-08,Colombia,Profesional Independiente,29441,37.78,1112190.41
+2026-08,Colombia,Emprendedor,33057,51.47,1701319.96
+2026-08,Colombia,Premium,19075,56.96,1086403.51
+2026-08,Colombia,Corporativo,6407,108.28,693729.59
+2026-08,Colombia,Siigo POS,10304,23.34,240460.5
+2026-08,Colombia,POS Gastrobar,5023,30.63,153839.64
+2024-09,México,Siigo Contador,7605,0.0,0.0
+2024-09,México,Profesional Independiente,20438,40.83,834582.74
+2024-09,México,Emprendedor,17518,53.51,937490.42
+2024-09,México,Premium,9099,58.14,529011.85
+2024-09,México,Corporativo,2784,108.8,302903.53
+2024-09,México,Siigo POS,7062,24.89,175790.02
+2024-09,México,POS Gastrobar,3395,33.28,113002.44
+2024-10,México,Siigo Contador,7719,0.0,0.0
+2024-10,México,Profesional Independiente,20736,40.81,846269.16
+2024-10,México,Emprendedor,17804,53.72,956431.61
+2024-10,México,Premium,9245,58.44,540276.68
+2024-10,México,Corporativo,2831,109.14,308944.06
+2024-10,México,Siigo POS,7166,25.02,179279.3
+2024-10,México,POS Gastrobar,3447,33.29,114727.96
+2024-11,México,Siigo Contador,7839,0.0,0.0
+2024-11,México,Profesional Independiente,20925,40.94,856626.78
+2024-11,México,Emprendedor,18058,53.84,972194.19
+2024-11,México,Premium,9383,58.63,550126.9
+2024-11,México,Corporativo,2870,109.5,314277.9
+2024-11,México,Siigo POS,7255,25.04,181699.23
+2024-11,México,POS Gastrobar,3491,33.4,116629.2
+2024-12,México,Siigo Contador,7915,0.0,0.0
+2024-12,México,Profesional Independiente,21066,41.02,864222.9
+2024-12,México,Emprendedor,18269,53.87,984183.92
+2024-12,México,Premium,9500,58.89,559473.79
+2024-12,México,Corporativo,2907,110.0,319778.45
+2024-12,México,Siigo POS,7330,25.16,184439.78
+2024-12,México,POS Gastrobar,3520,33.42,117647.68
+2025-01,México,Siigo Contador,8082,0.0,0.0
+2025-01,México,Profesional Independiente,21630,43.43,939412.92
+2025-01,México,Emprendedor,18742,56.86,1065767.37
+2025-01,México,Premium,9698,62.17,602953.96
+2025-01,México,Corporativo,2967,116.74,346341.23
+2025-01,México,Siigo POS,7490,26.63,199465.65
+2025-01,México,POS Gastrobar,3596,35.3,126944.47
+2025-02,México,Siigo Contador,8245,0.0,0.0
+2025-02,México,Profesional Independiente,21977,43.37,953104.72
+2025-02,México,Emprendedor,19153,56.92,1090129.69
+2025-02,México,Premium,9873,62.42,616293.02
+2025-02,México,Corporativo,3021,117.1,353713.93
+2025-02,México,Siigo POS,7629,26.69,203636.64
+2025-02,México,POS Gastrobar,3672,35.3,129616.93
+2025-03,México,Siigo Contador,8379,0.0,0.0
+2025-03,México,Profesional Independiente,22474,43.46,976643.36
+2025-03,México,Emprendedor,19476,57.12,1112569.25
+2025-03,México,Premium,10044,62.72,630010.05
+2025-03,México,Corporativo,3069,117.34,360111.26
+2025-03,México,Siigo POS,7773,26.78,208198.38
+2025-03,México,POS Gastrobar,3752,35.22,132167.97
+2025-04,México,Siigo Contador,8500,0.0,0.0
+2025-04,México,Profesional Independiente,22792,43.64,994693.83
+2025-04,México,Emprendedor,19732,57.24,1129513.29
+2025-04,México,Premium,10195,62.98,642064.97
+2025-04,México,Corporativo,3113,117.95,367190.71
+2025-04,México,Siigo POS,7923,26.72,211736.65
+2025-04,México,POS Gastrobar,3820,35.38,135131.6
+2025-05,México,Siigo Contador,8604,0.0,0.0
+2025-05,México,Profesional Independiente,23135,43.68,1010493.53
+2025-05,México,Emprendedor,19969,57.45,1147214.52
+2025-05,México,Premium,10373,62.97,653238.6
+2025-05,México,Corporativo,3159,118.29,373724.8
+2025-05,México,Siigo POS,8034,26.77,215084.22
+2025-05,México,POS Gastrobar,3873,35.54,137640.63
+2025-06,México,Siigo Contador,8727,0.0,0.0
+2025-06,México,Profesional Independiente,23464,43.72,1025879.75
+2025-06,México,Emprendedor,20207,57.75,1166923.43
+2025-06,México,Premium,10518,63.46,667516.18
+2025-06,México,Corporativo,3206,118.59,380181.75
+2025-06,México,Siigo POS,8157,26.81,218692.62
+2025-06,México,POS Gastrobar,3925,35.56,139577.99
+2025-07,México,Siigo Contador,8851,0.0,0.0
+2025-07,México,Profesional Independiente,23780,43.74,1040201.68
+2025-07,México,Emprendedor,20474,57.82,1183792.12
+2025-07,México,Premium,10698,63.74,681900.04
+2025-07,México,Corporativo,3254,118.89,386868.39
+2025-07,México,Siigo POS,8282,26.8,221974.42
+2025-07,México,POS Gastrobar,3968,35.63,141346.8
+2025-08,México,Siigo Contador,9008,0.0,0.0
+2025-08,México,Profesional Independiente,24125,43.72,1054734.49
+2025-08,México,Emprendedor,20826,58.14,1210802.11
+2025-08,México,Premium,10841,63.88,692504.17
+2025-08,México,Corporativo,3300,119.14,393212.14
+2025-08,México,Siigo POS,8387,26.91,225707.79
+2025-08,México,POS Gastrobar,4021,35.71,143576.38
+2025-09,México,Siigo Contador,9161,0.0,0.0
+2025-09,México,Profesional Independiente,24576,43.91,1079093.44
+2025-09,México,Emprendedor,21120,58.32,1231651.57
+2025-09,México,Premium,11009,64.22,707001.58
+2025-09,México,Corporativo,3355,119.01,399299.32
+2025-09,México,Siigo POS,8497,26.95,229009.03
+2025-09,México,POS Gastrobar,4092,35.78,146409.25
+2025-10,México,Siigo Contador,9290,0.0,0.0
+2025-10,México,Profesional Independiente,24938,43.94,1095704.19
+2025-10,México,Emprendedor,21442,58.54,1255196.34
+2025-10,México,Premium,11188,64.43,720861.16
+2025-10,México,Corporativo,3402,119.79,407507.32
+2025-10,México,Siigo POS,8601,27.03,232464.43
+2025-10,México,POS Gastrobar,4162,35.89,149346.51
+2025-11,México,Siigo Contador,9386,0.0,0.0
+2025-11,México,Profesional Independiente,25312,43.89,1111024.78
+2025-11,México,Emprendedor,21674,58.63,1270835.1
+2025-11,México,Premium,11353,64.63,733745.0
+2025-11,México,Corporativo,3450,120.29,414965.21
+2025-11,México,Siigo POS,8698,27.11,235842.81
+2025-11,México,POS Gastrobar,4212,36.03,151748.22
+2025-12,México,Siigo Contador,9506,0.0,0.0
+2025-12,México,Profesional Independiente,25629,43.93,1125773.61
+2025-12,México,Emprendedor,21831,58.77,1282975.94
+2025-12,México,Premium,11479,64.95,745560.85
+2025-12,México,Corporativo,3481,120.96,421114.82
+2025-12,México,Siigo POS,8770,27.26,239119.78
+2025-12,México,POS Gastrobar,4252,36.0,153070.31
+2026-01,México,Siigo Contador,9744,0.0,0.0
+2026-01,México,Profesional Independiente,26251,46.22,1213354.02
+2026-01,México,Emprendedor,22408,62.18,1393366.16
+2026-01,México,Premium,11713,68.58,803251.82
+2026-01,México,Corporativo,3556,127.89,454795.57
+2026-01,México,Siigo POS,8924,28.75,256576.93
+2026-01,México,POS Gastrobar,4373,38.04,166369.14
+2026-02,México,Siigo Contador,9977,0.0,0.0
+2026-02,México,Profesional Independiente,26698,46.3,1236053.21
+2026-02,México,Emprendedor,22860,62.31,1424479.78
+2026-02,México,Premium,11905,68.83,819428.62
+2026-02,México,Corporativo,3621,127.91,463155.62
+2026-02,México,Siigo POS,9101,28.69,261140.67
+2026-02,México,POS Gastrobar,4471,37.86,169277.83
+2026-03,México,Siigo Contador,10155,0.0,0.0
+2026-03,México,Profesional Independiente,27328,46.34,1266280.52
+2026-03,México,Emprendedor,23293,62.24,1449818.19
+2026-03,México,Premium,12147,68.93,837308.12
+2026-03,México,Corporativo,3681,128.58,473298.0
+2026-03,México,Siigo POS,9238,28.71,265237.34
+2026-03,México,POS Gastrobar,4555,37.87,172485.66
+2026-04,México,Siigo Contador,10327,0.0,0.0
+2026-04,México,Profesional Independiente,27847,46.38,1291621.91
+2026-04,México,Emprendedor,23697,62.48,1480646.38
+2026-04,México,Premium,12332,69.07,851786.82
+2026-04,México,Corporativo,3738,129.01,482296.25
+2026-04,México,Siigo POS,9380,28.85,270571.19
+2026-04,México,POS Gastrobar,4612,37.83,174484.95
+2026-05,México,Siigo Contador,10448,0.0,0.0
+2026-05,México,Profesional Independiente,28285,46.34,1310821.98
+2026-05,México,Emprendedor,24065,62.58,1506062.21
+2026-05,México,Premium,12557,69.22,869233.26
+2026-05,México,Corporativo,3795,129.62,491958.54
+2026-05,México,Siigo POS,9491,28.89,274221.17
+2026-05,México,POS Gastrobar,4669,37.69,175943.58
+2026-06,México,Siigo Contador,10572,0.0,0.0
+2026-06,México,Profesional Independiente,28656,46.39,1329375.75
+2026-06,México,Emprendedor,24407,62.7,1530332.05
+2026-06,México,Premium,12743,69.36,883823.21
+2026-06,México,Corporativo,3856,130.32,502521.29
+2026-06,México,Siigo POS,9588,28.95,277595.79
+2026-06,México,POS Gastrobar,4723,37.82,178613.7
+2026-07,México,Siigo Contador,10733,0.0,0.0
+2026-07,México,Profesional Independiente,28931,46.66,1350065.59
+2026-07,México,Emprendedor,24744,62.73,1552204.45
+2026-07,México,Premium,12901,69.62,898156.98
+2026-07,México,Corporativo,3907,130.87,511282.91
+2026-07,México,Siigo POS,9711,28.92,280810.3
+2026-07,México,POS Gastrobar,4786,37.87,181229.43
+2026-08,México,Siigo Contador,10925,0.0,0.0
+2026-08,México,Profesional Independiente,29465,46.81,1379265.3
+2026-08,México,Emprendedor,25083,62.8,1575244.41
+2026-08,México,Premium,13096,69.88,915146.48
+2026-08,México,Corporativo,3964,131.41,520873.23
+2026-08,México,Siigo POS,9862,29.03,286332.77
+2026-08,México,POS Gastrobar,4863,37.83,183987.06
+2024-09,Ecuador,Siigo Contador,4559,0.0,0.0
+2024-09,Ecuador,Profesional Independiente,7485,36.37,272231.8
+2024-09,Ecuador,Emprendedor,8348,47.66,397874.5
+2024-09,Ecuador,Premium,5175,51.78,267978.26
+2024-09,Ecuador,Corporativo,1787,96.9,173132.32
+2024-09,Ecuador,Siigo POS,2341,22.17,51904.4
+2024-09,Ecuador,POS Gastrobar,1109,29.64,32873.81
+2024-10,Ecuador,Siigo Contador,4610,0.0,0.0
+2024-10,Ecuador,Profesional Independiente,7527,36.42,274164.22
+2024-10,Ecuador,Emprendedor,8427,47.88,403474.69
+2024-10,Ecuador,Premium,5225,51.92,271321.41
+2024-10,Ecuador,Corporativo,1804,97.61,176059.22
+2024-10,Ecuador,Siigo POS,2374,22.22,52742.34
+2024-10,Ecuador,POS Gastrobar,1119,29.71,33255.81
+2024-11,Ecuador,Siigo Contador,4638,0.0,0.0
+2024-11,Ecuador,Profesional Independiente,7597,36.48,277106.68
+2024-11,Ecuador,Emprendedor,8479,48.08,407666.85
+2024-11,Ecuador,Premium,5273,52.02,274321.48
+2024-11,Ecuador,Corporativo,1821,98.06,178537.76
+2024-11,Ecuador,Siigo POS,2392,22.26,53240.64
+2024-11,Ecuador,POS Gastrobar,1125,29.79,33528.53
+2024-12,Ecuador,Siigo Contador,4661,0.0,0.0
+2024-12,Ecuador,Profesional Independiente,7623,36.56,278670.77
+2024-12,Ecuador,Emprendedor,8514,48.21,410405.61
+2024-12,Ecuador,Premium,5307,52.35,277833.39
+2024-12,Ecuador,Corporativo,1833,98.94,181308.26
+2024-12,Ecuador,Siigo POS,2399,22.24,53356.71
+2024-12,Ecuador,POS Gastrobar,1128,29.78,33585.22
+2025-01,Ecuador,Siigo Contador,4722,0.0,0.0
+2025-01,Ecuador,Profesional Independiente,7787,38.59,300505.8
+2025-01,Ecuador,Emprendedor,8652,50.89,440327.74
+2025-01,Ecuador,Premium,5386,55.53,299087.85
+2025-01,Ecuador,Corporativo,1858,104.78,194666.7
+2025-01,Ecuador,Siigo POS,2431,23.5,57121.77
+2025-01,Ecuador,POS Gastrobar,1152,31.44,36218.32
+2025-02,Ecuador,Siigo Contador,4772,0.0,0.0
+2025-02,Ecuador,Profesional Independiente,7886,38.65,304765.71
+2025-02,Ecuador,Emprendedor,8776,51.03,447848.36
+2025-02,Ecuador,Premium,5445,55.85,304114.14
+2025-02,Ecuador,Corporativo,1876,105.06,197131.36
+2025-02,Ecuador,Siigo POS,2452,23.55,57745.63
+2025-02,Ecuador,POS Gastrobar,1172,31.51,36930.61
+2025-03,Ecuador,Siigo Contador,4832,0.0,0.0
+2025-03,Ecuador,Profesional Independiente,7984,38.72,309125.62
+2025-03,Ecuador,Emprendedor,8877,51.21,454616.84
+2025-03,Ecuador,Premium,5499,56.24,309245.48
+2025-03,Ecuador,Corporativo,1896,105.66,200282.93
+2025-03,Ecuador,Siigo POS,2491,23.63,58868.49
+2025-03,Ecuador,POS Gastrobar,1187,31.62,37519.89
+2025-04,Ecuador,Siigo Contador,4875,0.0,0.0
+2025-04,Ecuador,Profesional Independiente,8045,38.9,312950.11
+2025-04,Ecuador,Emprendedor,8951,51.28,458964.39
+2025-04,Ecuador,Premium,5544,56.3,312125.51
+2025-04,Ecuador,Corporativo,1915,106.17,203353.63
+2025-04,Ecuador,Siigo POS,2504,23.74,59449.63
+2025-04,Ecuador,POS Gastrobar,1197,31.7,37948.02
+2025-05,Ecuador,Siigo Contador,4916,0.0,0.0
+2025-05,Ecuador,Profesional Independiente,8089,38.97,315256.12
+2025-05,Ecuador,Emprendedor,9037,51.25,463166.59
+2025-05,Ecuador,Premium,5591,56.51,315937.25
+2025-05,Ecuador,Corporativo,1934,107.08,207049.8
+2025-05,Ecuador,Siigo POS,2522,23.82,60074.98
+2025-05,Ecuador,POS Gastrobar,1207,31.81,38398.17
+2025-06,Ecuador,Siigo Contador,4957,0.0,0.0
+2025-06,Ecuador,Profesional Independiente,8140,39.14,318603.38
+2025-06,Ecuador,Emprendedor,9112,51.46,468927.48
+2025-06,Ecuador,Premium,5646,56.78,320531.96
+2025-06,Ecuador,Corporativo,1951,107.38,209509.17
+2025-06,Ecuador,Siigo POS,2541,23.86,60608.95
+2025-06,Ecuador,POS Gastrobar,1215,31.99,38881.88
+2025-07,Ecuador,Siigo Contador,5009,0.0,0.0
+2025-07,Ecuador,Profesional Independiente,8212,39.24,322261.25
+2025-07,Ecuador,Emprendedor,9178,51.74,474845.09
+2025-07,Ecuador,Premium,5687,57.04,324395.39
+2025-07,Ecuador,Corporativo,1966,107.64,211603.47
+2025-07,Ecuador,Siigo POS,2567,23.98,61543.89
+2025-07,Ecuador,POS Gastrobar,1227,32.02,39290.86
+2025-08,Ecuador,Siigo Contador,5063,0.0,0.0
+2025-08,Ecuador,Profesional Independiente,8304,39.47,327786.04
+2025-08,Ecuador,Emprendedor,9253,51.95,480730.95
+2025-08,Ecuador,Premium,5736,57.3,328665.12
+2025-08,Ecuador,Corporativo,1985,108.52,215359.29
+2025-08,Ecuador,Siigo POS,2598,23.99,62315.4
+2025-08,Ecuador,POS Gastrobar,1241,32.09,39843.41
+2025-09,Ecuador,Siigo Contador,5108,0.0,0.0
+2025-09,Ecuador,Profesional Independiente,8393,39.51,331607.57
+2025-09,Ecuador,Emprendedor,9327,52.13,486158.37
+2025-09,Ecuador,Premium,5800,57.51,333539.27
+2025-09,Ecuador,Corporativo,2002,108.94,218127.21
+2025-09,Ecuador,Siigo POS,2612,24.14,63050.29
+2025-09,Ecuador,POS Gastrobar,1251,32.15,40204.57
+2025-10,Ecuador,Siigo Contador,5157,0.0,0.0
+2025-10,Ecuador,Profesional Independiente,8462,39.54,334599.7
+2025-10,Ecuador,Emprendedor,9416,52.33,492768.77
+2025-10,Ecuador,Premium,5873,57.93,340210.01
+2025-10,Ecuador,Corporativo,2021,109.45,221249.17
+2025-10,Ecuador,Siigo POS,2639,24.17,63802.34
+2025-10,Ecuador,POS Gastrobar,1264,32.23,40733.7
+2025-11,Ecuador,Siigo Contador,5204,0.0,0.0
+2025-11,Ecuador,Profesional Independiente,8520,39.62,337571.68
+2025-11,Ecuador,Emprendedor,9469,52.5,497144.84
+2025-11,Ecuador,Premium,5924,58.2,344760.95
+2025-11,Ecuador,Corporativo,2039,110.01,224355.64
+2025-11,Ecuador,Siigo POS,2662,24.36,64851.72
+2025-11,Ecuador,POS Gastrobar,1278,32.37,41367.25
+2025-12,Ecuador,Siigo Contador,5238,0.0,0.0
+2025-12,Ecuador,Profesional Independiente,8558,39.79,340522.43
+2025-12,Ecuador,Emprendedor,9507,52.72,501236.42
+2025-12,Ecuador,Premium,5962,58.39,348105.52
+2025-12,Ecuador,Corporativo,2051,110.76,227207.09
+2025-12,Ecuador,Siigo POS,2672,24.45,65338.91
+2025-12,Ecuador,POS Gastrobar,1288,32.37,41685.99
+2026-01,Ecuador,Siigo Contador,5330,0.0,0.0
+2026-01,Ecuador,Profesional Independiente,8687,42.12,365867.67
+2026-01,Ecuador,Emprendedor,9648,55.79,538251.86
+2026-01,Ecuador,Premium,6058,61.76,374113.64
+2026-01,Ecuador,Corporativo,2079,117.37,244039.76
+2026-01,Ecuador,Siigo POS,2712,25.88,70186.68
+2026-01,Ecuador,POS Gastrobar,1314,34.24,44994.26
+2026-02,Ecuador,Siigo Contador,5391,0.0,0.0
+2026-02,Ecuador,Profesional Independiente,8801,42.09,370390.63
+2026-02,Ecuador,Emprendedor,9769,56.17,548742.21
+2026-02,Ecuador,Premium,6120,61.92,378996.07
+2026-02,Ecuador,Corporativo,2103,117.85,247833.75
+2026-02,Ecuador,Siigo POS,2741,25.91,71020.2
+2026-02,Ecuador,POS Gastrobar,1338,34.34,45944.87
+2026-03,Ecuador,Siigo Contador,5449,0.0,0.0
+2026-03,Ecuador,Profesional Independiente,8913,42.17,375832.79
+2026-03,Ecuador,Emprendedor,9904,56.36,558157.43
+2026-03,Ecuador,Premium,6179,62.13,383913.63
+2026-03,Ecuador,Corporativo,2127,118.47,252011.29
+2026-03,Ecuador,Siigo POS,2776,25.92,71942.92
+2026-03,Ecuador,POS Gastrobar,1351,34.33,46371.47
+2026-04,Ecuador,Siigo Contador,5503,0.0,0.0
+2026-04,Ecuador,Profesional Independiente,9030,42.3,381971.25
+2026-04,Ecuador,Emprendedor,10020,56.42,565284.59
+2026-04,Ecuador,Premium,6230,62.57,389811.53
+2026-04,Ecuador,Corporativo,2150,118.7,255145.51
+2026-04,Ecuador,Siigo POS,2799,26.0,72768.08
+2026-04,Ecuador,POS Gastrobar,1365,34.44,47025.4
+2026-05,Ecuador,Siigo Contador,5555,0.0,0.0
+2026-05,Ecuador,Profesional Independiente,9059,42.46,384597.06
+2026-05,Ecuador,Emprendedor,10108,56.65,572616.89
+2026-05,Ecuador,Premium,6287,63.0,396107.04
+2026-05,Ecuador,Corporativo,2170,119.41,259111.59
+2026-05,Ecuador,Siigo POS,2829,26.03,73654.83
+2026-05,Ecuador,POS Gastrobar,1376,34.6,47629.18
+2026-06,Ecuador,Siigo Contador,5614,0.0,0.0
+2026-06,Ecuador,Profesional Independiente,9097,42.59,387505.93
+2026-06,Ecuador,Emprendedor,10170,56.87,578338.29
+2026-06,Ecuador,Premium,6337,63.06,399608.61
+2026-06,Ecuador,Corporativo,2189,120.16,263013.17
+2026-06,Ecuador,Siigo POS,2854,26.14,74620.16
+2026-06,Ecuador,POS Gastrobar,1383,34.62,47877.96
+2026-07,Ecuador,Siigo Contador,5658,0.0,0.0
+2026-07,Ecuador,Profesional Independiente,9166,42.78,392089.57
+2026-07,Ecuador,Emprendedor,10246,57.06,584645.33
+2026-07,Ecuador,Premium,6381,63.24,403525.62
+2026-07,Ecuador,Corporativo,2207,120.83,266692.32
+2026-07,Ecuador,Siigo POS,2885,26.14,75409.47
+2026-07,Ecuador,POS Gastrobar,1392,34.79,48409.87
+2026-08,Ecuador,Siigo Contador,5721,0.0,0.0
+2026-08,Ecuador,Profesional Independiente,9259,42.67,395088.2
+2026-08,Ecuador,Emprendedor,10331,57.13,590257.28
+2026-08,Ecuador,Premium,6452,63.36,408825.69
+2026-08,Ecuador,Corporativo,2228,121.36,270403.87
+2026-08,Ecuador,Siigo POS,2914,26.16,76234.25
+2026-08,Ecuador,POS Gastrobar,1401,34.87,48864.05
+2024-09,Perú,Siigo Contador,2481,0.0,0.0
+2024-09,Perú,Profesional Independiente,5075,30.63,155417.69
+2024-09,Perú,Emprendedor,4904,40.14,196838.32
+2024-09,Perú,Premium,2878,43.61,125506.71
+2024-09,Perú,Corporativo,928,81.6,75714.54
+2024-09,Perú,Siigo POS,1856,18.67,34645.73
+2024-09,Perú,POS Gastrobar,814,24.96,20325.87
+2024-10,Perú,Siigo Contador,2511,0.0,0.0
+2024-10,Perú,Profesional Independiente,5126,30.63,157032.17
+2024-10,Perú,Emprendedor,4969,40.21,199829.92
+2024-10,Perú,Premium,2908,43.8,127392.72
+2024-10,Perú,Corporativo,938,81.95,76893.21
+2024-10,Perú,Siigo POS,1884,18.7,35224.88
+2024-10,Perú,POS Gastrobar,822,25.09,20624.22
+2024-11,Perú,Siigo Contador,2544,0.0,0.0
+2024-11,Perú,Profesional Independiente,5174,30.71,158909.35
+2024-11,Perú,Emprendedor,5018,40.33,202381.76
+2024-11,Perú,Premium,2937,43.98,129162.9
+2024-11,Perú,Corporativo,950,82.49,78343.87
+2024-11,Perú,Siigo POS,1904,18.78,35757.29
+2024-11,Perú,POS Gastrobar,833,25.18,20962.65
+2024-12,Perú,Siigo Contador,2565,0.0,0.0
+2024-12,Perú,Profesional Independiente,5197,30.76,159830.79
+2024-12,Perú,Emprendedor,5055,40.33,203878.02
+2024-12,Perú,Premium,2960,44.1,130542.67
+2024-12,Perú,Corporativo,959,83.15,79746.88
+2024-12,Perú,Siigo POS,1916,18.84,36091.45
+2024-12,Perú,POS Gastrobar,837,25.28,21155.85
+2025-01,Perú,Siigo Contador,2608,0.0,0.0
+2025-01,Perú,Profesional Independiente,5318,32.47,172676.48
+2025-01,Perú,Emprendedor,5146,42.69,219648.88
+2025-01,Perú,Premium,3008,46.67,140383.75
+2025-01,Perú,Corporativo,972,88.2,85727.89
+2025-01,Perú,Siigo POS,1955,19.92,38937.44
+2025-01,Perú,POS Gastrobar,852,26.68,22718.05
+2025-02,Perú,Siigo Contador,2645,0.0,0.0
+2025-02,Perú,Profesional Independiente,5395,32.61,175918.29
+2025-02,Perú,Emprendedor,5242,42.93,225038.18
+2025-02,Perú,Premium,3064,46.88,143663.24
+2025-02,Perú,Corporativo,984,88.78,87365.5
+2025-02,Perú,Siigo POS,1987,19.97,39685.08
+2025-02,Perú,POS Gastrobar,869,26.61,23124.12
+2025-03,Perú,Siigo Contador,2678,0.0,0.0
+2025-03,Perú,Profesional Independiente,5465,32.7,178704.82
+2025-03,Perú,Emprendedor,5311,43.05,228629.28
+2025-03,Perú,Premium,3109,47.02,146187.59
+2025-03,Perú,Corporativo,998,89.12,88951.66
+2025-03,Perú,Siigo POS,2017,20.02,40387.38
+2025-03,Perú,POS Gastrobar,884,26.63,23534.31
+2025-04,Perú,Siigo Contador,2716,0.0,0.0
+2025-04,Perú,Profesional Independiente,5535,32.82,181666.52
+2025-04,Perú,Emprendedor,5378,43.3,232860.24
+2025-04,Perú,Premium,3146,47.24,148594.53
+2025-04,Perú,Corporativo,1009,89.33,90177.96
+2025-04,Perú,Siigo POS,2041,20.04,40901.38
+2025-04,Perú,POS Gastrobar,896,26.69,23910.46
+2025-05,Perú,Siigo Contador,2747,0.0,0.0
+2025-05,Perú,Profesional Independiente,5585,32.82,183328.48
+2025-05,Perú,Emprendedor,5437,43.42,236100.59
+2025-05,Perú,Premium,3183,47.42,150942.18
+2025-05,Perú,Corporativo,1020,89.73,91537.13
+2025-05,Perú,Siigo POS,2063,20.14,41549.93
+2025-05,Perú,POS Gastrobar,907,26.71,24237.49
+2025-06,Perú,Siigo Contador,2775,0.0,0.0
+2025-06,Perú,Profesional Independiente,5641,32.93,185760.0
+2025-06,Perú,Emprendedor,5500,43.47,239105.42
+2025-06,Perú,Premium,3221,47.57,153216.1
+2025-06,Perú,Corporativo,1029,90.53,93178.31
+2025-06,Perú,Siigo POS,2084,20.14,41981.78
+2025-06,Perú,POS Gastrobar,918,26.75,24544.99
+2025-07,Perú,Siigo Contador,2804,0.0,0.0
+2025-07,Perú,Profesional Independiente,5702,32.9,187638.04
+2025-07,Perú,Emprendedor,5568,43.44,241897.73
+2025-07,Perú,Premium,3251,47.89,155663.97
+2025-07,Perú,Corporativo,1042,90.89,94660.89
+2025-07,Perú,Siigo POS,2104,20.18,42463.71
+2025-07,Perú,POS Gastrobar,929,26.7,24797.1
+2025-08,Perú,Siigo Contador,2835,0.0,0.0
+2025-08,Perú,Profesional Independiente,5781,32.99,190718.25
+2025-08,Perú,Emprendedor,5636,43.44,244837.0
+2025-08,Perú,Premium,3291,47.95,157801.89
+2025-08,Perú,Corporativo,1054,91.25,96181.54
+2025-08,Perú,Siigo POS,2127,20.18,42916.91
+2025-08,Perú,POS Gastrobar,939,26.81,25179.49
+2025-09,Perú,Siigo Contador,2868,0.0,0.0
+2025-09,Perú,Profesional Independiente,5845,33.15,193727.93
+2025-09,Perú,Emprendedor,5693,43.68,248643.43
+2025-09,Perú,Premium,3338,47.99,160187.36
+2025-09,Perú,Corporativo,1067,91.44,97586.58
+2025-09,Perú,Siigo POS,2150,20.27,43578.75
+2025-09,Perú,POS Gastrobar,950,26.86,25514.02
+2025-10,Perú,Siigo Contador,2906,0.0,0.0
+2025-10,Perú,Profesional Independiente,5913,33.27,196696.31
+2025-10,Perú,Emprendedor,5750,43.68,251143.73
+2025-10,Perú,Premium,3376,48.26,162943.61
+2025-10,Perú,Corporativo,1081,91.8,99276.51
+2025-10,Perú,Siigo POS,2171,20.27,44009.9
+2025-10,Perú,POS Gastrobar,963,26.9,25910.96
+2025-11,Perú,Siigo Contador,2937,0.0,0.0
+2025-11,Perú,Profesional Independiente,5960,33.34,198738.01
+2025-11,Perú,Emprendedor,5788,43.65,252625.94
+2025-11,Perú,Premium,3412,48.73,166285.2
+2025-11,Perú,Corporativo,1093,92.1,100688.79
+2025-11,Perú,Siigo POS,2185,20.37,44522.06
+2025-11,Perú,POS Gastrobar,967,26.92,26031.87
+2025-12,Perú,Siigo Contador,2963,0.0,0.0
+2025-12,Perú,Profesional Independiente,5985,33.45,200174.38
+2025-12,Perú,Emprendedor,5829,43.77,255145.53
+2025-12,Perú,Premium,3438,48.86,167986.6
+2025-12,Perú,Corporativo,1103,92.35,101840.55
+2025-12,Perú,Siigo POS,2196,20.44,44870.43
+2025-12,Perú,POS Gastrobar,974,26.98,26275.92
+2026-01,Perú,Siigo Contador,3018,0.0,0.0
+2026-01,Perú,Profesional Independiente,6094,35.5,216347.59
+2026-01,Perú,Emprendedor,5916,46.23,273484.27
+2026-01,Perú,Premium,3495,51.46,179856.22
+2026-01,Perú,Corporativo,1122,97.54,109454.84
+2026-01,Perú,Siigo POS,2239,21.64,48446.6
+2026-01,Perú,POS Gastrobar,994,28.54,28383.44
+2026-02,Perú,Siigo Contador,3054,0.0,0.0
+2026-02,Perú,Profesional Independiente,6179,35.58,219877.85
+2026-02,Perú,Emprendedor,6023,46.31,278889.58
+2026-02,Perú,Premium,3555,51.64,183554.94
+2026-02,Perú,Corporativo,1139,97.97,111613.95
+2026-02,Perú,Siigo POS,2274,21.72,49381.44
+2026-02,Perú,POS Gastrobar,1011,28.55,28867.4
+2026-03,Perú,Siigo Contador,3093,0.0,0.0
+2026-03,Perú,Profesional Independiente,6268,35.62,223279.71
+2026-03,Perú,Emprendedor,6119,46.45,284222.69
+2026-03,Perú,Premium,3610,51.81,187031.62
+2026-03,Perú,Corporativo,1153,98.39,113426.09
+2026-03,Perú,Siigo POS,2304,21.77,50173.62
+2026-03,Perú,POS Gastrobar,1030,28.57,29428.22
+2026-04,Perú,Siigo Contador,3129,0.0,0.0
+2026-04,Perú,Profesional Independiente,6356,35.74,227132.3
+2026-04,Perú,Emprendedor,6180,46.58,287850.39
+2026-04,Perú,Premium,3659,52.03,190340.08
+2026-04,Perú,Corporativo,1166,98.9,115336.79
+2026-04,Perú,Siigo POS,2328,21.83,50810.15
+2026-04,Perú,POS Gastrobar,1041,28.6,29762.76
+2026-05,Perú,Siigo Contador,3171,0.0,0.0
+2026-05,Perú,Profesional Independiente,6414,35.76,229341.6
+2026-05,Perú,Emprendedor,6276,46.72,293234.12
+2026-05,Perú,Premium,3696,52.04,192307.72
+2026-05,Perú,Corporativo,1181,99.83,117918.93
+2026-05,Perú,Siigo POS,2347,21.89,51369.21
+2026-05,Perú,POS Gastrobar,1050,28.65,30091.08
+2026-06,Perú,Siigo Contador,3196,0.0,0.0
+2026-06,Perú,Profesional Independiente,6483,35.89,232655.76
+2026-06,Perú,Emprendedor,6335,46.93,297289.37
+2026-06,Perú,Premium,3723,52.26,194594.14
+2026-06,Perú,Corporativo,1191,100.52,119672.28
+2026-06,Perú,Siigo POS,2371,21.97,52106.03
+2026-06,Perú,POS Gastrobar,1062,28.73,30501.32
+2026-07,Perú,Siigo Contador,3230,0.0,0.0
+2026-07,Perú,Profesional Independiente,6555,35.9,235303.46
+2026-07,Perú,Emprendedor,6402,47.02,300973.4
+2026-07,Perú,Premium,3761,52.5,197453.59
+2026-07,Perú,Corporativo,1205,101.08,121760.71
+2026-07,Perú,Siigo POS,2399,22.04,52863.23
+2026-07,Perú,POS Gastrobar,1075,28.84,31018.27
+2026-08,Perú,Siigo Contador,3268,0.0,0.0
+2026-08,Perú,Profesional Independiente,6623,35.98,238304.61
+2026-08,Perú,Emprendedor,6485,47.16,305846.72
+2026-08,Perú,Premium,3807,52.67,200532.33
+2026-08,Perú,Corporativo,1217,101.54,123614.27
+2026-08,Perú,Siigo POS,2421,22.07,53429.09
+2026-08,Perú,POS Gastrobar,1084,28.86,31297.36
+2024-09,Uruguay,Siigo Contador,2996,0.0,0.0
+2024-09,Uruguay,Profesional Independiente,2810,44.98,126400.34
+2024-09,Uruguay,Emprendedor,3287,58.95,193779.71
+2024-09,Uruguay,Premium,2267,64.05,145166.43
+2024-09,Uruguay,Corporativo,888,119.86,106439.97
+2024-09,Uruguay,Siigo POS,689,27.42,18900.52
+2024-09,Uruguay,POS Gastrobar,318,36.67,11663.76
+2024-10,Uruguay,Siigo Contador,3013,0.0,0.0
+2024-10,Uruguay,Profesional Independiente,2831,45.05,127549.57
+2024-10,Uruguay,Emprendedor,3306,59.12,195466.12
+2024-10,Uruguay,Premium,2278,64.34,146560.7
+2024-10,Uruguay,Corporativo,893,120.63,107756.69
+2024-10,Uruguay,Siigo POS,693,27.54,19079.18
+2024-10,Uruguay,POS Gastrobar,320,36.9,11807.61
+2024-11,Uruguay,Siigo Contador,3029,0.0,0.0
+2024-11,Uruguay,Profesional Independiente,2835,45.19,128133.45
+2024-11,Uruguay,Emprendedor,3319,59.57,197697.08
+2024-11,Uruguay,Premium,2287,64.38,147222.42
+2024-11,Uruguay,Corporativo,898,120.94,108577.26
+2024-11,Uruguay,Siigo POS,695,27.65,19224.56
+2024-11,Uruguay,POS Gastrobar,321,37.02,11886.53
+2024-12,Uruguay,Siigo Contador,3032,0.0,0.0
+2024-12,Uruguay,Profesional Independiente,2838,45.32,128634.27
+2024-12,Uruguay,Emprendedor,3317,59.8,198365.51
+2024-12,Uruguay,Premium,2294,64.61,148197.61
+2024-12,Uruguay,Corporativo,902,121.37,109477.38
+2024-12,Uruguay,Siigo POS,696,27.79,19330.7
+2024-12,Uruguay,POS Gastrobar,321,37.06,11885.71
+2025-01,Uruguay,Siigo Contador,3059,0.0,0.0
+2025-01,Uruguay,Profesional Independiente,2877,47.93,137907.89
+2025-01,Uruguay,Emprendedor,3349,63.29,211945.82
+2025-01,Uruguay,Premium,2307,68.6,158280.57
+2025-01,Uruguay,Corporativo,909,128.67,116951.84
+2025-01,Uruguay,Siigo POS,702,29.44,20672.09
+2025-01,Uruguay,POS Gastrobar,325,39.16,12712.49
+2025-02,Uruguay,Siigo Contador,3086,0.0,0.0
+2025-02,Uruguay,Profesional Independiente,2906,48.03,139567.28
+2025-02,Uruguay,Emprendedor,3384,63.47,214797.35
+2025-02,Uruguay,Premium,2325,68.86,160068.61
+2025-02,Uruguay,Corporativo,914,129.32,118210.28
+2025-02,Uruguay,Siigo POS,706,29.55,20863.18
+2025-02,Uruguay,POS Gastrobar,327,39.35,12880.13
+2025-03,Uruguay,Siigo Contador,3106,0.0,0.0
+2025-03,Uruguay,Profesional Independiente,2923,48.06,140457.65
+2025-03,Uruguay,Emprendedor,3402,63.63,216455.84
+2025-03,Uruguay,Premium,2338,69.36,162148.28
+2025-03,Uruguay,Corporativo,920,130.24,119810.13
+2025-03,Uruguay,Siigo POS,710,29.7,21093.61
+2025-03,Uruguay,POS Gastrobar,330,39.58,13074.11
+2025-04,Uruguay,Siigo Contador,3119,0.0,0.0
+2025-04,Uruguay,Profesional Independiente,2930,48.29,141477.91
+2025-04,Uruguay,Emprendedor,3417,63.8,217990.84
+2025-04,Uruguay,Premium,2351,69.46,163285.06
+2025-04,Uruguay,Corporativo,925,130.57,120789.29
+2025-04,Uruguay,Siigo POS,713,29.91,21316.91
+2025-04,Uruguay,POS Gastrobar,332,39.69,13191.58
+2025-05,Uruguay,Siigo Contador,3136,0.0,0.0
+2025-05,Uruguay,Profesional Independiente,2943,48.48,142699.55
+2025-05,Uruguay,Emprendedor,3434,63.98,219703.25
+2025-05,Uruguay,Premium,2363,69.85,165058.03
+2025-05,Uruguay,Corporativo,930,131.15,122030.53
+2025-05,Uruguay,Siigo POS,715,30.09,21522.51
+2025-05,Uruguay,POS Gastrobar,334,39.74,13274.72
+2025-06,Uruguay,Siigo Contador,3149,0.0,0.0
+2025-06,Uruguay,Profesional Independiente,2953,48.82,144159.87
+2025-06,Uruguay,Emprendedor,3441,64.36,221487.51
+2025-06,Uruguay,Premium,2368,70.11,165993.08
+2025-06,Uruguay,Corporativo,934,131.74,122985.92
+2025-06,Uruguay,Siigo POS,719,30.27,21770.11
+2025-06,Uruguay,POS Gastrobar,335,39.74,13311.83
+2025-07,Uruguay,Siigo Contador,3165,0.0,0.0
+2025-07,Uruguay,Profesional Independiente,2967,48.93,145162.64
+2025-07,Uruguay,Emprendedor,3458,64.41,222754.24
+2025-07,Uruguay,Premium,2378,70.22,167007.25
+2025-07,Uruguay,Corporativo,938,132.86,124676.15
+2025-07,Uruguay,Siigo POS,721,30.36,21887.9
+2025-07,Uruguay,POS Gastrobar,337,39.79,13404.87
+2025-08,Uruguay,Siigo Contador,3181,0.0,0.0
+2025-08,Uruguay,Profesional Independiente,2982,49.13,146528.64
+2025-08,Uruguay,Emprendedor,3479,64.76,225287.08
+2025-08,Uruguay,Premium,2394,70.29,168283.2
+2025-08,Uruguay,Corporativo,942,133.08,125405.86
+2025-08,Uruguay,Siigo POS,724,30.57,22146.51
+2025-08,Uruguay,POS Gastrobar,338,39.92,13511.01
+2025-09,Uruguay,Siigo Contador,3198,0.0,0.0
+2025-09,Uruguay,Profesional Independiente,2999,49.6,148759.38
+2025-09,Uruguay,Emprendedor,3500,65.0,227503.49
+2025-09,Uruguay,Premium,2409,70.48,169798.29
+2025-09,Uruguay,Corporativo,947,133.82,126666.85
+2025-09,Uruguay,Siigo POS,726,30.69,22274.68
+2025-09,Uruguay,POS Gastrobar,340,40.18,13654.93
+2025-10,Uruguay,Siigo Contador,3216,0.0,0.0
+2025-10,Uruguay,Profesional Independiente,3018,49.88,150559.41
+2025-10,Uruguay,Emprendedor,3516,65.27,229444.72
+2025-10,Uruguay,Premium,2423,71.03,172105.57
+2025-10,Uruguay,Corporativo,952,134.63,128206.19
+2025-10,Uruguay,Siigo POS,728,30.76,22378.87
+2025-10,Uruguay,POS Gastrobar,341,40.26,13715.03
+2025-11,Uruguay,Siigo Contador,3233,0.0,0.0
+2025-11,Uruguay,Profesional Independiente,3024,50.18,151736.68
+2025-11,Uruguay,Emprendedor,3530,65.62,231624.92
+2025-11,Uruguay,Premium,2432,71.37,173609.51
+2025-11,Uruguay,Corporativo,957,135.08,129312.84
+2025-11,Uruguay,Siigo POS,731,30.9,22580.11
+2025-11,Uruguay,POS Gastrobar,342,40.42,13820.04
+2025-12,Uruguay,Siigo Contador,3240,0.0,0.0
+2025-12,Uruguay,Profesional Independiente,3023,50.34,152204.69
+2025-12,Uruguay,Emprendedor,3536,65.9,233020.49
+2025-12,Uruguay,Premium,2440,71.69,174901.61
+2025-12,Uruguay,Corporativo,962,135.48,130293.04
+2025-12,Uruguay,Siigo POS,730,31.05,22669.36
+2025-12,Uruguay,POS Gastrobar,341,40.67,13859.14
+2026-01,Uruguay,Siigo Contador,3275,0.0,0.0
+2026-01,Uruguay,Profesional Independiente,3057,53.28,162851.46
+2026-01,Uruguay,Emprendedor,3565,69.84,248991.02
+2026-01,Uruguay,Premium,2459,75.99,186886.85
+2026-01,Uruguay,Corporativo,970,143.68,139339.17
+2026-01,Uruguay,Siigo POS,738,32.89,24268.61
+2026-01,Uruguay,POS Gastrobar,346,43.12,14918.42
+2026-02,Uruguay,Siigo Contador,3294,0.0,0.0
+2026-02,Uruguay,Profesional Independiente,3080,53.42,164521.94
+2026-02,Uruguay,Emprendedor,3590,70.33,252529.01
+2026-02,Uruguay,Premium,2483,76.19,189218.88
+2026-02,Uruguay,Corporativo,977,144.18,140841.02
+2026-02,Uruguay,Siigo POS,742,33.01,24484.16
+2026-02,Uruguay,POS Gastrobar,349,43.19,15066.48
+2026-03,Uruguay,Siigo Contador,3318,0.0,0.0
+2026-03,Uruguay,Profesional Independiente,3096,53.74,166355.69
+2026-03,Uruguay,Emprendedor,3615,70.71,255593.46
+2026-03,Uruguay,Premium,2497,76.43,190864.77
+2026-03,Uruguay,Corporativo,984,144.79,142434.41
+2026-03,Uruguay,Siigo POS,746,33.16,24722.35
+2026-03,Uruguay,POS Gastrobar,352,43.29,15241.0
+2026-04,Uruguay,Siigo Contador,3335,0.0,0.0
+2026-04,Uruguay,Profesional Independiente,3127,53.85,168388.79
+2026-04,Uruguay,Emprendedor,3641,71.04,258623.4
+2026-04,Uruguay,Premium,2511,76.94,193204.67
+2026-04,Uruguay,Corporativo,988,145.59,143841.68
+2026-04,Uruguay,Siigo POS,749,33.19,24874.69
+2026-04,Uruguay,POS Gastrobar,354,43.52,15401.41
+2026-05,Uruguay,Siigo Contador,3355,0.0,0.0
+2026-05,Uruguay,Profesional Independiente,3146,53.98,169837.01
+2026-05,Uruguay,Emprendedor,3663,71.32,261269.04
+2026-05,Uruguay,Premium,2520,77.4,195066.28
+2026-05,Uruguay,Corporativo,992,146.33,145172.37
+2026-05,Uruguay,Siigo POS,752,33.3,25036.83
+2026-05,Uruguay,POS Gastrobar,356,43.74,15560.84
+2026-06,Uruguay,Siigo Contador,3367,0.0,0.0
+2026-06,Uruguay,Profesional Independiente,3153,54.15,170710.6
+2026-06,Uruguay,Emprendedor,3672,71.79,263599.24
+2026-06,Uruguay,Premium,2531,77.51,196187.97
+2026-06,Uruguay,Corporativo,996,147.48,146891.2
+2026-06,Uruguay,Siigo POS,757,33.53,25366.75
+2026-06,Uruguay,POS Gastrobar,358,43.88,15699.4
+2026-07,Uruguay,Siigo Contador,3382,0.0,0.0
+2026-07,Uruguay,Profesional Independiente,3169,54.27,171966.52
+2026-07,Uruguay,Emprendedor,3694,71.96,265815.49
+2026-07,Uruguay,Premium,2543,77.92,198153.38
+2026-07,Uruguay,Corporativo,1001,148.17,148267.66
+2026-07,Uruguay,Siigo POS,760,33.65,25579.3
+2026-07,Uruguay,POS Gastrobar,360,44.17,15892.59
+2026-08,Uruguay,Siigo Contador,3390,0.0,0.0
+2026-08,Uruguay,Profesional Independiente,3184,54.38,173163.48
+2026-08,Uruguay,Emprendedor,3702,72.33,267786.83
+2026-08,Uruguay,Premium,2557,78.4,200455.42
+2026-08,Uruguay,Corporativo,1006,148.89,149727.25
+2026-08,Uruguay,Siigo POS,764,33.77,25781.59
+2026-08,Uruguay,POS Gastrobar,362,44.33,16046.02
+2024-09,Chile,Siigo Contador,529,0.0,0.0
+2024-09,Chile,Profesional Independiente,1242,38.92,48324.32
+2024-09,Chile,Emprendedor,1207,51.01,61546.13
+2024-09,Chile,Premium,691,55.42,38279.14
+2024-09,Chile,Corporativo,271,103.7,28109.73
+2024-09,Chile,Siigo POS,310,23.73,7364.85
+2024-09,Chile,POS Gastrobar,122,31.72,3883.47
+2024-10,Chile,Siigo Contador,544,0.0,0.0
+2024-10,Chile,Profesional Independiente,1277,38.9,49679.57
+2024-10,Chile,Emprendedor,1244,50.97,63385.37
+2024-10,Chile,Premium,712,55.42,39452.87
+2024-10,Chile,Corporativo,279,103.94,28976.48
+2024-10,Chile,Siigo POS,318,23.8,7572.04
+2024-10,Chile,POS Gastrobar,126,31.8,3998.72
+2024-11,Chile,Siigo Contador,559,0.0,0.0
+2024-11,Chile,Profesional Independiente,1308,38.83,50789.13
+2024-11,Chile,Emprendedor,1274,51.17,65185.84
+2024-11,Chile,Premium,730,55.58,40589.88
+2024-11,Chile,Corporativo,286,103.9,29758.84
+2024-11,Chile,Siigo POS,326,23.77,7752.64
+2024-11,Chile,POS Gastrobar,129,31.8,4092.17
+2024-12,Chile,Siigo Contador,572,0.0,0.0
+2024-12,Chile,Profesional Independiente,1331,38.87,51739.57
+2024-12,Chile,Emprendedor,1302,51.25,66712.63
+2024-12,Chile,Premium,746,55.78,41632.26
+2024-12,Chile,Corporativo,292,104.69,30543.7
+2024-12,Chile,Siigo POS,333,23.74,7911.95
+2024-12,Chile,POS Gastrobar,131,31.84,4177.31
+2025-01,Chile,Siigo Contador,593,0.0,0.0
+2025-01,Chile,Profesional Independiente,1380,40.95,56492.77
+2025-01,Chile,Emprendedor,1352,54.13,73155.26
+2025-01,Chile,Premium,777,58.86,45712.66
+2025-01,Chile,Corporativo,302,110.81,33461.22
+2025-01,Chile,Siigo POS,349,25.02,8724.28
+2025-01,Chile,POS Gastrobar,136,33.57,4569.04
+2025-02,Chile,Siigo Contador,611,0.0,0.0
+2025-02,Chile,Profesional Independiente,1427,40.95,58429.66
+2025-02,Chile,Emprendedor,1395,54.06,75424.88
+2025-02,Chile,Premium,803,58.81,47228.7
+2025-02,Chile,Corporativo,311,111.24,34628.71
+2025-02,Chile,Siigo POS,361,24.96,9010.61
+2025-02,Chile,POS Gastrobar,140,33.52,4692.81
+2025-03,Chile,Siigo Contador,630,0.0,0.0
+2025-03,Chile,Profesional Independiente,1474,40.82,60166.68
+2025-03,Chile,Emprendedor,1443,54.14,78108.73
+2025-03,Chile,Premium,829,58.8,48768.37
+2025-03,Chile,Corporativo,322,111.13,35732.72
+2025-03,Chile,Siigo POS,374,24.99,9334.77
+2025-03,Chile,POS Gastrobar,145,33.4,4833.72
+2025-04,Chile,Siigo Contador,649,0.0,0.0
+2025-04,Chile,Profesional Independiente,1519,40.97,62213.01
+2025-04,Chile,Emprendedor,1490,54.17,80700.73
+2025-04,Chile,Premium,853,59.07,50415.41
+2025-04,Chile,Corporativo,331,111.29,36850.35
+2025-04,Chile,Siigo POS,385,25.0,9615.44
+2025-04,Chile,POS Gastrobar,149,33.48,4990.97
+2025-05,Chile,Siigo Contador,669,0.0,0.0
+2025-05,Chile,Profesional Independiente,1557,41.05,63923.7
+2025-05,Chile,Emprendedor,1527,54.43,83144.11
+2025-05,Chile,Premium,878,59.21,51998.87
+2025-05,Chile,Corporativo,341,111.58,38099.89
+2025-05,Chile,Siigo POS,396,24.98,9883.78
+2025-05,Chile,POS Gastrobar,153,33.52,5132.83
+2025-06,Chile,Siigo Contador,687,0.0,0.0
+2025-06,Chile,Profesional Independiente,1600,40.93,65475.38
+2025-06,Chile,Emprendedor,1571,54.64,85857.82
+2025-06,Chile,Premium,902,59.44,53611.06
+2025-06,Chile,Corporativo,351,112.02,39358.79
+2025-06,Chile,Siigo POS,406,25.12,10203.84
+2025-06,Chile,POS Gastrobar,157,33.44,5257.44
+2025-07,Chile,Siigo Contador,706,0.0,0.0
+2025-07,Chile,Profesional Independiente,1648,40.99,67543.14
+2025-07,Chile,Emprendedor,1619,54.62,88454.52
+2025-07,Chile,Premium,926,59.69,55271.42
+2025-07,Chile,Corporativo,361,112.22,40554.91
+2025-07,Chile,Siigo POS,417,25.15,10487.76
+2025-07,Chile,POS Gastrobar,161,33.37,5370.75
+2025-08,Chile,Siigo Contador,727,0.0,0.0
+2025-08,Chile,Profesional Independiente,1694,41.06,69543.43
+2025-08,Chile,Emprendedor,1661,54.85,91113.77
+2025-08,Chile,Premium,950,59.9,56879.66
+2025-08,Chile,Corporativo,372,112.63,41880.87
+2025-08,Chile,Siigo POS,429,25.18,10811.58
+2025-08,Chile,POS Gastrobar,166,33.35,5537.3
+2025-09,Chile,Siigo Contador,748,0.0,0.0
+2025-09,Chile,Profesional Independiente,1750,40.99,71726.17
+2025-09,Chile,Emprendedor,1716,54.98,94319.5
+2025-09,Chile,Premium,978,60.02,58724.67
+2025-09,Chile,Corporativo,382,112.8,43047.47
+2025-09,Chile,Siigo POS,443,25.18,11154.73
+2025-09,Chile,POS Gastrobar,170,33.34,5677.16
+2025-10,Chile,Siigo Contador,771,0.0,0.0
+2025-10,Chile,Profesional Independiente,1801,40.96,73756.89
+2025-10,Chile,Emprendedor,1768,54.94,97113.94
+2025-10,Chile,Premium,1009,60.12,60649.55
+2025-10,Chile,Corporativo,392,113.51,44553.98
+2025-10,Chile,Siigo POS,454,25.11,11413.36
+2025-10,Chile,POS Gastrobar,175,33.37,5842.01
+2025-11,Chile,Siigo Contador,793,0.0,0.0
+2025-11,Chile,Profesional Independiente,1851,40.94,75784.97
+2025-11,Chile,Emprendedor,1818,54.94,99876.43
+2025-11,Chile,Premium,1036,60.22,62379.06
+2025-11,Chile,Corporativo,403,113.52,45776.5
+2025-11,Chile,Siigo POS,468,25.07,11725.09
+2025-11,Chile,POS Gastrobar,180,33.27,6003.46
+2025-12,Chile,Siigo Contador,810,0.0,0.0
+2025-12,Chile,Profesional Independiente,1887,41.0,77371.87
+2025-12,Chile,Emprendedor,1845,55.01,101522.53
+2025-12,Chile,Premium,1059,60.39,63924.59
+2025-12,Chile,Corporativo,411,113.66,46742.35
+2025-12,Chile,Siigo POS,479,25.02,11996.73
+2025-12,Chile,POS Gastrobar,183,33.37,6113.66
+2026-01,Chile,Siigo Contador,842,0.0,0.0
+2026-01,Chile,Profesional Independiente,1947,43.12,83967.23
+2026-01,Chile,Emprendedor,1919,57.89,111098.11
+2026-01,Chile,Premium,1100,63.51,69844.91
+2026-01,Chile,Corporativo,427,119.73,51103.1
+2026-01,Chile,Siigo POS,498,26.34,13123.26
+2026-01,Chile,POS Gastrobar,191,35.24,6747.12
+2026-02,Chile,Siigo Contador,871,0.0,0.0
+2026-02,Chile,Profesional Independiente,2019,43.16,87146.88
+2026-02,Chile,Emprendedor,1976,57.89,114387.5
+2026-02,Chile,Premium,1133,63.75,72225.5
+2026-02,Chile,Corporativo,442,119.8,52913.74
+2026-02,Chile,Siigo POS,517,26.33,13622.79
+2026-02,Chile,POS Gastrobar,200,35.14,7011.52
+2026-03,Chile,Siigo Contador,900,0.0,0.0
+2026-03,Chile,Profesional Independiente,2087,43.12,90007.28
+2026-03,Chile,Emprendedor,2033,58.06,118042.93
+2026-03,Chile,Premium,1171,63.85,74774.74
+2026-03,Chile,Corporativo,455,120.09,54655.5
+2026-03,Chile,Siigo POS,534,26.3,14050.29
+2026-03,Chile,POS Gastrobar,206,35.13,7241.67
+2026-04,Chile,Siigo Contador,927,0.0,0.0
+2026-04,Chile,Profesional Independiente,2143,43.22,92595.27
+2026-04,Chile,Emprendedor,2096,58.07,121697.34
+2026-04,Chile,Premium,1208,63.81,77053.05
+2026-04,Chile,Corporativo,468,120.33,56338.94
+2026-04,Chile,Siigo POS,550,26.23,14433.68
+2026-04,Chile,POS Gastrobar,212,35.03,7443.73
+2026-05,Chile,Siigo Contador,951,0.0,0.0
+2026-05,Chile,Profesional Independiente,2197,43.19,94884.83
+2026-05,Chile,Emprendedor,2147,58.18,124905.82
+2026-05,Chile,Premium,1241,64.14,79579.01
+2026-05,Chile,Corporativo,481,120.92,58155.46
+2026-05,Chile,Siigo POS,565,26.26,14833.61
+2026-05,Chile,POS Gastrobar,218,35.04,7650.69
+2026-06,Chile,Siigo Contador,975,0.0,0.0
+2026-06,Chile,Profesional Independiente,2251,43.16,97180.67
+2026-06,Chile,Emprendedor,2203,58.16,128133.71
+2026-06,Chile,Premium,1269,64.24,81518.71
+2026-06,Chile,Corporativo,494,121.35,59884.86
+2026-06,Chile,Siigo POS,578,26.26,15177.55
+2026-06,Chile,POS Gastrobar,223,35.08,7837.64
+2026-07,Chile,Siigo Contador,995,0.0,0.0
+2026-07,Chile,Profesional Independiente,2311,43.1,99590.72
+2026-07,Chile,Emprendedor,2268,58.16,131923.28
+2026-07,Chile,Premium,1308,64.31,84105.75
+2026-07,Chile,Corporativo,507,121.72,61743.71
+2026-07,Chile,Siigo POS,593,26.31,15600.41
+2026-07,Chile,POS Gastrobar,229,35.14,8050.46
+2026-08,Chile,Siigo Contador,1030,0.0,0.0
+2026-08,Chile,Profesional Independiente,2390,43.14,103116.75
+2026-08,Chile,Emprendedor,2341,58.16,136187.79
+2026-08,Chile,Premium,1347,64.4,86730.45
+2026-08,Chile,Corporativo,521,121.87,63533.0
+2026-08,Chile,Siigo POS,608,26.32,16001.29
+2026-08,Chile,POS Gastrobar,235,35.07,8248.18

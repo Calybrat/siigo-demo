@@ -1,0 +1,7 @@
+pais,codigo,moneda,anio_entrada,via_entrada,clientes_activos,pymes_mercado,penetracion_pct,competidor_principal
+Colombia,CO,COP,1988,Orgánico,122400,1620000,7.56,Alegra
+México,MX,MXN,2022,Adquisición Aspel,96500,4200000,2.3,CONTPAQi
+Ecuador,EC,USD,2020,Adquisición Contífico,38200,890000,4.29,Contífico
+Perú,PE,PEN,2019,Orgánico,24800,1900000,1.31,Bsale
+Uruguay,UY,UYU,2020,Adquisición Memory,14900,178000,8.37,Memory
+Chile,CL,CLP,2023,Orgánico,8400,1100000,0.76,Defontana

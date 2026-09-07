@@ -1,0 +1,1153 @@
+mes,pais,motivo,cantidad
+2024-09,Chile,NIT del adquiriente inválido,1657
+2024-09,Chile,Fecha fuera del rango permitido,1278
+2024-09,Chile,Error en cálculo de IVA,924
+2024-09,Chile,CUFE duplicado,853
+2024-09,Chile,Resolución de numeración vencida,934
+2024-09,Chile,Detalle de tributos incompleto,640
+2024-09,Chile,Firma digital inválida,498
+2024-09,Chile,Otros rechazos técnicos,301
+2024-09,Colombia,NIT del adquiriente inválido,49820
+2024-09,Colombia,Fecha fuera del rango permitido,37497
+2024-09,Colombia,Error en cálculo de IVA,36290
+2024-09,Colombia,CUFE duplicado,29613
+2024-09,Colombia,Resolución de numeración vencida,24955
+2024-09,Colombia,Detalle de tributos incompleto,22966
+2024-09,Colombia,Firma digital inválida,16728
+2024-09,Colombia,Otros rechazos técnicos,11334
+2024-09,Ecuador,NIT del adquiriente inválido,9922
+2024-09,Ecuador,Fecha fuera del rango permitido,9227
+2024-09,Ecuador,Error en cálculo de IVA,9691
+2024-09,Ecuador,CUFE duplicado,6859
+2024-09,Ecuador,Resolución de numeración vencida,7335
+2024-09,Ecuador,Detalle de tributos incompleto,4544
+2024-09,Ecuador,Firma digital inválida,3429
+2024-09,Ecuador,Otros rechazos técnicos,2765
+2024-09,México,NIT del adquiriente inválido,28620
+2024-09,México,Fecha fuera del rango permitido,22336
+2024-09,México,Error en cálculo de IVA,18377
+2024-09,México,CUFE duplicado,14124
+2024-09,México,Resolución de numeración vencida,16670
+2024-09,México,Detalle de tributos incompleto,11993
+2024-09,México,Firma digital inválida,9413
+2024-09,México,Otros rechazos técnicos,6681
+2024-09,Perú,NIT del adquiriente inválido,5639
+2024-09,Perú,Fecha fuera del rango permitido,5416
+2024-09,Perú,Error en cálculo de IVA,4819
+2024-09,Perú,CUFE duplicado,4316
+2024-09,Perú,Resolución de numeración vencida,3518
+2024-09,Perú,Detalle de tributos incompleto,2516
+2024-09,Perú,Firma digital inválida,2278
+2024-09,Perú,Otros rechazos técnicos,1490
+2024-09,Uruguay,NIT del adquiriente inválido,4576
+2024-09,Uruguay,Fecha fuera del rango permitido,3207
+2024-09,Uruguay,Error en cálculo de IVA,3095
+2024-09,Uruguay,CUFE duplicado,2623
+2024-09,Uruguay,Resolución de numeración vencida,2267
+2024-09,Uruguay,Detalle de tributos incompleto,1591
+2024-09,Uruguay,Firma digital inválida,1508
+2024-09,Uruguay,Otros rechazos técnicos,954
+2024-10,Chile,NIT del adquiriente inválido,1387
+2024-10,Chile,Fecha fuera del rango permitido,1489
+2024-10,Chile,Error en cálculo de IVA,1323
+2024-10,Chile,CUFE duplicado,999
+2024-10,Chile,Resolución de numeración vencida,840
+2024-10,Chile,Detalle de tributos incompleto,717
+2024-10,Chile,Firma digital inválida,526
+2024-10,Chile,Otros rechazos técnicos,380
+2024-10,Colombia,NIT del adquiriente inválido,70636
+2024-10,Colombia,Fecha fuera del rango permitido,53610
+2024-10,Colombia,Error en cálculo de IVA,46421
+2024-10,Colombia,CUFE duplicado,36975
+2024-10,Colombia,Resolución de numeración vencida,30874
+2024-10,Colombia,Detalle de tributos incompleto,26924
+2024-10,Colombia,Firma digital inválida,21504
+2024-10,Colombia,Otros rechazos técnicos,17419
+2024-10,Ecuador,NIT del adquiriente inválido,14604
+2024-10,Ecuador,Fecha fuera del rango permitido,11538
+2024-10,Ecuador,Error en cálculo de IVA,11205
+2024-10,Ecuador,CUFE duplicado,7463
+2024-10,Ecuador,Resolución de numeración vencida,6597
+2024-10,Ecuador,Detalle de tributos incompleto,5912
+2024-10,Ecuador,Firma digital inválida,5149
+2024-10,Ecuador,Otros rechazos técnicos,3827
+2024-10,México,NIT del adquiriente inválido,35475
+2024-10,México,Fecha fuera del rango permitido,27755
+2024-10,México,Error en cálculo de IVA,25395
+2024-10,México,CUFE duplicado,19407
+2024-10,México,Resolución de numeración vencida,15260
+2024-10,México,Detalle de tributos incompleto,14769
+2024-10,México,Firma digital inválida,11836
+2024-10,México,Otros rechazos técnicos,7575
+2024-10,Perú,NIT del adquiriente inválido,8057
+2024-10,Perú,Fecha fuera del rango permitido,6640
+2024-10,Perú,Error en cálculo de IVA,5246
+2024-10,Perú,CUFE duplicado,4694
+2024-10,Perú,Resolución de numeración vencida,4632
+2024-10,Perú,Detalle de tributos incompleto,3935
+2024-10,Perú,Firma digital inválida,2755
+2024-10,Perú,Otros rechazos técnicos,1986
+2024-10,Uruguay,NIT del adquiriente inválido,5205
+2024-10,Uruguay,Fecha fuera del rango permitido,4329
+2024-10,Uruguay,Error en cálculo de IVA,3562
+2024-10,Uruguay,CUFE duplicado,2921
+2024-10,Uruguay,Resolución de numeración vencida,2657
+2024-10,Uruguay,Detalle de tributos incompleto,2135
+2024-10,Uruguay,Firma digital inválida,1748
+2024-10,Uruguay,Otros rechazos técnicos,1290
+2024-11,Chile,NIT del adquiriente inválido,1805
+2024-11,Chile,Fecha fuera del rango permitido,1326
+2024-11,Chile,Error en cálculo de IVA,1300
+2024-11,Chile,CUFE duplicado,1104
+2024-11,Chile,Resolución de numeración vencida,874
+2024-11,Chile,Detalle de tributos incompleto,823
+2024-11,Chile,Firma digital inválida,569
+2024-11,Chile,Otros rechazos técnicos,455
+2024-11,Colombia,NIT del adquiriente inválido,58331
+2024-11,Colombia,Fecha fuera del rango permitido,47460
+2024-11,Colombia,Error en cálculo de IVA,36223
+2024-11,Colombia,CUFE duplicado,35882
+2024-11,Colombia,Resolución de numeración vencida,37372
+2024-11,Colombia,Detalle de tributos incompleto,23284
+2024-11,Colombia,Firma digital inválida,17235
+2024-11,Colombia,Otros rechazos técnicos,9392
+2024-11,Ecuador,NIT del adquiriente inválido,15210
+2024-11,Ecuador,Fecha fuera del rango permitido,11364
+2024-11,Ecuador,Error en cálculo de IVA,8344
+2024-11,Ecuador,CUFE duplicado,6834
+2024-11,Ecuador,Resolución de numeración vencida,6663
+2024-11,Ecuador,Detalle de tributos incompleto,6122
+2024-11,Ecuador,Firma digital inválida,4748
+2024-11,Ecuador,Otros rechazos técnicos,2909
+2024-11,México,NIT del adquiriente inválido,36248
+2024-11,México,Fecha fuera del rango permitido,26636
+2024-11,México,Error en cálculo de IVA,23607
+2024-11,México,CUFE duplicado,18500
+2024-11,México,Resolución de numeración vencida,15965
+2024-11,México,Detalle de tributos incompleto,12380
+2024-11,México,Firma digital inválida,10270
+2024-11,México,Otros rechazos técnicos,6714
+2024-11,Perú,NIT del adquiriente inválido,8944
+2024-11,Perú,Fecha fuera del rango permitido,6478
+2024-11,Perú,Error en cálculo de IVA,5589
+2024-11,Perú,CUFE duplicado,4604
+2024-11,Perú,Resolución de numeración vencida,4109
+2024-11,Perú,Detalle de tributos incompleto,2797
+2024-11,Perú,Firma digital inválida,2878
+2024-11,Perú,Otros rechazos técnicos,2005
+2024-11,Uruguay,NIT del adquiriente inválido,5215
+2024-11,Uruguay,Fecha fuera del rango permitido,3515
+2024-11,Uruguay,Error en cálculo de IVA,3334
+2024-11,Uruguay,CUFE duplicado,2595
+2024-11,Uruguay,Resolución de numeración vencida,2312
+2024-11,Uruguay,Detalle de tributos incompleto,1806
+2024-11,Uruguay,Firma digital inválida,1752
+2024-11,Uruguay,Otros rechazos técnicos,1143
+2024-12,Chile,NIT del adquiriente inválido,2030
+2024-12,Chile,Fecha fuera del rango permitido,1626
+2024-12,Chile,Error en cálculo de IVA,1439
+2024-12,Chile,CUFE duplicado,1079
+2024-12,Chile,Resolución de numeración vencida,1106
+2024-12,Chile,Detalle de tributos incompleto,897
+2024-12,Chile,Firma digital inválida,772
+2024-12,Chile,Otros rechazos técnicos,527
+2024-12,Colombia,NIT del adquiriente inválido,63026
+2024-12,Colombia,Fecha fuera del rango permitido,57964
+2024-12,Colombia,Error en cálculo de IVA,46568
+2024-12,Colombia,CUFE duplicado,38902
+2024-12,Colombia,Resolución de numeración vencida,35602
+2024-12,Colombia,Detalle de tributos incompleto,24172
+2024-12,Colombia,Firma digital inválida,20148
+2024-12,Colombia,Otros rechazos técnicos,15004
+2024-12,Ecuador,NIT del adquiriente inválido,16532
+2024-12,Ecuador,Fecha fuera del rango permitido,10907
+2024-12,Ecuador,Error en cálculo de IVA,13352
+2024-12,Ecuador,CUFE duplicado,7836
+2024-12,Ecuador,Resolución de numeración vencida,8709
+2024-12,Ecuador,Detalle de tributos incompleto,7173
+2024-12,Ecuador,Firma digital inválida,5800
+2024-12,Ecuador,Otros rechazos técnicos,3523
+2024-12,México,NIT del adquiriente inválido,38511
+2024-12,México,Fecha fuera del rango permitido,34216
+2024-12,México,Error en cálculo de IVA,24461
+2024-12,México,CUFE duplicado,23040
+2024-12,México,Resolución de numeración vencida,19120
+2024-12,México,Detalle de tributos incompleto,17997
+2024-12,México,Firma digital inválida,13389
+2024-12,México,Otros rechazos técnicos,8266
+2024-12,Perú,NIT del adquiriente inválido,11053
+2024-12,Perú,Fecha fuera del rango permitido,8685
+2024-12,Perú,Error en cálculo de IVA,7591
+2024-12,Perú,CUFE duplicado,6127
+2024-12,Perú,Resolución de numeración vencida,4661
+2024-12,Perú,Detalle de tributos incompleto,4070
+2024-12,Perú,Firma digital inválida,3136
+2024-12,Perú,Otros rechazos técnicos,2113
+2024-12,Uruguay,NIT del adquiriente inválido,6048
+2024-12,Uruguay,Fecha fuera del rango permitido,4881
+2024-12,Uruguay,Error en cálculo de IVA,3798
+2024-12,Uruguay,CUFE duplicado,3129
+2024-12,Uruguay,Resolución de numeración vencida,3209
+2024-12,Uruguay,Detalle de tributos incompleto,2756
+2024-12,Uruguay,Firma digital inválida,1825
+2024-12,Uruguay,Otros rechazos técnicos,1269
+2025-01,Chile,NIT del adquiriente inválido,1684
+2025-01,Chile,Fecha fuera del rango permitido,1193
+2025-01,Chile,Error en cálculo de IVA,1034
+2025-01,Chile,CUFE duplicado,999
+2025-01,Chile,Resolución de numeración vencida,775
+2025-01,Chile,Detalle de tributos incompleto,579
+2025-01,Chile,Firma digital inválida,513
+2025-01,Chile,Otros rechazos técnicos,423
+2025-01,Colombia,NIT del adquiriente inválido,53869
+2025-01,Colombia,Fecha fuera del rango permitido,38270
+2025-01,Colombia,Error en cálculo de IVA,44378
+2025-01,Colombia,CUFE duplicado,31607
+2025-01,Colombia,Resolución de numeración vencida,22838
+2025-01,Colombia,Detalle de tributos incompleto,21364
+2025-01,Colombia,Firma digital inválida,16208
+2025-01,Colombia,Otros rechazos técnicos,14180
+2025-01,Ecuador,NIT del adquiriente inválido,14918
+2025-01,Ecuador,Fecha fuera del rango permitido,9627
+2025-01,Ecuador,Error en cálculo de IVA,10220
+2025-01,Ecuador,CUFE duplicado,7296
+2025-01,Ecuador,Resolución de numeración vencida,7113
+2025-01,Ecuador,Detalle de tributos incompleto,5614
+2025-01,Ecuador,Firma digital inválida,4102
+2025-01,Ecuador,Otros rechazos técnicos,2549
+2025-01,México,NIT del adquiriente inválido,28082
+2025-01,México,Fecha fuera del rango permitido,28197
+2025-01,México,Error en cálculo de IVA,21776
+2025-01,México,CUFE duplicado,16371
+2025-01,México,Resolución de numeración vencida,15735
+2025-01,México,Detalle de tributos incompleto,12682
+2025-01,México,Firma digital inválida,11506
+2025-01,México,Otros rechazos técnicos,7054
+2025-01,Perú,NIT del adquiriente inválido,6300
+2025-01,Perú,Fecha fuera del rango permitido,6226
+2025-01,Perú,Error en cálculo de IVA,5117
+2025-01,Perú,CUFE duplicado,3928
+2025-01,Perú,Resolución de numeración vencida,4125
+2025-01,Perú,Detalle de tributos incompleto,3195
+2025-01,Perú,Firma digital inválida,2682
+2025-01,Perú,Otros rechazos técnicos,1611
+2025-01,Uruguay,NIT del adquiriente inválido,4967
+2025-01,Uruguay,Fecha fuera del rango permitido,3417
+2025-01,Uruguay,Error en cálculo de IVA,2666
+2025-01,Uruguay,CUFE duplicado,2512
+2025-01,Uruguay,Resolución de numeración vencida,2307
+2025-01,Uruguay,Detalle de tributos incompleto,1839
+2025-01,Uruguay,Firma digital inválida,1193
+2025-01,Uruguay,Otros rechazos técnicos,943
+2025-02,Chile,NIT del adquiriente inválido,1461
+2025-02,Chile,Fecha fuera del rango permitido,1191
+2025-02,Chile,Error en cálculo de IVA,1024
+2025-02,Chile,CUFE duplicado,867
+2025-02,Chile,Resolución de numeración vencida,705
+2025-02,Chile,Detalle de tributos incompleto,571
+2025-02,Chile,Firma digital inválida,637
+2025-02,Chile,Otros rechazos técnicos,304
+2025-02,Colombia,NIT del adquiriente inválido,50684
+2025-02,Colombia,Fecha fuera del rango permitido,35933
+2025-02,Colombia,Error en cálculo de IVA,38568
+2025-02,Colombia,CUFE duplicado,22097
+2025-02,Colombia,Resolución de numeración vencida,26230
+2025-02,Colombia,Detalle de tributos incompleto,17006
+2025-02,Colombia,Firma digital inválida,13799
+2025-02,Colombia,Otros rechazos técnicos,10302
+2025-02,Ecuador,NIT del adquiriente inválido,10578
+2025-02,Ecuador,Fecha fuera del rango permitido,8953
+2025-02,Ecuador,Error en cálculo de IVA,7940
+2025-02,Ecuador,CUFE duplicado,6075
+2025-02,Ecuador,Resolución de numeración vencida,4358
+2025-02,Ecuador,Detalle de tributos incompleto,4254
+2025-02,Ecuador,Firma digital inválida,3642
+2025-02,Ecuador,Otros rechazos técnicos,2505
+2025-02,México,NIT del adquiriente inválido,23932
+2025-02,México,Fecha fuera del rango permitido,23874
+2025-02,México,Error en cálculo de IVA,19639
+2025-02,México,CUFE duplicado,15118
+2025-02,México,Resolución de numeración vencida,12709
+2025-02,México,Detalle de tributos incompleto,9222
+2025-02,México,Firma digital inválida,8612
+2025-02,México,Otros rechazos técnicos,5396
+2025-02,Perú,NIT del adquiriente inválido,6214
+2025-02,Perú,Fecha fuera del rango permitido,5334
+2025-02,Perú,Error en cálculo de IVA,5152
+2025-02,Perú,CUFE duplicado,3680
+2025-02,Perú,Resolución de numeración vencida,3556
+2025-02,Perú,Detalle de tributos incompleto,2584
+2025-02,Perú,Firma digital inválida,2182
+2025-02,Perú,Otros rechazos técnicos,1370
+2025-02,Uruguay,NIT del adquiriente inválido,3840
+2025-02,Uruguay,Fecha fuera del rango permitido,3182
+2025-02,Uruguay,Error en cálculo de IVA,2798
+2025-02,Uruguay,CUFE duplicado,2224
+2025-02,Uruguay,Resolución de numeración vencida,1959
+2025-02,Uruguay,Detalle de tributos incompleto,1624
+2025-02,Uruguay,Firma digital inválida,1437
+2025-02,Uruguay,Otros rechazos técnicos,878
+2025-03,Chile,NIT del adquiriente inválido,1939
+2025-03,Chile,Fecha fuera del rango permitido,1650
+2025-03,Chile,Error en cálculo de IVA,1409
+2025-03,Chile,CUFE duplicado,1039
+2025-03,Chile,Resolución de numeración vencida,1151
+2025-03,Chile,Detalle de tributos incompleto,781
+2025-03,Chile,Firma digital inválida,706
+2025-03,Chile,Otros rechazos técnicos,483
+2025-03,Colombia,NIT del adquiriente inválido,60173
+2025-03,Colombia,Fecha fuera del rango permitido,48928
+2025-03,Colombia,Error en cálculo de IVA,36179
+2025-03,Colombia,CUFE duplicado,33517
+2025-03,Colombia,Resolución de numeración vencida,30383
+2025-03,Colombia,Detalle de tributos incompleto,23916
+2025-03,Colombia,Firma digital inválida,20774
+2025-03,Colombia,Otros rechazos técnicos,12610
+2025-03,Ecuador,NIT del adquiriente inválido,14502
+2025-03,Ecuador,Fecha fuera del rango permitido,10491
+2025-03,Ecuador,Error en cálculo de IVA,10249
+2025-03,Ecuador,CUFE duplicado,7305
+2025-03,Ecuador,Resolución de numeración vencida,7151
+2025-03,Ecuador,Detalle de tributos incompleto,5113
+2025-03,Ecuador,Firma digital inválida,4599
+2025-03,Ecuador,Otros rechazos técnicos,3547
+2025-03,México,NIT del adquiriente inválido,35801
+2025-03,México,Fecha fuera del rango permitido,28928
+2025-03,México,Error en cálculo de IVA,29695
+2025-03,México,CUFE duplicado,18821
+2025-03,México,Resolución de numeración vencida,17555
+2025-03,México,Detalle de tributos incompleto,13030
+2025-03,México,Firma digital inválida,11062
+2025-03,México,Otros rechazos técnicos,8032
+2025-03,Perú,NIT del adquiriente inválido,7846
+2025-03,Perú,Fecha fuera del rango permitido,6364
+2025-03,Perú,Error en cálculo de IVA,6246
+2025-03,Perú,CUFE duplicado,4393
+2025-03,Perú,Resolución de numeración vencida,4468
+2025-03,Perú,Detalle de tributos incompleto,3384
+2025-03,Perú,Firma digital inválida,2538
+2025-03,Perú,Otros rechazos técnicos,1842
+2025-03,Uruguay,NIT del adquiriente inválido,4891
+2025-03,Uruguay,Fecha fuera del rango permitido,3557
+2025-03,Uruguay,Error en cálculo de IVA,4017
+2025-03,Uruguay,CUFE duplicado,2708
+2025-03,Uruguay,Resolución de numeración vencida,2934
+2025-03,Uruguay,Detalle de tributos incompleto,1742
+2025-03,Uruguay,Firma digital inválida,1598
+2025-03,Uruguay,Otros rechazos técnicos,1097
+2025-04,Chile,NIT del adquiriente inválido,2307
+2025-04,Chile,Fecha fuera del rango permitido,1581
+2025-04,Chile,Error en cálculo de IVA,1630
+2025-04,Chile,CUFE duplicado,1345
+2025-04,Chile,Resolución de numeración vencida,1142
+2025-04,Chile,Detalle de tributos incompleto,817
+2025-04,Chile,Firma digital inválida,670
+2025-04,Chile,Otros rechazos técnicos,426
+2025-04,Colombia,NIT del adquiriente inválido,66054
+2025-04,Colombia,Fecha fuera del rango permitido,55863
+2025-04,Colombia,Error en cálculo de IVA,36331
+2025-04,Colombia,CUFE duplicado,33596
+2025-04,Colombia,Resolución de numeración vencida,30656
+2025-04,Colombia,Detalle de tributos incompleto,21002
+2025-04,Colombia,Firma digital inválida,20685
+2025-04,Colombia,Otros rechazos técnicos,14281
+2025-04,Ecuador,NIT del adquiriente inválido,15817
+2025-04,Ecuador,Fecha fuera del rango permitido,11164
+2025-04,Ecuador,Error en cálculo de IVA,12179
+2025-04,Ecuador,CUFE duplicado,8199
+2025-04,Ecuador,Resolución de numeración vencida,7268
+2025-04,Ecuador,Detalle de tributos incompleto,5524
+2025-04,Ecuador,Firma digital inválida,4116
+2025-04,Ecuador,Otros rechazos técnicos,3337
+2025-04,México,NIT del adquiriente inválido,33361
+2025-04,México,Fecha fuera del rango permitido,29226
+2025-04,México,Error en cálculo de IVA,25900
+2025-04,México,CUFE duplicado,25903
+2025-04,México,Resolución de numeración vencida,19939
+2025-04,México,Detalle de tributos incompleto,11851
+2025-04,México,Firma digital inválida,11458
+2025-04,México,Otros rechazos técnicos,7672
+2025-04,Perú,NIT del adquiriente inválido,9598
+2025-04,Perú,Fecha fuera del rango permitido,7874
+2025-04,Perú,Error en cálculo de IVA,6937
+2025-04,Perú,CUFE duplicado,5374
+2025-04,Perú,Resolución de numeración vencida,4263
+2025-04,Perú,Detalle de tributos incompleto,3779
+2025-04,Perú,Firma digital inválida,2588
+2025-04,Perú,Otros rechazos técnicos,2004
+2025-04,Uruguay,NIT del adquiriente inválido,6097
+2025-04,Uruguay,Fecha fuera del rango permitido,4168
+2025-04,Uruguay,Error en cálculo de IVA,4432
+2025-04,Uruguay,CUFE duplicado,2660
+2025-04,Uruguay,Resolución de numeración vencida,2763
+2025-04,Uruguay,Detalle de tributos incompleto,2347
+2025-04,Uruguay,Firma digital inválida,1775
+2025-04,Uruguay,Otros rechazos técnicos,1347
+2025-05,Chile,NIT del adquiriente inválido,2437
+2025-05,Chile,Fecha fuera del rango permitido,1749
+2025-05,Chile,Error en cálculo de IVA,1493
+2025-05,Chile,CUFE duplicado,1172
+2025-05,Chile,Resolución de numeración vencida,1205
+2025-05,Chile,Detalle de tributos incompleto,963
+2025-05,Chile,Firma digital inválida,663
+2025-05,Chile,Otros rechazos técnicos,544
+2025-05,Colombia,NIT del adquiriente inválido,50154
+2025-05,Colombia,Fecha fuera del rango permitido,52405
+2025-05,Colombia,Error en cálculo de IVA,40208
+2025-05,Colombia,CUFE duplicado,37906
+2025-05,Colombia,Resolución de numeración vencida,36199
+2025-05,Colombia,Detalle de tributos incompleto,25403
+2025-05,Colombia,Firma digital inválida,18217
+2025-05,Colombia,Otros rechazos técnicos,13642
+2025-05,Ecuador,NIT del adquiriente inválido,16769
+2025-05,Ecuador,Fecha fuera del rango permitido,12179
+2025-05,Ecuador,Error en cálculo de IVA,10645
+2025-05,Ecuador,CUFE duplicado,6903
+2025-05,Ecuador,Resolución de numeración vencida,8027
+2025-05,Ecuador,Detalle de tributos incompleto,5952
+2025-05,Ecuador,Firma digital inválida,4821
+2025-05,Ecuador,Otros rechazos técnicos,3050
+2025-05,México,NIT del adquiriente inválido,36872
+2025-05,México,Fecha fuera del rango permitido,30053
+2025-05,México,Error en cálculo de IVA,24662
+2025-05,México,CUFE duplicado,22477
+2025-05,México,Resolución de numeración vencida,17673
+2025-05,México,Detalle de tributos incompleto,17259
+2025-05,México,Firma digital inválida,12843
+2025-05,México,Otros rechazos técnicos,11007
+2025-05,Perú,NIT del adquiriente inválido,7991
+2025-05,Perú,Fecha fuera del rango permitido,7521
+2025-05,Perú,Error en cálculo de IVA,7272
+2025-05,Perú,CUFE duplicado,4893
+2025-05,Perú,Resolución de numeración vencida,4831
+2025-05,Perú,Detalle de tributos incompleto,3751
+2025-05,Perú,Firma digital inválida,2799
+2025-05,Perú,Otros rechazos técnicos,2177
+2025-05,Uruguay,NIT del adquiriente inválido,4189
+2025-05,Uruguay,Fecha fuera del rango permitido,4551
+2025-05,Uruguay,Error en cálculo de IVA,4148
+2025-05,Uruguay,CUFE duplicado,2846
+2025-05,Uruguay,Resolución de numeración vencida,3081
+2025-05,Uruguay,Detalle de tributos incompleto,2181
+2025-05,Uruguay,Firma digital inválida,2149
+2025-05,Uruguay,Otros rechazos técnicos,1185
+2025-06,Chile,NIT del adquiriente inválido,1848
+2025-06,Chile,Fecha fuera del rango permitido,1505
+2025-06,Chile,Error en cálculo de IVA,1223
+2025-06,Chile,CUFE duplicado,1090
+2025-06,Chile,Resolución de numeración vencida,950
+2025-06,Chile,Detalle de tributos incompleto,771
+2025-06,Chile,Firma digital inválida,620
+2025-06,Chile,Otros rechazos técnicos,469
+2025-06,Colombia,NIT del adquiriente inválido,48868
+2025-06,Colombia,Fecha fuera del rango permitido,44588
+2025-06,Colombia,Error en cálculo de IVA,38400
+2025-06,Colombia,CUFE duplicado,27272
+2025-06,Colombia,Resolución de numeración vencida,26167
+2025-06,Colombia,Detalle de tributos incompleto,20214
+2025-06,Colombia,Firma digital inválida,20399
+2025-06,Colombia,Otros rechazos técnicos,13209
+2025-06,Ecuador,NIT del adquiriente inválido,12429
+2025-06,Ecuador,Fecha fuera del rango permitido,11210
+2025-06,Ecuador,Error en cálculo de IVA,8740
+2025-06,Ecuador,CUFE duplicado,5663
+2025-06,Ecuador,Resolución de numeración vencida,6073
+2025-06,Ecuador,Detalle de tributos incompleto,4641
+2025-06,Ecuador,Firma digital inválida,4194
+2025-06,Ecuador,Otros rechazos técnicos,2394
+2025-06,México,NIT del adquiriente inválido,37818
+2025-06,México,Fecha fuera del rango permitido,25760
+2025-06,México,Error en cálculo de IVA,21395
+2025-06,México,CUFE duplicado,17005
+2025-06,México,Resolución de numeración vencida,15632
+2025-06,México,Detalle de tributos incompleto,11876
+2025-06,México,Firma digital inválida,11333
+2025-06,México,Otros rechazos técnicos,7836
+2025-06,Perú,NIT del adquiriente inválido,8572
+2025-06,Perú,Fecha fuera del rango permitido,6295
+2025-06,Perú,Error en cálculo de IVA,5472
+2025-06,Perú,CUFE duplicado,3391
+2025-06,Perú,Resolución de numeración vencida,3929
+2025-06,Perú,Detalle de tributos incompleto,3276
+2025-06,Perú,Firma digital inválida,2837
+2025-06,Perú,Otros rechazos técnicos,1744
+2025-06,Uruguay,NIT del adquiriente inválido,5290
+2025-06,Uruguay,Fecha fuera del rango permitido,3992
+2025-06,Uruguay,Error en cálculo de IVA,3724
+2025-06,Uruguay,CUFE duplicado,2442
+2025-06,Uruguay,Resolución de numeración vencida,2719
+2025-06,Uruguay,Detalle de tributos incompleto,1993
+2025-06,Uruguay,Firma digital inválida,1815
+2025-06,Uruguay,Otros rechazos técnicos,1183
+2025-07,Chile,NIT del adquiriente inválido,2591
+2025-07,Chile,Fecha fuera del rango permitido,1979
+2025-07,Chile,Error en cálculo de IVA,1149
+2025-07,Chile,CUFE duplicado,1405
+2025-07,Chile,Resolución de numeración vencida,1272
+2025-07,Chile,Detalle de tributos incompleto,921
+2025-07,Chile,Firma digital inválida,859
+2025-07,Chile,Otros rechazos técnicos,580
+2025-07,Colombia,NIT del adquiriente inválido,57842
+2025-07,Colombia,Fecha fuera del rango permitido,48441
+2025-07,Colombia,Error en cálculo de IVA,51387
+2025-07,Colombia,CUFE duplicado,32598
+2025-07,Colombia,Resolución de numeración vencida,33402
+2025-07,Colombia,Detalle de tributos incompleto,25536
+2025-07,Colombia,Firma digital inválida,20849
+2025-07,Colombia,Otros rechazos técnicos,15274
+2025-07,Ecuador,NIT del adquiriente inválido,16798
+2025-07,Ecuador,Fecha fuera del rango permitido,12629
+2025-07,Ecuador,Error en cálculo de IVA,10985
+2025-07,Ecuador,CUFE duplicado,9271
+2025-07,Ecuador,Resolución de numeración vencida,7848
+2025-07,Ecuador,Detalle de tributos incompleto,5586
+2025-07,Ecuador,Firma digital inválida,6288
+2025-07,Ecuador,Otros rechazos técnicos,3768
+2025-07,México,NIT del adquiriente inválido,41327
+2025-07,México,Fecha fuera del rango permitido,25147
+2025-07,México,Error en cálculo de IVA,28080
+2025-07,México,CUFE duplicado,22496
+2025-07,México,Resolución de numeración vencida,20231
+2025-07,México,Detalle de tributos incompleto,15710
+2025-07,México,Firma digital inválida,12951
+2025-07,México,Otros rechazos técnicos,7614
+2025-07,Perú,NIT del adquiriente inválido,8873
+2025-07,Perú,Fecha fuera del rango permitido,6962
+2025-07,Perú,Error en cálculo de IVA,7053
+2025-07,Perú,CUFE duplicado,5391
+2025-07,Perú,Resolución de numeración vencida,4060
+2025-07,Perú,Detalle de tributos incompleto,3180
+2025-07,Perú,Firma digital inválida,3194
+2025-07,Perú,Otros rechazos técnicos,1921
+2025-07,Uruguay,NIT del adquiriente inválido,6025
+2025-07,Uruguay,Fecha fuera del rango permitido,4368
+2025-07,Uruguay,Error en cálculo de IVA,3463
+2025-07,Uruguay,CUFE duplicado,3275
+2025-07,Uruguay,Resolución de numeración vencida,2809
+2025-07,Uruguay,Detalle de tributos incompleto,2362
+2025-07,Uruguay,Firma digital inválida,1690
+2025-07,Uruguay,Otros rechazos técnicos,1160
+2025-08,Chile,NIT del adquiriente inválido,2369
+2025-08,Chile,Fecha fuera del rango permitido,1414
+2025-08,Chile,Error en cálculo de IVA,1756
+2025-08,Chile,CUFE duplicado,1422
+2025-08,Chile,Resolución de numeración vencida,1174
+2025-08,Chile,Detalle de tributos incompleto,870
+2025-08,Chile,Firma digital inválida,779
+2025-08,Chile,Otros rechazos técnicos,549
+2025-08,Colombia,NIT del adquiriente inválido,63068
+2025-08,Colombia,Fecha fuera del rango permitido,48826
+2025-08,Colombia,Error en cálculo de IVA,48468
+2025-08,Colombia,CUFE duplicado,31394
+2025-08,Colombia,Resolución de numeración vencida,28445
+2025-08,Colombia,Detalle de tributos incompleto,21708
+2025-08,Colombia,Firma digital inválida,19671
+2025-08,Colombia,Otros rechazos técnicos,11530
+2025-08,Ecuador,NIT del adquiriente inválido,14726
+2025-08,Ecuador,Fecha fuera del rango permitido,10355
+2025-08,Ecuador,Error en cálculo de IVA,10205
+2025-08,Ecuador,CUFE duplicado,7788
+2025-08,Ecuador,Resolución de numeración vencida,7755
+2025-08,Ecuador,Detalle de tributos incompleto,6950
+2025-08,Ecuador,Firma digital inválida,4969
+2025-08,Ecuador,Otros rechazos técnicos,3162
+2025-08,México,NIT del adquiriente inválido,41603
+2025-08,México,Fecha fuera del rango permitido,28080
+2025-08,México,Error en cálculo de IVA,25577
+2025-08,México,CUFE duplicado,18030
+2025-08,México,Resolución de numeración vencida,17628
+2025-08,México,Detalle de tributos incompleto,14246
+2025-08,México,Firma digital inválida,10840
+2025-08,México,Otros rechazos técnicos,8841
+2025-08,Perú,NIT del adquiriente inválido,9027
+2025-08,Perú,Fecha fuera del rango permitido,6779
+2025-08,Perú,Error en cálculo de IVA,6158
+2025-08,Perú,CUFE duplicado,5298
+2025-08,Perú,Resolución de numeración vencida,4399
+2025-08,Perú,Detalle de tributos incompleto,3974
+2025-08,Perú,Firma digital inválida,2723
+2025-08,Perú,Otros rechazos técnicos,2185
+2025-08,Uruguay,NIT del adquiriente inválido,5378
+2025-08,Uruguay,Fecha fuera del rango permitido,3750
+2025-08,Uruguay,Error en cálculo de IVA,4039
+2025-08,Uruguay,CUFE duplicado,2638
+2025-08,Uruguay,Resolución de numeración vencida,2523
+2025-08,Uruguay,Detalle de tributos incompleto,2036
+2025-08,Uruguay,Firma digital inválida,1754
+2025-08,Uruguay,Otros rechazos técnicos,1101
+2025-09,Chile,NIT del adquiriente inválido,2035
+2025-09,Chile,Fecha fuera del rango permitido,1762
+2025-09,Chile,Error en cálculo de IVA,1470
+2025-09,Chile,CUFE duplicado,1306
+2025-09,Chile,Resolución de numeración vencida,1022
+2025-09,Chile,Detalle de tributos incompleto,963
+2025-09,Chile,Firma digital inválida,589
+2025-09,Chile,Otros rechazos técnicos,555
+2025-09,Colombia,NIT del adquiriente inválido,57969
+2025-09,Colombia,Fecha fuera del rango permitido,53957
+2025-09,Colombia,Error en cálculo de IVA,41294
+2025-09,Colombia,CUFE duplicado,30613
+2025-09,Colombia,Resolución de numeración vencida,23370
+2025-09,Colombia,Detalle de tributos incompleto,29110
+2025-09,Colombia,Firma digital inválida,19287
+2025-09,Colombia,Otros rechazos técnicos,14070
+2025-09,Ecuador,NIT del adquiriente inválido,12291
+2025-09,Ecuador,Fecha fuera del rango permitido,10529
+2025-09,Ecuador,Error en cálculo de IVA,10618
+2025-09,Ecuador,CUFE duplicado,7080
+2025-09,Ecuador,Resolución de numeración vencida,6461
+2025-09,Ecuador,Detalle de tributos incompleto,5195
+2025-09,Ecuador,Firma digital inválida,4238
+2025-09,Ecuador,Otros rechazos técnicos,2899
+2025-09,México,NIT del adquiriente inválido,32621
+2025-09,México,Fecha fuera del rango permitido,28121
+2025-09,México,Error en cálculo de IVA,27751
+2025-09,México,CUFE duplicado,19453
+2025-09,México,Resolución de numeración vencida,17505
+2025-09,México,Detalle de tributos incompleto,15479
+2025-09,México,Firma digital inválida,10984
+2025-09,México,Otros rechazos técnicos,8117
+2025-09,Perú,NIT del adquiriente inválido,9822
+2025-09,Perú,Fecha fuera del rango permitido,5890
+2025-09,Perú,Error en cálculo de IVA,7352
+2025-09,Perú,CUFE duplicado,4754
+2025-09,Perú,Resolución de numeración vencida,4231
+2025-09,Perú,Detalle de tributos incompleto,3415
+2025-09,Perú,Firma digital inválida,2867
+2025-09,Perú,Otros rechazos técnicos,1628
+2025-09,Uruguay,NIT del adquiriente inválido,5508
+2025-09,Uruguay,Fecha fuera del rango permitido,3858
+2025-09,Uruguay,Error en cálculo de IVA,3567
+2025-09,Uruguay,CUFE duplicado,2438
+2025-09,Uruguay,Resolución de numeración vencida,2632
+2025-09,Uruguay,Detalle de tributos incompleto,1601
+2025-09,Uruguay,Firma digital inválida,1887
+2025-09,Uruguay,Otros rechazos técnicos,1213
+2025-10,Chile,NIT del adquiriente inválido,3023
+2025-10,Chile,Fecha fuera del rango permitido,2220
+2025-10,Chile,Error en cálculo de IVA,2121
+2025-10,Chile,CUFE duplicado,1274
+2025-10,Chile,Resolución de numeración vencida,1431
+2025-10,Chile,Detalle de tributos incompleto,980
+2025-10,Chile,Firma digital inválida,985
+2025-10,Chile,Otros rechazos técnicos,533
+2025-10,Colombia,NIT del adquiriente inválido,63817
+2025-10,Colombia,Fecha fuera del rango permitido,56114
+2025-10,Colombia,Error en cálculo de IVA,59871
+2025-10,Colombia,CUFE duplicado,38871
+2025-10,Colombia,Resolución de numeración vencida,32756
+2025-10,Colombia,Detalle de tributos incompleto,31728
+2025-10,Colombia,Firma digital inválida,20392
+2025-10,Colombia,Otros rechazos técnicos,15317
+2025-10,Ecuador,NIT del adquiriente inválido,19574
+2025-10,Ecuador,Fecha fuera del rango permitido,13085
+2025-10,Ecuador,Error en cálculo de IVA,11065
+2025-10,Ecuador,CUFE duplicado,9877
+2025-10,Ecuador,Resolución de numeración vencida,7642
+2025-10,Ecuador,Detalle de tributos incompleto,5675
+2025-10,Ecuador,Firma digital inválida,5940
+2025-10,Ecuador,Otros rechazos técnicos,4269
+2025-10,México,NIT del adquiriente inválido,44292
+2025-10,México,Fecha fuera del rango permitido,35362
+2025-10,México,Error en cálculo de IVA,30945
+2025-10,México,CUFE duplicado,25873
+2025-10,México,Resolución de numeración vencida,21442
+2025-10,México,Detalle de tributos incompleto,18243
+2025-10,México,Firma digital inválida,13614
+2025-10,México,Otros rechazos técnicos,10392
+2025-10,Perú,NIT del adquiriente inválido,9731
+2025-10,Perú,Fecha fuera del rango permitido,6525
+2025-10,Perú,Error en cálculo de IVA,6943
+2025-10,Perú,CUFE duplicado,5046
+2025-10,Perú,Resolución de numeración vencida,5067
+2025-10,Perú,Detalle de tributos incompleto,3576
+2025-10,Perú,Firma digital inválida,2932
+2025-10,Perú,Otros rechazos técnicos,1948
+2025-10,Uruguay,NIT del adquiriente inválido,5755
+2025-10,Uruguay,Fecha fuera del rango permitido,4138
+2025-10,Uruguay,Error en cálculo de IVA,4270
+2025-10,Uruguay,CUFE duplicado,2634
+2025-10,Uruguay,Resolución de numeración vencida,2386
+2025-10,Uruguay,Detalle de tributos incompleto,2471
+2025-10,Uruguay,Firma digital inválida,2049
+2025-10,Uruguay,Otros rechazos técnicos,1258
+2025-11,Chile,NIT del adquiriente inválido,2614
+2025-11,Chile,Fecha fuera del rango permitido,2050
+2025-11,Chile,Error en cálculo de IVA,1790
+2025-11,Chile,CUFE duplicado,1383
+2025-11,Chile,Resolución de numeración vencida,1243
+2025-11,Chile,Detalle de tributos incompleto,959
+2025-11,Chile,Firma digital inválida,745
+2025-11,Chile,Otros rechazos técnicos,564
+2025-11,Colombia,NIT del adquiriente inválido,63250
+2025-11,Colombia,Fecha fuera del rango permitido,43889
+2025-11,Colombia,Error en cálculo de IVA,43400
+2025-11,Colombia,CUFE duplicado,34456
+2025-11,Colombia,Resolución de numeración vencida,33833
+2025-11,Colombia,Detalle de tributos incompleto,26626
+2025-11,Colombia,Firma digital inválida,17588
+2025-11,Colombia,Otros rechazos técnicos,13270
+2025-11,Ecuador,NIT del adquiriente inválido,16044
+2025-11,Ecuador,Fecha fuera del rango permitido,12060
+2025-11,Ecuador,Error en cálculo de IVA,8485
+2025-11,Ecuador,CUFE duplicado,7988
+2025-11,Ecuador,Resolución de numeración vencida,7650
+2025-11,Ecuador,Detalle de tributos incompleto,6429
+2025-11,Ecuador,Firma digital inválida,4638
+2025-11,Ecuador,Otros rechazos técnicos,3731
+2025-11,México,NIT del adquiriente inválido,37015
+2025-11,México,Fecha fuera del rango permitido,28400
+2025-11,México,Error en cálculo de IVA,22843
+2025-11,México,CUFE duplicado,23694
+2025-11,México,Resolución de numeración vencida,19323
+2025-11,México,Detalle de tributos incompleto,15743
+2025-11,México,Firma digital inválida,14912
+2025-11,México,Otros rechazos técnicos,9678
+2025-11,Perú,NIT del adquiriente inválido,8842
+2025-11,Perú,Fecha fuera del rango permitido,6645
+2025-11,Perú,Error en cálculo de IVA,7279
+2025-11,Perú,CUFE duplicado,4685
+2025-11,Perú,Resolución de numeración vencida,4486
+2025-11,Perú,Detalle de tributos incompleto,2919
+2025-11,Perú,Firma digital inválida,3123
+2025-11,Perú,Otros rechazos técnicos,2103
+2025-11,Uruguay,NIT del adquiriente inválido,5299
+2025-11,Uruguay,Fecha fuera del rango permitido,3695
+2025-11,Uruguay,Error en cálculo de IVA,3252
+2025-11,Uruguay,CUFE duplicado,2475
+2025-11,Uruguay,Resolución de numeración vencida,2540
+2025-11,Uruguay,Detalle de tributos incompleto,1989
+2025-11,Uruguay,Firma digital inválida,1699
+2025-11,Uruguay,Otros rechazos técnicos,1043
+2025-12,Chile,NIT del adquiriente inválido,3431
+2025-12,Chile,Fecha fuera del rango permitido,2663
+2025-12,Chile,Error en cálculo de IVA,2446
+2025-12,Chile,CUFE duplicado,1770
+2025-12,Chile,Resolución de numeración vencida,1421
+2025-12,Chile,Detalle de tributos incompleto,1216
+2025-12,Chile,Firma digital inválida,1082
+2025-12,Chile,Otros rechazos técnicos,773
+2025-12,Colombia,NIT del adquiriente inválido,74894
+2025-12,Colombia,Fecha fuera del rango permitido,65133
+2025-12,Colombia,Error en cálculo de IVA,50434
+2025-12,Colombia,CUFE duplicado,48670
+2025-12,Colombia,Resolución de numeración vencida,39217
+2025-12,Colombia,Detalle de tributos incompleto,30533
+2025-12,Colombia,Firma digital inválida,23145
+2025-12,Colombia,Otros rechazos técnicos,18753
+2025-12,Ecuador,NIT del adquiriente inválido,19935
+2025-12,Ecuador,Fecha fuera del rango permitido,16955
+2025-12,Ecuador,Error en cálculo de IVA,15825
+2025-12,Ecuador,CUFE duplicado,11286
+2025-12,Ecuador,Resolución de numeración vencida,10183
+2025-12,Ecuador,Detalle de tributos incompleto,6553
+2025-12,Ecuador,Firma digital inválida,6090
+2025-12,Ecuador,Otros rechazos técnicos,4628
+2025-12,México,NIT del adquiriente inválido,51390
+2025-12,México,Fecha fuera del rango permitido,46413
+2025-12,México,Error en cálculo de IVA,38431
+2025-12,México,CUFE duplicado,29896
+2025-12,México,Resolución de numeración vencida,24790
+2025-12,México,Detalle de tributos incompleto,19770
+2025-12,México,Firma digital inválida,16326
+2025-12,México,Otros rechazos técnicos,11561
+2025-12,Perú,NIT del adquiriente inválido,11302
+2025-12,Perú,Fecha fuera del rango permitido,9207
+2025-12,Perú,Error en cálculo de IVA,7566
+2025-12,Perú,CUFE duplicado,6402
+2025-12,Perú,Resolución de numeración vencida,6281
+2025-12,Perú,Detalle de tributos incompleto,4211
+2025-12,Perú,Firma digital inválida,4083
+2025-12,Perú,Otros rechazos técnicos,2865
+2025-12,Uruguay,NIT del adquiriente inválido,6886
+2025-12,Uruguay,Fecha fuera del rango permitido,4365
+2025-12,Uruguay,Error en cálculo de IVA,4654
+2025-12,Uruguay,CUFE duplicado,3693
+2025-12,Uruguay,Resolución de numeración vencida,3344
+2025-12,Uruguay,Detalle de tributos incompleto,2456
+2025-12,Uruguay,Firma digital inválida,2137
+2025-12,Uruguay,Otros rechazos técnicos,1441
+2026-01,Chile,NIT del adquiriente inválido,2242
+2026-01,Chile,Fecha fuera del rango permitido,1946
+2026-01,Chile,Error en cálculo de IVA,1432
+2026-01,Chile,CUFE duplicado,1348
+2026-01,Chile,Resolución de numeración vencida,1211
+2026-01,Chile,Detalle de tributos incompleto,975
+2026-01,Chile,Firma digital inválida,842
+2026-01,Chile,Otros rechazos técnicos,486
+2026-01,Colombia,NIT del adquiriente inválido,62141
+2026-01,Colombia,Fecha fuera del rango permitido,49056
+2026-01,Colombia,Error en cálculo de IVA,40067
+2026-01,Colombia,CUFE duplicado,34825
+2026-01,Colombia,Resolución de numeración vencida,29358
+2026-01,Colombia,Detalle de tributos incompleto,21531
+2026-01,Colombia,Firma digital inválida,19311
+2026-01,Colombia,Otros rechazos técnicos,11586
+2026-01,Ecuador,NIT del adquiriente inválido,12487
+2026-01,Ecuador,Fecha fuera del rango permitido,12161
+2026-01,Ecuador,Error en cálculo de IVA,8667
+2026-01,Ecuador,CUFE duplicado,7527
+2026-01,Ecuador,Resolución de numeración vencida,6902
+2026-01,Ecuador,Detalle de tributos incompleto,5693
+2026-01,Ecuador,Firma digital inválida,4271
+2026-01,Ecuador,Otros rechazos técnicos,2501
+2026-01,México,NIT del adquiriente inválido,37715
+2026-01,México,Fecha fuera del rango permitido,26135
+2026-01,México,Error en cálculo de IVA,28199
+2026-01,México,CUFE duplicado,17999
+2026-01,México,Resolución de numeración vencida,17952
+2026-01,México,Detalle de tributos incompleto,14388
+2026-01,México,Firma digital inválida,9695
+2026-01,México,Otros rechazos técnicos,9296
+2026-01,Perú,NIT del adquiriente inválido,9955
+2026-01,Perú,Fecha fuera del rango permitido,6587
+2026-01,Perú,Error en cálculo de IVA,6128
+2026-01,Perú,CUFE duplicado,4408
+2026-01,Perú,Resolución de numeración vencida,4571
+2026-01,Perú,Detalle de tributos incompleto,3447
+2026-01,Perú,Firma digital inválida,2440
+2026-01,Perú,Otros rechazos técnicos,1907
+2026-01,Uruguay,NIT del adquiriente inválido,4918
+2026-01,Uruguay,Fecha fuera del rango permitido,3774
+2026-01,Uruguay,Error en cálculo de IVA,2926
+2026-01,Uruguay,CUFE duplicado,2665
+2026-01,Uruguay,Resolución de numeración vencida,2652
+2026-01,Uruguay,Detalle de tributos incompleto,2042
+2026-01,Uruguay,Firma digital inválida,1737
+2026-01,Uruguay,Otros rechazos técnicos,1132
+2026-02,Chile,NIT del adquiriente inválido,2089
+2026-02,Chile,Fecha fuera del rango permitido,1637
+2026-02,Chile,Error en cálculo de IVA,1624
+2026-02,Chile,CUFE duplicado,1178
+2026-02,Chile,Resolución de numeración vencida,1099
+2026-02,Chile,Detalle de tributos incompleto,819
+2026-02,Chile,Firma digital inválida,718
+2026-02,Chile,Otros rechazos técnicos,442
+2026-02,Colombia,NIT del adquiriente inválido,43293
+2026-02,Colombia,Fecha fuera del rango permitido,32030
+2026-02,Colombia,Error en cálculo de IVA,31193
+2026-02,Colombia,CUFE duplicado,28602
+2026-02,Colombia,Resolución de numeración vencida,21067
+2026-02,Colombia,Detalle de tributos incompleto,19555
+2026-02,Colombia,Firma digital inválida,13807
+2026-02,Colombia,Otros rechazos técnicos,9974
+2026-02,Ecuador,NIT del adquiriente inválido,11614
+2026-02,Ecuador,Fecha fuera del rango permitido,9169
+2026-02,Ecuador,Error en cálculo de IVA,8446
+2026-02,Ecuador,CUFE duplicado,6994
+2026-02,Ecuador,Resolución de numeración vencida,6334
+2026-02,Ecuador,Detalle de tributos incompleto,5641
+2026-02,Ecuador,Firma digital inválida,3710
+2026-02,Ecuador,Otros rechazos técnicos,2929
+2026-02,México,NIT del adquiriente inválido,32776
+2026-02,México,Fecha fuera del rango permitido,23850
+2026-02,México,Error en cálculo de IVA,24347
+2026-02,México,CUFE duplicado,15739
+2026-02,México,Resolución de numeración vencida,15290
+2026-02,México,Detalle de tributos incompleto,11040
+2026-02,México,Firma digital inválida,10497
+2026-02,México,Otros rechazos técnicos,7318
+2026-02,Perú,NIT del adquiriente inválido,7118
+2026-02,Perú,Fecha fuera del rango permitido,6309
+2026-02,Perú,Error en cálculo de IVA,5062
+2026-02,Perú,CUFE duplicado,3556
+2026-02,Perú,Resolución de numeración vencida,3660
+2026-02,Perú,Detalle de tributos incompleto,2565
+2026-02,Perú,Firma digital inválida,2354
+2026-02,Perú,Otros rechazos técnicos,1398
+2026-02,Uruguay,NIT del adquiriente inválido,3351
+2026-02,Uruguay,Fecha fuera del rango permitido,3177
+2026-02,Uruguay,Error en cálculo de IVA,2727
+2026-02,Uruguay,CUFE duplicado,2655
+2026-02,Uruguay,Resolución de numeración vencida,1907
+2026-02,Uruguay,Detalle de tributos incompleto,1832
+2026-02,Uruguay,Firma digital inválida,1349
+2026-02,Uruguay,Otros rechazos técnicos,899
+2026-03,Chile,NIT del adquiriente inválido,2735
+2026-03,Chile,Fecha fuera del rango permitido,2349
+2026-03,Chile,Error en cálculo de IVA,1874
+2026-03,Chile,CUFE duplicado,1529
+2026-03,Chile,Resolución de numeración vencida,1286
+2026-03,Chile,Detalle de tributos incompleto,1173
+2026-03,Chile,Firma digital inválida,911
+2026-03,Chile,Otros rechazos técnicos,693
+2026-03,Colombia,NIT del adquiriente inválido,64352
+2026-03,Colombia,Fecha fuera del rango permitido,47210
+2026-03,Colombia,Error en cálculo de IVA,46928
+2026-03,Colombia,CUFE duplicado,33669
+2026-03,Colombia,Resolución de numeración vencida,31896
+2026-03,Colombia,Detalle de tributos incompleto,27481
+2026-03,Colombia,Firma digital inválida,23406
+2026-03,Colombia,Otros rechazos técnicos,16176
+2026-03,Ecuador,NIT del adquiriente inválido,14663
+2026-03,Ecuador,Fecha fuera del rango permitido,12421
+2026-03,Ecuador,Error en cálculo de IVA,12711
+2026-03,Ecuador,CUFE duplicado,9376
+2026-03,Ecuador,Resolución de numeración vencida,8189
+2026-03,Ecuador,Detalle de tributos incompleto,6877
+2026-03,Ecuador,Firma digital inválida,5919
+2026-03,Ecuador,Otros rechazos técnicos,4059
+2026-03,México,NIT del adquiriente inválido,48397
+2026-03,México,Fecha fuera del rango permitido,28941
+2026-03,México,Error en cálculo de IVA,31714
+2026-03,México,CUFE duplicado,23605
+2026-03,México,Resolución de numeración vencida,22409
+2026-03,México,Detalle de tributos incompleto,17338
+2026-03,México,Firma digital inválida,13366
+2026-03,México,Otros rechazos técnicos,9964
+2026-03,Perú,NIT del adquiriente inválido,9491
+2026-03,Perú,Fecha fuera del rango permitido,6811
+2026-03,Perú,Error en cálculo de IVA,5637
+2026-03,Perú,CUFE duplicado,5784
+2026-03,Perú,Resolución de numeración vencida,4546
+2026-03,Perú,Detalle de tributos incompleto,3574
+2026-03,Perú,Firma digital inválida,2577
+2026-03,Perú,Otros rechazos técnicos,2176
+2026-03,Uruguay,NIT del adquiriente inválido,5492
+2026-03,Uruguay,Fecha fuera del rango permitido,4682
+2026-03,Uruguay,Error en cálculo de IVA,3473
+2026-03,Uruguay,CUFE duplicado,3060
+2026-03,Uruguay,Resolución de numeración vencida,2790
+2026-03,Uruguay,Detalle de tributos incompleto,2221
+2026-03,Uruguay,Firma digital inválida,1956
+2026-03,Uruguay,Otros rechazos técnicos,1367
+2026-04,Chile,NIT del adquiriente inválido,3126
+2026-04,Chile,Fecha fuera del rango permitido,2495
+2026-04,Chile,Error en cálculo de IVA,2221
+2026-04,Chile,CUFE duplicado,1538
+2026-04,Chile,Resolución de numeración vencida,1301
+2026-04,Chile,Detalle de tributos incompleto,1107
+2026-04,Chile,Firma digital inválida,984
+2026-04,Chile,Otros rechazos técnicos,669
+2026-04,Colombia,NIT del adquiriente inválido,68270
+2026-04,Colombia,Fecha fuera del rango permitido,56005
+2026-04,Colombia,Error en cálculo de IVA,52315
+2026-04,Colombia,CUFE duplicado,35331
+2026-04,Colombia,Resolución de numeración vencida,38722
+2026-04,Colombia,Detalle de tributos incompleto,31465
+2026-04,Colombia,Firma digital inválida,24140
+2026-04,Colombia,Otros rechazos técnicos,16088
+2026-04,Ecuador,NIT del adquiriente inválido,14675
+2026-04,Ecuador,Fecha fuera del rango permitido,13311
+2026-04,Ecuador,Error en cálculo de IVA,9997
+2026-04,Ecuador,CUFE duplicado,9512
+2026-04,Ecuador,Resolución de numeración vencida,7195
+2026-04,Ecuador,Detalle de tributos incompleto,7587
+2026-04,Ecuador,Firma digital inválida,5777
+2026-04,Ecuador,Otros rechazos técnicos,3996
+2026-04,México,NIT del adquiriente inválido,44430
+2026-04,México,Fecha fuera del rango permitido,31389
+2026-04,México,Error en cálculo de IVA,30766
+2026-04,México,CUFE duplicado,26676
+2026-04,México,Resolución de numeración vencida,22357
+2026-04,México,Detalle de tributos incompleto,19789
+2026-04,México,Firma digital inválida,13419
+2026-04,México,Otros rechazos técnicos,9423
+2026-04,Perú,NIT del adquiriente inválido,10374
+2026-04,Perú,Fecha fuera del rango permitido,8326
+2026-04,Perú,Error en cálculo de IVA,7707
+2026-04,Perú,CUFE duplicado,5810
+2026-04,Perú,Resolución de numeración vencida,5253
+2026-04,Perú,Detalle de tributos incompleto,4788
+2026-04,Perú,Firma digital inválida,3798
+2026-04,Perú,Otros rechazos técnicos,2308
+2026-04,Uruguay,NIT del adquiriente inválido,5895
+2026-04,Uruguay,Fecha fuera del rango permitido,4003
+2026-04,Uruguay,Error en cálculo de IVA,4543
+2026-04,Uruguay,CUFE duplicado,3409
+2026-04,Uruguay,Resolución de numeración vencida,3118
+2026-04,Uruguay,Detalle de tributos incompleto,2513
+2026-04,Uruguay,Firma digital inválida,1644
+2026-04,Uruguay,Otros rechazos técnicos,1266
+2026-05,Chile,NIT del adquiriente inválido,2886
+2026-05,Chile,Fecha fuera del rango permitido,2405
+2026-05,Chile,Error en cálculo de IVA,2334
+2026-05,Chile,CUFE duplicado,1604
+2026-05,Chile,Resolución de numeración vencida,1519
+2026-05,Chile,Detalle de tributos incompleto,1480
+2026-05,Chile,Firma digital inválida,998
+2026-05,Chile,Otros rechazos técnicos,616
+2026-05,Colombia,NIT del adquiriente inválido,64488
+2026-05,Colombia,Fecha fuera del rango permitido,48965
+2026-05,Colombia,Error en cálculo de IVA,46814
+2026-05,Colombia,CUFE duplicado,30941
+2026-05,Colombia,Resolución de numeración vencida,31387
+2026-05,Colombia,Detalle de tributos incompleto,25373
+2026-05,Colombia,Firma digital inválida,20172
+2026-05,Colombia,Otros rechazos técnicos,14966
+2026-05,Ecuador,NIT del adquiriente inválido,13887
+2026-05,Ecuador,Fecha fuera del rango permitido,15128
+2026-05,Ecuador,Error en cálculo de IVA,11397
+2026-05,Ecuador,CUFE duplicado,8570
+2026-05,Ecuador,Resolución de numeración vencida,7881
+2026-05,Ecuador,Detalle de tributos incompleto,6776
+2026-05,Ecuador,Firma digital inválida,5688
+2026-05,Ecuador,Otros rechazos técnicos,3112
+2026-05,México,NIT del adquiriente inválido,39097
+2026-05,México,Fecha fuera del rango permitido,34197
+2026-05,México,Error en cálculo de IVA,28971
+2026-05,México,CUFE duplicado,22491
+2026-05,México,Resolución de numeración vencida,25512
+2026-05,México,Detalle de tributos incompleto,16744
+2026-05,México,Firma digital inválida,14383
+2026-05,México,Otros rechazos técnicos,9185
+2026-05,Perú,NIT del adquiriente inválido,9257
+2026-05,Perú,Fecha fuera del rango permitido,6605
+2026-05,Perú,Error en cálculo de IVA,6869
+2026-05,Perú,CUFE duplicado,5628
+2026-05,Perú,Resolución de numeración vencida,5239
+2026-05,Perú,Detalle de tributos incompleto,3900
+2026-05,Perú,Firma digital inválida,3038
+2026-05,Perú,Otros rechazos técnicos,1986
+2026-05,Uruguay,NIT del adquiriente inválido,5306
+2026-05,Uruguay,Fecha fuera del rango permitido,4286
+2026-05,Uruguay,Error en cálculo de IVA,4317
+2026-05,Uruguay,CUFE duplicado,2914
+2026-05,Uruguay,Resolución de numeración vencida,2599
+2026-05,Uruguay,Detalle de tributos incompleto,1819
+2026-05,Uruguay,Firma digital inválida,1935
+2026-05,Uruguay,Otros rechazos técnicos,1225
+2026-06,Chile,NIT del adquiriente inválido,3182
+2026-06,Chile,Fecha fuera del rango permitido,2039
+2026-06,Chile,Error en cálculo de IVA,2075
+2026-06,Chile,CUFE duplicado,1557
+2026-06,Chile,Resolución de numeración vencida,1528
+2026-06,Chile,Detalle de tributos incompleto,1220
+2026-06,Chile,Firma digital inválida,1155
+2026-06,Chile,Otros rechazos técnicos,727
+2026-06,Colombia,NIT del adquiriente inválido,60578
+2026-06,Colombia,Fecha fuera del rango permitido,56874
+2026-06,Colombia,Error en cálculo de IVA,48834
+2026-06,Colombia,CUFE duplicado,39267
+2026-06,Colombia,Resolución de numeración vencida,31010
+2026-06,Colombia,Detalle de tributos incompleto,24204
+2026-06,Colombia,Firma digital inválida,16508
+2026-06,Colombia,Otros rechazos técnicos,15650
+2026-06,Ecuador,NIT del adquiriente inválido,17290
+2026-06,Ecuador,Fecha fuera del rango permitido,12481
+2026-06,Ecuador,Error en cálculo de IVA,11394
+2026-06,Ecuador,CUFE duplicado,9121
+2026-06,Ecuador,Resolución de numeración vencida,8265
+2026-06,Ecuador,Detalle de tributos incompleto,6136
+2026-06,Ecuador,Firma digital inválida,4730
+2026-06,Ecuador,Otros rechazos técnicos,3153
+2026-06,México,NIT del adquiriente inválido,40671
+2026-06,México,Fecha fuera del rango permitido,27793
+2026-06,México,Error en cálculo de IVA,27838
+2026-06,México,CUFE duplicado,24106
+2026-06,México,Resolución de numeración vencida,19978
+2026-06,México,Detalle de tributos incompleto,18569
+2026-06,México,Firma digital inválida,14847
+2026-06,México,Otros rechazos técnicos,11716
+2026-06,Perú,NIT del adquiriente inválido,8918
+2026-06,Perú,Fecha fuera del rango permitido,7156
+2026-06,Perú,Error en cálculo de IVA,5931
+2026-06,Perú,CUFE duplicado,5656
+2026-06,Perú,Resolución de numeración vencida,5144
+2026-06,Perú,Detalle de tributos incompleto,3910
+2026-06,Perú,Firma digital inválida,3301
+2026-06,Perú,Otros rechazos técnicos,2083
+2026-06,Uruguay,NIT del adquiriente inválido,5310
+2026-06,Uruguay,Fecha fuera del rango permitido,3901
+2026-06,Uruguay,Error en cálculo de IVA,3921
+2026-06,Uruguay,CUFE duplicado,2850
+2026-06,Uruguay,Resolución de numeración vencida,2782
+2026-06,Uruguay,Detalle de tributos incompleto,2139
+2026-06,Uruguay,Firma digital inválida,1724
+2026-06,Uruguay,Otros rechazos técnicos,1110
+2026-07,Chile,NIT del adquiriente inválido,3149
+2026-07,Chile,Fecha fuera del rango permitido,3043
+2026-07,Chile,Error en cálculo de IVA,2620
+2026-07,Chile,CUFE duplicado,1794
+2026-07,Chile,Resolución de numeración vencida,1689
+2026-07,Chile,Detalle de tributos incompleto,1122
+2026-07,Chile,Firma digital inválida,1108
+2026-07,Chile,Otros rechazos técnicos,756
+2026-07,Colombia,NIT del adquiriente inválido,70950
+2026-07,Colombia,Fecha fuera del rango permitido,56009
+2026-07,Colombia,Error en cálculo de IVA,46029
+2026-07,Colombia,CUFE duplicado,42625
+2026-07,Colombia,Resolución de numeración vencida,45174
+2026-07,Colombia,Detalle de tributos incompleto,32178
+2026-07,Colombia,Firma digital inválida,22721
+2026-07,Colombia,Otros rechazos técnicos,16374
+2026-07,Ecuador,NIT del adquiriente inválido,16714
+2026-07,Ecuador,Fecha fuera del rango permitido,11513
+2026-07,Ecuador,Error en cálculo de IVA,13916
+2026-07,Ecuador,CUFE duplicado,10256
+2026-07,Ecuador,Resolución de numeración vencida,7818
+2026-07,Ecuador,Detalle de tributos incompleto,8077
+2026-07,Ecuador,Firma digital inválida,5834
+2026-07,Ecuador,Otros rechazos técnicos,3992
+2026-07,México,NIT del adquiriente inválido,50119
+2026-07,México,Fecha fuera del rango permitido,34321
+2026-07,México,Error en cálculo de IVA,29017
+2026-07,México,CUFE duplicado,30164
+2026-07,México,Resolución de numeración vencida,26383
+2026-07,México,Detalle de tributos incompleto,16026
+2026-07,México,Firma digital inválida,14534
+2026-07,México,Otros rechazos técnicos,10341
+2026-07,Perú,NIT del adquiriente inválido,10959
+2026-07,Perú,Fecha fuera del rango permitido,7413
+2026-07,Perú,Error en cálculo de IVA,7214
+2026-07,Perú,CUFE duplicado,6814
+2026-07,Perú,Resolución de numeración vencida,5003
+2026-07,Perú,Detalle de tributos incompleto,3056
+2026-07,Perú,Firma digital inválida,2958
+2026-07,Perú,Otros rechazos técnicos,2529
+2026-07,Uruguay,NIT del adquiriente inválido,5904
+2026-07,Uruguay,Fecha fuera del rango permitido,4884
+2026-07,Uruguay,Error en cálculo de IVA,3892
+2026-07,Uruguay,CUFE duplicado,3267
+2026-07,Uruguay,Resolución de numeración vencida,2821
+2026-07,Uruguay,Detalle de tributos incompleto,2168
+2026-07,Uruguay,Firma digital inválida,1949
+2026-07,Uruguay,Otros rechazos técnicos,1289
+2026-08,Chile,NIT del adquiriente inválido,3685
+2026-08,Chile,Fecha fuera del rango permitido,2535
+2026-08,Chile,Error en cálculo de IVA,2278
+2026-08,Chile,CUFE duplicado,1588
+2026-08,Chile,Resolución de numeración vencida,1574
+2026-08,Chile,Detalle de tributos incompleto,1170
+2026-08,Chile,Firma digital inválida,1102
+2026-08,Chile,Otros rechazos técnicos,691
+2026-08,Colombia,NIT del adquiriente inválido,55956
+2026-08,Colombia,Fecha fuera del rango permitido,56177
+2026-08,Colombia,Error en cálculo de IVA,52091
+2026-08,Colombia,CUFE duplicado,31814
+2026-08,Colombia,Resolución de numeración vencida,35595
+2026-08,Colombia,Detalle de tributos incompleto,28006
+2026-08,Colombia,Firma digital inválida,19663
+2026-08,Colombia,Otros rechazos técnicos,15400
+2026-08,Ecuador,NIT del adquiriente inválido,18690
+2026-08,Ecuador,Fecha fuera del rango permitido,12057
+2026-08,Ecuador,Error en cálculo de IVA,9668
+2026-08,Ecuador,CUFE duplicado,9062
+2026-08,Ecuador,Resolución de numeración vencida,7513
+2026-08,Ecuador,Detalle de tributos incompleto,6511
+2026-08,Ecuador,Firma digital inválida,4803
+2026-08,Ecuador,Otros rechazos técnicos,3747
+2026-08,México,NIT del adquiriente inválido,34609
+2026-08,México,Fecha fuera del rango permitido,32440
+2026-08,México,Error en cálculo de IVA,31521
+2026-08,México,CUFE duplicado,24221
+2026-08,México,Resolución de numeración vencida,20094
+2026-08,México,Detalle de tributos incompleto,17396
+2026-08,México,Firma digital inválida,14186
+2026-08,México,Otros rechazos técnicos,9609
+2026-08,Perú,NIT del adquiriente inválido,10186
+2026-08,Perú,Fecha fuera del rango permitido,7908
+2026-08,Perú,Error en cálculo de IVA,7291
+2026-08,Perú,CUFE duplicado,4508
+2026-08,Perú,Resolución de numeración vencida,4097
+2026-08,Perú,Detalle de tributos incompleto,3341
+2026-08,Perú,Firma digital inválida,3246
+2026-08,Perú,Otros rechazos técnicos,2210
+2026-08,Uruguay,NIT del adquiriente inválido,5699
+2026-08,Uruguay,Fecha fuera del rango permitido,4674
+2026-08,Uruguay,Error en cálculo de IVA,4050
+2026-08,Uruguay,CUFE duplicado,2855
+2026-08,Uruguay,Resolución de numeración vencida,2988
+2026-08,Uruguay,Detalle de tributos incompleto,1760
+2026-08,Uruguay,Firma digital inválida,1587
+2026-08,Uruguay,Otros rechazos técnicos,1310
